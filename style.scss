@@ -30,6 +30,17 @@ body {
   width: 100%;
 }
 
+a {
+  color: $darkGray;
+  text-decoration: underline;
+  text-decoration-skip: ink;
+  text-decoration-color: $lightBlue;
+
+  &:hover, &:active {
+    background:$lighterBlue;
+  }
+}
+
 h1, h2, h3, h4, h5, h6 {
   font-family: $title;
   color: $darkerGray;
@@ -47,7 +58,8 @@ h1, h2, h3, h4, h5, h6 {
 h1 {
   font-size: 30px;
   a {
-    color: inherit;
+    text-align: right;
+    font-weight: 300;
   }
 }
 
@@ -217,20 +229,15 @@ nav {
 
   a {
     margin-left: 20px;
-    color: $darkGray;
     text-align: right;
     font-weight: 300;
-    text-decoration: none;
 
     @include mobile {
       margin: 0 10px;
       color: $darkGray;
     }
-
-    &:hover, &:active {
-      background:$lightGray;
-    }
   }
+
 }
 
 //
@@ -240,10 +247,6 @@ nav {
 #main{
   a {
     color: $darkerGray;
-    cursor: pointer;
-    text-decoration: underline;
-    text-decoration-skip: ink;
-    text-decoration-color: $lightBlue;
     &:hover, &:active {
       color:$darkGray;
       background:$lighterBlue;

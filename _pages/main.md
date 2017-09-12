@@ -7,7 +7,7 @@ permalink: /
 
 I'm a  MSc student in Computer Science at [Universidade Federal de Minas Gerais][dcc], Brazil. My current research interests lay in the intersection of machine learning and information networks. I'm particularly interested in:
 
-- The dynamics and the classification of undersirable behaviour, such as *hate speech* and *fake news* in online social networks. 
+- The dynamics and the classification of undesirable behaviour, such as *hate speech* and *fake news* in online social networks. 
 
 - Building models that take contextual features (ties, demographic attributes, etc) to classify content in networks (and vice-versa). 
 
