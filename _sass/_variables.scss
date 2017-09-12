@@ -3,10 +3,12 @@
 // VARIABLES
 //
 
+@import url('https://fonts.googleapis.com/css?family=Libre+Baskerville|Lora');
+
 // Colors
 $blue: #4183C4;
-
-// Grays
+$lightBlue: #69abec;
+$lighterBlue: #e6e6ff;
 $black: #000;
 $darkerGray: #222;
 $darkGray: #333;
@@ -15,9 +17,10 @@ $lightGray: #eee;
 $white: #fff;
 
 // Font stacks
-$helvetica: Helvetica, Arial, sans-serif;
-$helveticaNeue: "Helvetica Neue", Helvetica, Arial, sans-serif;
-$georgia: Georgia, serif;
+$body: 'Libre Baskerville', serif;
+$title: 'Lora', serif;
+
+$georgia: 'Lora', serif;
 
 // Mobile breakpoints
 @mixin mobile {
