@@ -1,0 +1,35 @@
+.authors {
+    font-size: 8px;
+}
+
+.conference {
+	font-size: 8px;
+}
+
+.source {
+	font-size: 12px;
+}
+
+.papertitle{
+	font-size: 14px;
+}
+
+.titlebox{
+    float:left;
+    padding: 0px;
+    margin:-19px 0 0 10px;
+    background:#fff;
+    font-size: 12px;
+
+}
+
+.paper{
+    width: 700px;
+    height: auto;
+    margin: 10px auto;
+    padding: 2.5px 5px 2.5px 5px;
+    position: relative;
+    border: 1px solid $lightGray;
+    line-height: 90%;
+
+ }
