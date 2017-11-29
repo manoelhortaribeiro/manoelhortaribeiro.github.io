@@ -12,7 +12,9 @@ tags:
 As the machine learning community creates increasingly complex models and pervases areas of societal impact, we are struck with the problem of understanding decisions made by machine learning models without sacrificing their accuracy.
 
 This blogpost contains some experiments with the concept of a local explainer, as presented by Ribeiro et. al in 
-*["Why Should I Trust You":Explainining the Predictions of Any Classifier](https://arxiv.org/abs/1602.04938)*. We explore the role of locality in the results with some toy examples, attempting to help answering the question: *How can we be sure we can trust a local explainer?*
+*["Why Should I Trust You":Explainining the Predictions of Any Classifier](https://arxiv.org/abs/1602.04938)*, whose complete code can be found [here](https://github.com/manoelhortaribeiro/RLE).
+
+. We explore the role of locality in the results with some toy examples, attempting to help answering the question: *How can we be sure we can trust a local explainer?*
 
 The local explainers, as implemented in *[LIME](https://github.com/marcotcr/lime)* work in the following fashion. Given a decision *d*, a global model *M* we want to explain and a local model *M'* we want to use locally, we:
 
@@ -148,4 +150,4 @@ This can provide us with insight like the image bellow. We can get two different
 
  ![](https://raw.githubusercontent.com/manelhr/RLE/master/tests/imgs/_test_logistic_regression_robust_explanation_3.png)
 
- The *few* experiments I did with this kind of idea can be found [here](https://github.com/manoelhortaribeiro/RLE), but you should probably juump straight to the source and go to [LIME's repository](https://github.com/marcotcr/lime).
+
