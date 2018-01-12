@@ -70,6 +70,5 @@ Our approach was the following:
 
 5. The final result was a sample of 4,972 users, alongside their 200 tweets. Notice that this actually represents approximately 964 thousand tweets! Which is quite a significant sample.
 
-![](https://cdn-images-1.medium.com/max/1000/1*-JR_yDuRfByKB4RTW1al3w.png)
 ![]({{ site.baseurl }}/images/2018-01-12-Exploring-User-Centered/users.png)
 
