@@ -148,3 +148,7 @@ Another intriguing finding came from lexical comparison between tweets posted by
 Following on the idea that detecting hateful accounts is easier than classifying hateful content, we would like to develop mechanisms for the automated detection of Hate Speech in Online Social Networks based on this paradigm. Our future goal is to develop techniques that will help content moderator teams to flag Hate Speech, in such a way as to assist them quickly identify and take the necessary measures against hateful profiles. In that sense, we intend to develop human-machine collaboration-based techniques for detecting Hate Speech in different environments.
 
 Another interesting direction is to work on the dimension of consensus, most approaches towards the moderation of hate speech are centered around regulatory entities (often the own Online Social Network). However, well designed systems may use the wisdom of the crowd (even polarized crowds) to curate the content in a decentralized and efficient fashion, as is the case with Wikipedia. Creating mechanisms that allow the community itself to moderate the content in Online Social Networks would be a great step towards a better and safer web.
+
+---
+
+*For more on hate speech [check out our paper on arxiv](https://arxiv.org/pdf/1801.00317.pdf). This work will be presented at the MIS2 workshop @ WSDM’2018.*
