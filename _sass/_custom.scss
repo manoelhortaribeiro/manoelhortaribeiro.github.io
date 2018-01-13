@@ -6,9 +6,6 @@
 	font-size: 8px;
 }
 
-.source {
-	font-size: 12px;
-}
 
 .papertitle{
 	font-size: 14px;
@@ -20,19 +17,39 @@
     margin:-19px 0 0 10px;
     background:#fff;
     font-size: 12px;
-
 }
 
 .paper{
     width: 80%;
     height: auto;
     margin: 10px auto;
-    padding: 2.5px 5px 2.5px 5px;
+    padding: 1px;
     position: relative;
     border: 1px solid $lightGray;
     line-height: 90%;
-
  }
+
+.paper p {
+    padding: 0px;
+    margin: 0px;
+
+}
+
+.category{
+    float:right;
+    padding: 0px;
+    margin:-10px 0 0 0px;
+    background:#fff;
+    font-size: 10px;
+    color: $blue;
+}
+
+.source{
+    font-size: 12px;
+    padding: 0;
+    margin: 0;
+}
+
 
 
 sub {
