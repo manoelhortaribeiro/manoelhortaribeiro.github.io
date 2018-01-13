@@ -4,14 +4,11 @@ title:
 permalink: /publications
 ---
 
-
-
-
 <hr />
 <div class="titlebox">masters</div>
 
 <div class="paper" markdown="1">
-<span class="papertitle">**"Like Sheep Among Wolves": Characterizing Hateful Users on Twitter}* </span> <br />
+<span class="papertitle">**"Like Sheep Among Wolves": Characterizing Hateful Users on Twitter** </span> <br />
 <span class="authors">**Manoel Horta Ribeiro**, Yuri A Santos, Pedro H Calais, Virgílio AF Almeida, Wagner Meira Jr </span> <br />
 <span class="conference">To be presented @ MIS2 Worshop, WSDM'18</span> <br />
 <span class="source">[source](https://arxiv.org/pdf/1801.00317.pdf)</span>
@@ -21,7 +18,7 @@ permalink: /publications
 <span class="papertitle">**“Everything I Disagree With is #FakeNews”: Correlating Political Polarization and Spread of Misinformation** </span> <br />
 <span class="authors">**Manoel Horta Ribeiro**, Pedro H Calais, Virgílio AF Almeida, Wagner Meira Jr </span> <br />
 <span class="conference">Presented @ DS+J Worshop, KDD'17</span> <br />
-<span class="source">[source](https://arxiv.org/pdf/1706.05924.pdf)</span>
+<span class="source">[source](https://arxiv.org/pdf/1706.05924.pdf)  - [code](https://github.com/manoelhortaribeiro/AbusiveUsersOSNs)</span>
 </div>
 
 <hr />
