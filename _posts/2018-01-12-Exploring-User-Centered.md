@@ -72,7 +72,8 @@ Our approach was the following:
 5. The final result was a sample of 4,972 users, alongside their 200 tweets. Notice that this actually represents approximately 964 thousand tweets! Which is quite a significant sample.
 
 ![]({{ site.baseurl }}/images/2018-01-12-Exploring-User-Centered/users.png)
-**Figure 1.** Network of 100,386 user accounts from Twitter. Shades of red depict the closeness of an user to others who employed words in our selected lexicon.
+
+<sub>**Figure 1.** Network of 100,386 user accounts from Twitter. Shades of red depict the closeness of an user to others who employed words in our selected lexicon.</sub>
 
 Then, we used *Crowdflower’s*, a service to crowdsource tasks to human annotators, to classify those users as “hateful” or “not hateful”. Each annotator was given a link to the webpage of a Twitter’s user profile (selected among the 4,972 previously selected) containing the 200 tweets that were collected. They were asked:
 
@@ -96,7 +97,8 @@ A general hatred towards females — often blaming them for economical and p
 An interesting detail is that several of the accounts annotators considered to be hateful had the following image of a cartooned frog — a variation of the infamous Pepe — as a profile picture. The pictures where often customized, including different sets of clothes and facial hair — often alluding to some historical/political character.
 
 ![]({{ site.baseurl }}/images/2018-01-12-Exploring-User-Centered/groyper.png)
-**Figure 2.** “Groyper”, an illustration of Pepe the Frog which was present in several profiles considered to be hateful by annotators, often in some variation.
+
+<sub>**Figure 2.** “Groyper”, an illustration of Pepe the Frog which was present in several profiles considered to be hateful by annotators, often in some variation.</sub>
 
 Among users that weren’t considered to be hateful by annotators, we highlight instances of anti-immigration stances:
 
@@ -119,6 +121,7 @@ In addition, since we have the entire network, as depicted in Figure 1, we also 
 As we will see soon, it is often the case. Additionally, due to homophily, we argue for the robustness of our results, as they are often observed not only in our limited (although significant) annotated sample, but also in the neighborhood of this sample, which is likely to share characteristics as birds of a feather flock together in social networks of all kinds.
 
 ![]({{ site.baseurl }}/images/2018-01-12-Exploring-User-Centered/power_users.png)
-**Figure 3.** Average values for several activity-related statistics for hateful users, normal users, and users in the neighborhood of those. avg(interval) was calculated on the 200 tweets extracted for each user. Error bars represent 95% confidence intervals.
+
+<sub>**Figure 3.** Average values for several activity-related statistics for hateful users, normal users, and users in the neighborhood of those. avg(interval) was calculated on the 200 tweets extracted for each user. Error bars represent 95% confidence intervals.</sub>
 
 We find that hateful users are *power users*, as depicted in **Figure 3**. They are posts more statuses per day, follow more people per day, favorite more tweets per day and tweet in shorter intervals. However they get, in average, significantly less followers each day. Notice that the same analysis holds if we compare their neighborhood in the graph (the users who retweeted the hateful users)! This suggests strong homophily, or in other words, that the users who retweet hateful users are pretty similar to hateful users themselves!
