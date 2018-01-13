@@ -14,6 +14,8 @@ Yuri A. Santos ([@santosyurial](https://twitter.com/santosyurial)),
 Manoel Horta Ribeiro ([@manoelribeiro]((https://twitter.com/santosyurial))),
 this text was originally published at Medium, and you can read it [here](https://medium.com/@hmpig.dcc/exploring-user-centered-approaches-to-understand-hate-speech-online-19c26b3e3725).
 
+---
+
 ## What is the matter with Hate Speech and Online Social Networks?
 
 The advent of Online Social Networks has deeply transformed the way people communicate with each other in the contemporary world. Some of these platforms are very popular and aggregate millions of users that, on a daily basis, generate and publish a massive (and growing) amount of data, and even though much of the content produced every day consists of funny and interesting cat videos, some of it is not so cute. This would be the case of *Hate Speech*.
@@ -125,3 +127,24 @@ As we will see soon, it is often the case. Additionally, due to homophily, we ar
 <sub>**Figure 3.** Average values for several activity-related statistics for hateful users, normal users, and users in the neighborhood of those. avg(interval) was calculated on the 200 tweets extracted for each user. Error bars represent 95% confidence intervals.</sub>
 
 We find that hateful users are *power users*, as depicted in **Figure 3**. They are posts more statuses per day, follow more people per day, favorite more tweets per day and tweet in shorter intervals. However they get, in average, significantly less followers each day. Notice that the same analysis holds if we compare their neighborhood in the graph (the users who retweeted the hateful users)! This suggests strong homophily, or in other words, that the users who retweet hateful users are pretty similar to hateful users themselves!
+
+![]({{ site.baseurl }}/images/2018-01-12-Exploring-User-Centered/median_values.png)
+
+<sub>**Figure 4.** Median values for network centrality measures that capture the importance a user account has in the network of tweets. Hateful users are not in the periphery of the network.</sub>
+
+
+Furthermore, another aspect we want to analyze is how important these users are! In Network Analysis, we have a set of metrics used for that purpose that we call “network centrality” metrics. They measure how important a node is in a network — using intuitions such as, is this node close to all other nodes in the network. When we analyzed such commonly-used measures of network centrality, we found that the median hateful user and hateful neighbor are more central in the network than their normal counterparts. This is a quite counter intuitive finding, considering that hateful users are usually seen as “lone wolves” and anti-social people. This is depicted in **Figure 4**.
+
+![]({{ site.baseurl }}/images/2018-01-12-Exploring-User-Centered/lexicon.png)
+
+<sub>**Figure 5.** Lexical analysis results using EMPATH. The idea here is to see how prevalent are words in determined categories (work, love, shame, politics, etc) in tweets by hateful accounts, normal accounts and their neighborhoods in the influence network.</sub>
+
+Another intriguing finding came from lexical comparison between tweets posted by hateful users and their neighborhood and those posted by normal users and their neighborhood. Our results suggest that the first ones uses less words related to hate, anger, shame, terrorism, violence and sadness, contradicting what common sense may actually think happens when it comes to Hate Speech. Perhaps even more intriguingly, hateful users’ and their neighbor users’ tweets are more associated with the feeling of love than those of normal users, according to our lexical analysis. This results, presented in **Figure 5**, show how important it is to develop detection mechanisms that don’t rely solely on vocabulary. Some hypothesis our group came up for this is that the use of code-words and images play a strong role in the activity of these users.
+
+---
+
+## What is next
+
+Following on the idea that detecting hateful accounts is easier than classifying hateful content, we would like to develop mechanisms for the automated detection of Hate Speech in Online Social Networks based on this paradigm. Our future goal is to develop techniques that will help content moderator teams to flag Hate Speech, in such a way as to assist them quickly identify and take the necessary measures against hateful profiles. In that sense, we intend to develop human-machine collaboration-based techniques for detecting Hate Speech in different environments.
+
+Another interesting direction is to work on the dimension of consensus, most approaches towards the moderation of hate speech are centered around regulatory entities (often the own Online Social Network). However, well designed systems may use the wisdom of the crowd (even polarized crowds) to curate the content in a decentralized and efficient fashion, as is the case with Wikipedia. Creating mechanisms that allow the community itself to moderate the content in Online Social Networks would be a great step towards a better and safer web.

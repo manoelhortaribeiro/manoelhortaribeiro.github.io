@@ -98,7 +98,7 @@ Depicting is as easy as:
 Check for yourself an example of an explanation using our simple depicter:
 
 
-![](https://raw.githubusercontent.com/manelhr/RLE/master/tests/imgs/_depicter.png){: width="30%" .center-image}
+![](https://raw.githubusercontent.com/manelhr/RLE/master/tests/imgs/_depicter.png){: width="30%"}
 
 ### Explanations
 
