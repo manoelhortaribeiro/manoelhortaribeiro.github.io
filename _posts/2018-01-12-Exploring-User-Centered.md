@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Exploring User-Centered Approaches to Understand Hate Speech Online'
-date: 2017-07-10
+date: 2018-01-12
 permalink: /posts/2018/01/exploring-user-hate-speech/
 tags:
   - machine learning
@@ -11,7 +11,8 @@ tags:
 
 
 Yuri A. Santos ([@santosyurial](https://twitter.com/santosyurial)), 
-Manoel Horta Ribeiro ([@manoelribeiro]((https://twitter.com/santosyurial))).
+Manoel Horta Ribeiro ([@manoelribeiro]((https://twitter.com/santosyurial))),
+this text was originally published at Medium, and you can read it [here](https://medium.com/@hmpig.dcc/exploring-user-centered-approaches-to-understand-hate-speech-online-19c26b3e3725).
 
 ## What is the matter with Hate Speech and Online Social Networks?
 
@@ -62,13 +63,62 @@ Our approach was the following:
 
 1. We chose Twitter as the platform to conduct our research and Twitter’s own [Hateful Conduct Policy](https://help.twitter.com/rules-and-policies/hateful-conduct-policy) as our source of a Hate Speech definition.
 
-2. Then, we ran an algorithm to randomly collect data from 100,386 accounts, including their last 200 tweets, using Twitter’s API (Application Programming Interface). Notice that as some users have less than 200 tweets, so in total we have 19,536,788 tweets (approximately 194 tweets per person). We also collect the interactions between these accounts, keeping track on how they retweeted each other, as depicted in **Figure 1**.
+2. Then, we ran an algorithm to randomly collect data from 100,386 from english speaking accounts, including their last 200 tweets, using Twitter’s API (Application Programming Interface). Notice that as some users have less than 200 tweets, so in total we have 19,536,788 tweets (approximately 194 tweets per person). We also collect the interactions between these accounts, keeping track on how they retweeted each other, as depicted in **Figure 1.
 
 3. Initially, we identified accounts that used words or expressions that are very unlikely to be used in a context that does not characterize Hate Speech, like holohoax, racial treason and white genocide. Such words and expressions were chosen from two widely recognized databases in the literature ([Hatebase.org](https://www.hatebase.org/) and [ADL’s hate symbol database](https://www.adl.org/education/references/hate-symbols)).
 
-4. Then we collected the users nearby these hate-related lexicon. The nearby part is specially important, as we do not want to limit our sample only to accounts that specifically tweeted the chosen hateful words, as they are more likely to be labeled as Hate Speech spreaders. We needed a diverse sample, because we didn’t want to be restricted to vocabulary that can be obviously characterized as hateful.
+4. Then we collected the users *nearby* these hate-related lexicon. The nearby part is specially important, as we do not want to limit our sample only to accounts that specifically tweeted the chosen hateful words, as they are more likely to be labeled as Hate Speech spreaders. We needed a diverse sample, because we didn’t want to be restricted to vocabulary that can be obviously characterized as hateful. *Note: More technically, we find these nearby users by using something called a diffusion model, where we define a mathematical process through which users “influence” their neighborhood, so you become a bit more “nearby” to the users you retweeted, and if they happen to have used one of the words in our lexicon, you get up a bit of it for yourself. This is better explained in the original paper.*
 
 5. The final result was a sample of 4,972 users, alongside their 200 tweets. Notice that this actually represents approximately 964 thousand tweets! Which is quite a significant sample.
 
 ![]({{ site.baseurl }}/images/2018-01-12-Exploring-User-Centered/users.png)
+**Figure 1.** Network of 100,386 user accounts from Twitter. Shades of red depict the closeness of an user to others who employed words in our selected lexicon.
 
+Then, we used *Crowdflower’s*, a service to crowdsource tasks to human annotators, to classify those users as “hateful” or “not hateful”. Each annotator was given a link to the webpage of a Twitter’s user profile (selected among the 4,972 previously selected) containing the 200 tweets that were collected. They were asked:
+
+
+> Does this account endorse content that is humiliating, derogatory or insulting towards some group of individuals (gender, religion, race, nationality) or support narratives associated with hate groups (white genocide, holocaust denial, jewish conspiracy, racial superiority)?
+
+They were also asked to consider the whole context of the webpage rather then only individual publications or isolate words. As a result, annotators classified 544 out of 4,972 users as hateful.
+
+Some examples of tweets by users considered to be hateful include antisemitism, where the use of echoes is a reference to jews (notice that the phrases were slightly modified for anonymity):
+
+> Our (((enemies))) have used drugs, alcohol, porn, bad food and degenerate culture to enslave us. How do we win? Stop consuming their garbage.
+
+Racism and racial segregation — often in the narrative of ethnostates, made “mainstream” by white supremacists like Richard Spencer:
+
+> I agree 100%. Stop the hate. Let’s separate. Each race can have its own ethnostates (whites, blacks, mestizos, etc)
+
+A general hatred towards females — often blaming them for economical and political problems:
+
+> There Are 2.6 Million Ukrainian Refugees, how much do you want to bet those women with the ""welcome"" signs would protest them coming here?
+
+An interesting detail is that several of the accounts annotators considered to be hateful had the following image of a cartooned frog — a variation of the infamous Pepe — as a profile picture. The pictures where often customized, including different sets of clothes and facial hair — often alluding to some historical/political character.
+
+![]({{ site.baseurl }}/images/2018-01-12-Exploring-User-Centered/groyper.png)
+**Figure 2.** “Groyper”, an illustration of Pepe the Frog which was present in several profiles considered to be hateful by annotators, often in some variation.
+
+Among users that weren’t considered to be hateful by annotators, we highlight instances of anti-immigration stances:
+
+> The Danes must be pleased, it shall boost their commitment to diversity & multi-culturalism. Just like the Swedes next door: misguided.
+
+And also foul language/offenses:
+
+> For real? Seriously? I am speechless! You will really? Dumb stupid bitch. (image of pro-immigration woman holding a banner)
+
+---
+
+## Initial Findings
+
+After isolating the final sample of 544 hateful accounts, we tried to characterize them, in contrast with “normal” accounts. What we wanted was to see if there are any singularities when it comes to their network activity and language.
+
+In addition, since we have the entire network, as depicted in Figure 1, we also look at the neighborhood of the users who were considered hateful — notice that, in practice, this means looking at users who retweeted hateful or normal users. The idea behind this is to understand the locality of the characteristics we analyze for hateful and normal users:
+
+> given a certain characteristic, are hateful and normal users inserted in neighborhoods of the network where this characteristic is prevalent?
+
+As we will see soon, it is often the case. Additionally, due to homophily, we argue for the robustness of our results, as they are often observed not only in our limited (although significant) annotated sample, but also in the neighborhood of this sample, which is likely to share characteristics as birds of a feather flock together in social networks of all kinds.
+
+![]({{ site.baseurl }}/images/2018-01-12-Exploring-User-Centered/power_users.png)
+**Figure 3.** Average values for several activity-related statistics for hateful users, normal users, and users in the neighborhood of those. avg(interval) was calculated on the 200 tweets extracted for each user. Error bars represent 95% confidence intervals.
+
+We find that hateful users are *power users*, as depicted in **Figure 3**. They are posts more statuses per day, follow more people per day, favorite more tweets per day and tweet in shorter intervals. However they get, in average, significantly less followers each day. Notice that the same analysis holds if we compare their neighborhood in the graph (the users who retweeted the hateful users)! This suggests strong homophily, or in other words, that the users who retweet hateful users are pretty similar to hateful users themselves!
