@@ -6,7 +6,6 @@
 	font-size: 8px;
 }
 
-
 .papertitle{
 	font-size: 14px;
 }
@@ -29,6 +28,30 @@
     line-height: 90%;
  }
 
+.news{
+    display: table;
+}
+
+.table_cell{
+    display: table-cell;
+    padding: 5px;
+    width: 50%;
+    height: auto;
+    top: 0px;
+    line-height: 90%;
+ }
+
+.table_cell_header{
+    float:left;
+    padding: 0px;
+    margin:-10px 0 0 0px;
+    background:#fff;
+    font-size: 14px;
+    color: $blue;
+}
+
+
+
 .paper p {
     padding: 0px;
     margin: 0px;
@@ -49,8 +72,6 @@
     padding: 0;
     margin: 0;
 }
-
-
 
 sub {
     font-size: 10px;

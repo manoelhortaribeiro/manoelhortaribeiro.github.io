@@ -20,6 +20,39 @@ On the industry side I have interned as a software developer at [Microsoft Resea
 in Melbourne (where I was an exchange student at [University of Melbourne][unimelb]), and worked on [SweetZpot][sweetzpot], 
 a norwegian-based IoT startup that produces sports sensors. 
 
+---
+
+<div class="news" markdown="1">
+
+<div class="table_cell" markdown="1">
+<div class="table_cell_header">Recent Publications</div>
+
+<span class="papertitle">
+&clubs; "Like Sheep Among Wolves": Characterizing Hateful Users on Twitter 
+</span>
+<span class="source">
+([source](https://arxiv.org/pdf/1801.00317.pdf) - [code](https://github.com/manoelhortaribeiro/AbusiveUsersOSNs) - [data](https://www.kaggle.com/manoelribeiro/hateful-users-on-twitter))</span>
+<br /> 
+<br />
+<span class="papertitle">
+&diams; “Everything I Disagree With is #FakeNews”: Correlating Political Polarization and Spread of Misinformation 
+</span> 
+<span class="source">([source](https://arxiv.org/pdf/1706.05924.pdf)) </span>
+
+</div>
+
+<div class="table_cell" markdown="1">
+<div class="table_cell_header">Other Stuff</div>
+
+<span class="papertitle">
+&hearts; Check out [our text at Medium](https://medium.com/@hmpig.dcc/exploring-user-centered-approaches-to-understand-hate-speech-online-19c26b3e3725) about our research on Hate Speech </span>
+<br /> 
+<br />
+<span class="papertitle">
+&spades; Check out our [my presentation on Polarization and FakeNews at the DS+J workshop](https://www.youtube.com/watch?v=1z7EINnN11I) at KDD'17</span>
+</div>
+</div>
+
 [meira]: http://homepages.dcc.ufmg.br/~meira/
 [mari]: https://www.kreftregisteret.no/en/Research/Scientist-at-the-Cancer-registry/Mari-Nygard/
 [sagar]: https://www.simula.no/people/sagar

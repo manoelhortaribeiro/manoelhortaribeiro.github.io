@@ -12,7 +12,7 @@ permalink: /publications
 <span class="papertitle">**"Like Sheep Among Wolves": Characterizing Hateful Users on Twitter** </span> <br />
 <span class="authors">**Manoel Horta Ribeiro**, Yuri A Santos, Pedro H Calais, Virgílio AF Almeida, Wagner Meira Jr </span> <br />
 <span class="conference">To be presented @ MIS2 Worshop, WSDM'18</span> <br />
-<span class="source">[source](https://arxiv.org/pdf/1801.00317.pdf) - [code](https://github.com/manoelhortaribeiro/AbusiveUsersOSNs)</span>
+<span class="source">[source](https://arxiv.org/pdf/1801.00317.pdf) - [code](https://github.com/manoelhortaribeiro/AbusiveUsersOSNs) - [data](https://www.kaggle.com/manoelribeiro/hateful-users-on-twitter)</span>
 </div>
 
 <div class="paper" markdown="1">
