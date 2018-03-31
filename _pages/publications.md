@@ -13,7 +13,7 @@ permalink: /publications
 <span class="authors">**Manoel Horta Ribeiro**, Yuri A Santos, Pedro H Calais, Virgílio AF Almeida, Wagner Meira Jr </span> <br />
 <span class="conference">To be presented @ ICWSM'18</span> <br />
 <span class="source">
-[extende -version](https://arxiv.org/pdf/1803.08977.pdf) - 
+[extended version](https://arxiv.org/pdf/1803.08977.pdf) - 
 [code](https://github.com/manoelhortaribeiro/AbusiveUsersOSNs) - 
 [data](https://www.kaggle.com/manoelribeiro/hateful-users-on-twitter) -
 </span>
