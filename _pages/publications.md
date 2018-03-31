@@ -9,7 +9,7 @@ permalink: /publications
 
 <div class="paper" markdown="1">
 <div class="category">network analysis, social computing</div>
-<span class="papertitle">Characterizing and Detecting Hateful Users on Twitter </span> <br />
+<span class="papertitle">**Characterizing and Detecting Hateful Users on Twitter** </span> <br />
 <span class="authors">**Manoel Horta Ribeiro**, Yuri A Santos, Pedro H Calais, Virgílio AF Almeida, Wagner Meira Jr </span> <br />
 <span class="conference">To be presented @ ICWSM'18</span> <br />
 <span class="source">
