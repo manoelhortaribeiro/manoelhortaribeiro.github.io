@@ -28,10 +28,10 @@ a norwegian-based IoT startup that produces sports sensors.
 <div class="table_cell_header">Recent Publications</div>
 
 <span class="papertitle">
-&clubs; "Like Sheep Among Wolves": Characterizing Hateful Users on Twitter 
+Characterizing and Detecting Hateful Users on Twitter 
 </span>
 <span class="source">
-([source](https://arxiv.org/pdf/1801.00317.pdf) - [code](https://github.com/manoelhortaribeiro/AbusiveUsersOSNs) - [data](https://www.kaggle.com/manoelribeiro/hateful-users-on-twitter))</span>
+([source](https://www.aaai.org/ocs/index.php/ICWSM/ICWSM18/paper/viewFile/17837/17079) - [code](https://github.com/manoelhortaribeiro/AbusiveUsersOSNs) - [data](https://www.kaggle.com/manoelribeiro/hateful-users-on-twitter))</span>
 <br /> 
 <br />
 <span class="papertitle">
@@ -45,11 +45,11 @@ a norwegian-based IoT startup that produces sports sensors.
 <div class="table_cell_header">Other Stuff</div>
 
 <span class="papertitle">
-&hearts; Check out [our text at Medium](https://medium.com/@hmpig.dcc/exploring-user-centered-approaches-to-understand-hate-speech-online-19c26b3e3725) about our research on Hate Speech </span>
+&spades; I'm currently doing a Summer Internship in EPFL @ the [datalab](https://dlab.epfl.ch/) with Robert West </span>
 <br /> 
 <br />
 <span class="papertitle">
-&spades; Check out our [my presentation on Polarization and FakeNews at the DS+J workshop](https://www.youtube.com/watch?v=1z7EINnN11I) at KDD'17</span>
+&hearts; Check out [our text at Medium](https://medium.com/@hmpig.dcc/exploring-user-centered-approaches-to-understand-hate-speech-online-19c26b3e3725) about our research on Hate Speech </span>
 </div>
 </div>
 
