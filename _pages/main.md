@@ -28,7 +28,7 @@ a norwegian-based IoT startup that produces sports sensors.
 <div class="table_cell_header">Recent Publications</div>
 
 <span class="papertitle">
-Characterizing and Detecting Hateful Users on Twitter 
+&clubs; Characterizing and Detecting Hateful Users on Twitter 
 </span>
 <span class="source">
 ([source](https://www.aaai.org/ocs/index.php/ICWSM/ICWSM18/paper/viewFile/17837/17079) - [code](https://github.com/manoelhortaribeiro/AbusiveUsersOSNs) - [data](https://www.kaggle.com/manoelribeiro/hateful-users-on-twitter))</span>
