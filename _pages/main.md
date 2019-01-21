@@ -4,6 +4,8 @@ title:
 permalink: /
 ---
 
+**My paper: "Message Distortion in Information Cascades" with Robert West and Kristina Gligoric was accepted as a full paper at #TheWebConf2019 **
+
 
 I'm a  MSc student in Computer Science at [Universidade Federal de Minas Gerais][dcc], Brazil. 
 My current research interests lay in the intersection of machine learning and Online Social Networks (OSNs). 
