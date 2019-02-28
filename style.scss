@@ -18,7 +18,7 @@ html {
 }
 
 body {
-	background: $white;
+  background: $white;
   font: 18px/1.4 $body;
   color: $darkGray;
 }
@@ -34,11 +34,16 @@ a {
   color: $darkGray;
   text-decoration: underline;
   text-decoration-skip: ink;
-  text-decoration-color: $lightBlue;
+  text-decoration-color: $darkGray;
 
-  &:hover, &:active {
-    background:$lighterBlue;
+  &:hover, &:visited {
+    background: $lightGray;
   }
+
+  &:active {
+    background: $gray;
+  }
+
 }
 
 h1, h2, h3, h4, h5, h6 {
@@ -50,40 +55,33 @@ h1, h2, h3, h4, h5, h6 {
   margin: 1em 0 15px;
   padding: 0;
 
+
   @include mobile {
     line-height: 1.4;
   }
 }
 
 h1 {
-  font-size: 30px;
-  a {
-    text-align: right;
-    font-weight: 300;
-  }
+  font-size: 26px;
+
 }
 
 h2 {
-  font-size: 24px;
+  font-size: 22px;
 }
 
 h3 {
-  font-size: 20px;
-}
-
-h4 {
   font-size: 18px;
-  color: $gray;
 }
 
 p {
-  margin: 15px 0;
+  font-size: 18px;
+  margin: 12px 0;
+  color: $black;
 }
 
-
-
 ul, ol {
-  margin: 15px 0;
+  margin: 1512 0;
   padding-left: 30px;
 }
 
@@ -130,6 +128,7 @@ img {
   color: $black;
   background: $lightGray;
 }
+
 ::selection {
   color: $black;
   background: $lightGray;
@@ -139,12 +138,12 @@ img {
 // http://nicolasgallagher.com/micro-clearfix-hack/
 .clearfix:before,
 .clearfix:after {
-    content: " ";
-    display: table;
+  content: " ";
+  display: table;
 }
 
 .clearfix:after {
-    clear: both;
+  clear: both;
 }
 
 /*********************/
@@ -156,52 +155,59 @@ img {
 //
 
 .wrapper-masthead {
-  margin-bottom: 50px;
+  margin-bottom: 10px;
 }
+
 
 .masthead {
   padding: 20px 0;
-  border-bottom: 1px solid $lightGray;
-
-  @include mobile {
-    text-align: center;
-  }
+  text-align: center;
 }
 
 .site-avatar {
-  float: left;
-  width: 80px;
-  height: 80px;
-  margin-right: 15px;
-
-  @include mobile {
-    float: none;
-    display: block;
-    margin: 0 auto;
-  }
+  display: inline-block;
+  margin: 0 auto;
+  width: 150px;
 
   img {
-    border-radius: 5px;
+    border: 2px solid $darkerGray;
+    border-radius: 50%;
   }
+
 }
 
 .site-info {
-  float: left;
+  float: none;
+  display: block;
+  margin: 0 auto;
 
-  @include mobile {
-    float: none;
-    display: block;
-    margin: 0 auto;
+  a {
+    text-decoration: none;
+    text-decoration-skip: ink;
+    text-decoration-color: $darkGray;
+
+    &:hover, &:visited {
+      background: none;
+    }
+
+    &:active {
+      background: none;
+
+    }
   }
+
 }
 
+
 .site-name {
-  margin: 0;
-  color: $darkGray;
+  margin: 0 auto;
+  color: $black;
   cursor: pointer;
   font-family: $title;
-  font-weight: 300;
-  font-size: 28px;
+  font-weight: 500;
+  font-size: 20px;
+  max-width: 350px;
+  border-bottom: 1.5px solid $black;
 }
 
 .site-description {
@@ -215,44 +221,23 @@ img {
 }
 
 nav {
-  float: right;
-  margin-top: 23px; // @TODO: Vertically middle align
-  font-family: $body;
+  font-family: $nav;
   font-size: 16px;
-
-  @include mobile {
-    float: none;
-    margin-top: 9px;
-    display: block;
-    font-size: 16px;
-  }
+  float: none;
+  margin-top: 9px;
+  display: block;
 
   a {
     margin-left: 20px;
     text-align: right;
     font-weight: 300;
-
-    @include mobile {
-      margin: 0 10px;
-      color: $darkGray;
-    }
   }
-
 }
 
 //
 // .main
 //
 
-#main{
-  a {
-    color: $darkerGray;
-    &:hover, &:active {
-      color:$darkGray;
-      background:$lighterBlue;
-    }
-  }
-}
 
 .posts > .post {
   padding-bottom: 2em;
@@ -265,6 +250,18 @@ nav {
 }
 
 .post {
+
+  h1 {
+    font-family: "Futura", sans-serif;
+        font-size: 42px;
+
+  }
+
+  h2 {
+    font-family: "Raleway", monospace;
+
+    font-size: 26px;
+  }
   blockquote {
     margin: 1.8em .8em;
     border-left: 2px solid $gray;
@@ -282,6 +279,17 @@ nav {
     text-transform: uppercase;
     font-size: 15px;
   }
+
+  p {
+        font-family: "Raleway", sans-serif;
+  }
+
+  sub {
+    font-size: 12px;
+        font-family: "Anonymous Pro", sans-serif;
+
+  }
+
 }
 
 .wrapper-footer {
@@ -289,10 +297,14 @@ nav {
 }
 
 footer {
-  padding: 20px 0;
+  margin: 20px auto;
   text-align: center;
-  border-top: 1px solid #ddd;
-  border-bottom: 1px solid #ddd;
+  border-top: 2px solid $darkerGray;
+  max-width: 350px;
+
+  p {
+    font-size: 12px;
+  }
 }
 
 // Settled on moving the import of syntax highlighting to the bottom of the CSS

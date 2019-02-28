@@ -4,6 +4,7 @@
 //
 
 @import url('https://fonts.googleapis.com/css?family=Libre+Baskerville|Lora');
+@import url('https://fonts.googleapis.com/css?family=Rock+Salt|Raleway|Futura|Anonymous+Pro');
 
 // Colors
 $blue: #4183C4;
@@ -17,9 +18,9 @@ $lightGray: #eee;
 $white: #fff;
 
 // Font stacks
-$body: 'Libre Baskerville', serif;
-$title: 'Lora', serif;
-
+$body: 'Anonymous Pro', monospace;
+$nav: 'Raleway', serif;
+$title: 'Rock Salt', cursive;
 $georgia: 'Lora', serif;
 
 // Mobile breakpoints

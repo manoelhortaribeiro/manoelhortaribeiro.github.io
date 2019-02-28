@@ -5,11 +5,8 @@
 # Name of your site (displayed in the header)
 name: Manoel Horta Ribeiro
 
-# Short bio or description (displayed in the header)
-description: Msc. Student @ UFMG, ML and DM enthusiast
-
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
-avatar: https://avatars2.githubusercontent.com/u/6676861?v=4&s=460
+avatar: /images/profile.jpg
 
 #
 # Flags below are optional
@@ -18,8 +15,8 @@ avatar: https://avatars2.githubusercontent.com/u/6676861?v=4&s=460
 # Includes an icon in the footer for each username you enter
 footer-links:
   dribbble:
-  email: manoelhortaribeiro@gmail.com
-  facebook: manel.hr
+  email: manoelribeiro at dcc at ufmg at br
+  facebook:
   flickr:
   github: manoelhortaribeiro
   instagram:

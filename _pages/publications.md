@@ -8,14 +8,41 @@ permalink: /publications
 <div class="titlebox">masters</div>
 
 <div class="paper" markdown="1">
+<div class="category">information cascades, crowdsourcing</div>
+<span class="papertitle">**Message Distortion in Information Cascades**</span> <br />
+<span class="authors">**Manoel Horta Ribeiro**, Kristina Gligoric, Robert West</span> <br />
+<span class="conference">To be presented @ TheWebConf2019</span> <br />
+<span class="source">
+[source](https://arxiv.org/pdf/1902.09197.pdf) -
+[code/data](https://github.com/epfl-dlab/mdic) - 
+[website](https://epfl-dlab.github.io/mdic/) - 
+[poster]()
+</span>
+</div>
+
+
+<div class="paper" markdown="1">
+<div class="category">health informatics, deep learning</div>
+<span class="papertitle">**Automatic Diagnosis of Short-Duration 12-Lead ECG using a Deep Convolutional Network**</span> <br />
+<span class="authors">Antônio H Ribeiro, **Manoel Horta Ribeiro**, Gabriela Paixão, Derick Oliveira, Paulo R Gomes, 
+Jéssica A Canazart, Milton Pifano, Wagner Meira Jr, Thomas B Schön, Antonio Luiz Ribeiro</span> <br />
+<span class="conference">Presented @ NIPS ML4HC workshop</span> <br />
+<span class="source">
+[source](https://arxiv.org/pdf/1902.09197.pdf)
+</span>
+</div>
+
+<div class="paper" markdown="1">
 <div class="category">network analysis, social computing</div>
 <span class="papertitle">**Characterizing and Detecting Hateful Users on Twitter** </span> <br />
 <span class="authors">**Manoel Horta Ribeiro**, Yuri A Santos, Pedro H Calais, Virgílio AF Almeida, Wagner Meira Jr </span> <br />
-<span class="conference">To be presented @ ICWSM'18</span> <br />
+<span class="conference"> Presented @ ICWSM'18</span> <br />
 <span class="source">
+[source](https://www.aaai.org/ocs/index.php/ICWSM/ICWSM18/paper/view/17837) -
 [extended version](https://arxiv.org/pdf/1803.08977.pdf) - 
 [code](https://github.com/manoelhortaribeiro/AbusiveUsersOSNs) - 
-[data](https://www.kaggle.com/manoelribeiro/hateful-users-on-twitter) -
+[data](https://www.kaggle.com/manoelribeiro/hateful-users-on-twitter) - 
+[poster](posters/icwsm_2018.pdf)
 </span>
 </div>
 

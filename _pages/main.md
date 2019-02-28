@@ -4,60 +4,24 @@ title:
 permalink: /
 ---
 
-**My paper: "Message Distortion in Information Cascades" with Robert West and Kristina Gligoric was accepted as a full paper at #TheWebConf2019 **
-
-
-I'm a  MSc student in Computer Science at [Universidade Federal de Minas Gerais][dcc], Brazil. 
-My current research interests lay in the intersection of machine learning and Online Social Networks (OSNs). 
+I'm a  MSc student in Computer Science at [Universidade Federal de Minas Gerais][dcc]. 
+My current research interests lays in the intersection of machine learning and Online Social Networks. 
 I'm particularly interested in the dynamics and the detection of undesirable behaviour, such as *hate speech* and *fake news* in OSNs. 
+Last summer I did an awesome internship at EPFL with [Robert West][bob], [it was pretty awesome][dlab] and we published a WWW (TheWebConf?) [paper][www] out of our work.
 
 
 During my undergraduate studies, I explored a wide variety of topics under the supervision of [Wagner Meira][meira], with projects such as:
--  [characterizing the video-game livestreaming community on Twitch.tv][1]; 
-- [improving probabilistic graphical models for gesture and activity recognition][2];
-- [prototyping a tool for exploring the trajectories of patients with cervical cancer][3]. 
-
-The latter was the outcome of two internships I did at [Simula][simula] in Oslo, supervised by [Sagar Sen][sagar] and [Mari Nygard][mari]. 
+[characterizing the video-game livestreaming community on Twitch.tv][1]; 
+[improving probabilistic graphical models for gesture and activity recognition][2];
+[prototyping a tool for exploring the trajectories of patients with cervical cancer][3]. 
 On the industry side I have interned as a software developer at [Microsoft Research Center for SNUI][snui], 
 in Melbourne (where I was an exchange student at [University of Melbourne][unimelb]), and worked on [SweetZpot][sweetzpot], 
-a norwegian-based IoT startup that produces sports sensors. 
+a norwegian-based IoT startup.
 
----
-
-<div class="news" markdown="1">
-
-<div class="table_cell" markdown="1">
-<div class="table_cell_header">Recent Publications</div>
-
-<span class="papertitle">
-&clubs; Characterizing and Detecting Hateful Users on Twitter 
-</span>
-<span class="source">
-([source](https://www.aaai.org/ocs/index.php/ICWSM/ICWSM18/paper/viewFile/17837/17079) - [code](https://github.com/manoelhortaribeiro/AbusiveUsersOSNs) - [data](https://www.kaggle.com/manoelribeiro/hateful-users-on-twitter))</span>
-<br /> 
-<br />
-<span class="papertitle">
-&diams; “Everything I Disagree With is #FakeNews”: Correlating Political Polarization and Spread of Misinformation 
-</span> 
-<span class="source">([source](https://arxiv.org/pdf/1706.05924.pdf)) </span>
-
-</div>
-
-<div class="table_cell" markdown="1">
-<div class="table_cell_header">Other Stuff</div>
-
-<span class="papertitle">
-&spades; I'm currently doing a Summer Internship in EPFL @ the [datalab](https://dlab.epfl.ch/) with Robert West </span>
-<br /> 
-<br />
-<span class="papertitle">
-&hearts; Check out [our text at Medium](https://medium.com/@hmpig.dcc/exploring-user-centered-approaches-to-understand-hate-speech-online-19c26b3e3725) about our research on Hate Speech </span>
-</div>
-</div>
-
+[www]: https://dlab.epfl.ch/people/west/pub/HortaRibeiro-Gligoric-West_WWW-19.pdf
 [meira]: http://homepages.dcc.ufmg.br/~meira/
-[mari]: https://www.kreftregisteret.no/en/Research/Scientist-at-the-Cancer-registry/Mari-Nygard/
-[sagar]: https://www.simula.no/people/sagar
+[bob]: https://people.epfl.ch/robert.west
+[dlab]: https://dlab.epfl.ch/2018-11-20-summer-at-epfl-interns-2018/
 [sweetzpot]: https://www.sweetzpot.com/
 [simula]: https://www.simula.no/
 [snui]: http://www.socialnui.unimelb.edu.au/

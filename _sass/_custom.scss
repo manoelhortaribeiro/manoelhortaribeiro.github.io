@@ -1,24 +1,25 @@
 .authors {
-    font-size: 8px;
-}
-
-.conference {
-	font-size: 8px;
-}
-
-.papertitle{
-	font-size: 14px;
-}
-
-.titlebox{
-    float:left;
-    padding: 0px;
-    margin:-19px 0 0 10px;
-    background:#fff;
     font-size: 12px;
 }
 
-.paper{
+.conference {
+    font-size: 12px;
+}
+
+.papertitle {
+    font-size: 14px;
+}
+
+.titlebox {
+    float: left;
+    padding: 0px;
+    margin: -19px 0 0 10px;
+    background: #fff;
+    font-size: 12px;
+    font-family: "Rock Salt", sans-serif;
+}
+
+.paper {
     width: 80%;
     height: auto;
     margin: 10px auto;
@@ -26,48 +27,53 @@
     position: relative;
     border: 1px solid $lightGray;
     line-height: 90%;
- }
 
-.news{
+    p {
+        padding: 0px;
+        margin: 0px;
+    }
+
+    .papertitle {
+        font-family: "Raleway", monospace;
+    }
+
+}
+
+.news {
     display: table;
 }
 
-.table_cell{
+.table_cell {
     display: table-cell;
     padding: 5px;
     width: 50%;
     height: auto;
     top: 0px;
     line-height: 90%;
- }
+}
 
-.table_cell_header{
-    float:left;
+.table_cell_header {
+    float: left;
     padding: 0px;
-    margin:-10px 0 0 0px;
-    background:#fff;
+    margin: -10px 0 0 0px;
+    background: #fff;
     font-size: 14px;
     color: $blue;
 }
 
 
-
-.paper p {
+.category {
+    float: right;
     padding: 0px;
-    margin: 0px;
-
-}
-
-.category{
-    float:right;
-    padding: 0px;
-    margin:-10px 0 0 0px;
-    background:#fff;
+    margin: -10px 0 0 0px;
+    background: #fff;
     font-size: 10px;
-    color: $blue;
+    color: $gray;
+        font-family: "Rock Salt", sans-serif;
+
 }
 
-.source{
+.source {
     font-size: 12px;
     padding: 0;
     margin: 0;
