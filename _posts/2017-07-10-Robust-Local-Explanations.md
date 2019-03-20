@@ -9,6 +9,10 @@ tags:
   - LIME
 ---
 
+Manoel Horta Ribeiro ([@manoelhortaribeiro]((https://twitter.com/manoelhortaribeiro))),
+
+---
+
 As the machine learning community creates increasingly complex models and pervases areas of societal impact, we are struck with the problem of understanding decisions made by machine learning models without sacrificing their accuracy.
 
 This blogpost contains some experiments with the concept of a local explainer, as presented by Ribeiro et. al in 

@@ -11,7 +11,7 @@ tags:
 
 
 Yuri A. Santos ([@santosyurial](https://twitter.com/santosyurial)), 
-Manoel Horta Ribeiro ([@manoelribeiro]((https://twitter.com/santosyurial))),
+Manoel Horta Ribeiro ([@manoelhortaribeiro]((https://twitter.com/manoelhortaribeiro))),
 this text was originally published at Medium, and you can read it [here](https://medium.com/@hmpig.dcc/exploring-user-centered-approaches-to-understand-hate-speech-online-19c26b3e3725).
 
 ---
