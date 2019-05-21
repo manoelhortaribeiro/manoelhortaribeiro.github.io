@@ -1,12 +1,11 @@
 ---
 layout: post
-title: 'Exploring User-Centered Approaches to Understand Hate Speech Online'
+title: 'User-Centered Approaches to Understand Hate Online'
 date: 2018-01-12
 permalink: /posts/2018/01/exploring-user-hate-speech/
 tags:
-  - machine learning
-  - hate speech
-  - online social networks
+  - hate-speech
+  - online-social-networks
 ---
 
 

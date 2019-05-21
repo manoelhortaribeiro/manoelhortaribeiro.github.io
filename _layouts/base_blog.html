@@ -17,32 +17,14 @@
 </head>
 
 <body>
-<script src="//d3js.org/d3.v5.min.js"></script>
-
-<div class="wrapper-masthead">
-    <div class="container">
-        <header class="masthead clearfix">
-            <span class="site-avatar"><img src="{{ site.avatar }}"/></span>
-
-            <div class="site-info">
-
-                <h1 class="site-name"><a href="{{ site.baseurl }}">{{ site.name }}</a></h1>
-            </div>
-
-            <nav>
-                <a href="{{ site.baseurl }}/">home</a>
-                <a href="{{ site.baseurl }}/blog">blog</a>
-                <a href="{{ site.baseurl }}/publications">publications</a>
-                <a href="{{ site.baseurl }}/media">media</a>
-                <a href="{{ site.baseurl }}/files/cv.pdf">cv</a>
-
-            </nav>
-        </header>
-    </div>
-</div>
 
 <div id="main" role="main" class="container">
+    <a href="{{ site.baseurl }}/blog"><< blog</a>
+
     {{ content }}
+
+    <a href="{{ site.baseurl }}/blog"><< blog</a>
+
 </div>
 
 <div class="wrapper-footer">
@@ -54,6 +36,7 @@
 </div>
 
 {% include analytics.html %}
+
 <script type="text/javascript" src="//code.jquery.com/jquery-1.11.0.min.js"></script>
 <script type="text/javascript" src="//code.jquery.com/jquery-migrate-1.2.1.min.js"></script>
 <script type="text/javascript" src="{{ site.baseurl }}/stuff/slick/slick.min.js"></script>

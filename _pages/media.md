@@ -7,6 +7,7 @@ permalink: /media
 ---
 
 # Media Coverage
+
 - [Agora vai? Cientistas entram na caçada às notícias falsas e seus autores, Notícias UOL (in portuguese)][1]
 
 - [Google premia estudos com foco no controle de fake news, O Tempo (in portuguese)][2]

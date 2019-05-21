@@ -4,9 +4,9 @@ title: 'On the Unreasonable Influence of Fringe Communities'
 date: 2019-03-20
 permalink: /posts/2019/03/on-the-origin-of-memes
 tags:
-  - fringe communities
-  - memes
-  - online social networks
+  - hate-speech
+  - fringe-communities
+  - online-social-networks
 ---
 
 Manoel Horta Ribeiro ([@manoelhortaribeiro]((https://twitter.com/manoelhortaribeiro))),

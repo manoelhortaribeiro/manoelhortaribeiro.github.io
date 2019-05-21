@@ -4,9 +4,8 @@ title: 'Robust Local Explanations'
 date: 2017-07-10
 permalink: /posts/2017/07/rle/
 tags:
-  - machine learning
+  - machine-learning
   - explainability
-  - LIME
 ---
 
 Manoel Horta Ribeiro ([@manoelhortaribeiro]((https://twitter.com/manoelhortaribeiro))),

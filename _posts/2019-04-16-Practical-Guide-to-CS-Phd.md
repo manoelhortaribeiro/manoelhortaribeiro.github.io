@@ -4,8 +4,7 @@ title: 'My CS PhD Application Process'
 date: 2019-04-16
 permalink: /posts/2019/04/phd-application
 tags:
-  - PhD Life
-  - Personal
+  - personal
 ---
 
 Manoel Horta Ribeiro ([@manoelhortaribeiro]((https://twitter.com/manoelhortaribeiro))),
