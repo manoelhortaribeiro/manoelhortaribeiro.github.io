@@ -7,9 +7,10 @@ tags:
   - hate-speech
   - fringe-communities
   - online-social-networks
+  - memes
 ---
 
-Manoel Horta Ribeiro ([@manoelhortaribeiro]((https://twitter.com/manoelhortaribeiro))),
+Manoel Horta Ribeiro ([@manoelribeiro]((https://twitter.com/manoelribeiro))),
 
 ---
 

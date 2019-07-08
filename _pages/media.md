@@ -12,6 +12,10 @@ permalink: /media
 
 - [Google premia estudos com foco no controle de fake news, O Tempo (in portuguese)][2]
 
+- [Chinese whispers 2.0][3]
+
 [1]: https://web.archive.org/web/20190318181538/https://noticias.uol.com.br/tecnologia/noticias/redacao/2018/10/25/ficou-serio-cientistas-entram-na-briga-para-cacar-fake-news-e-seus-autores.htm
 
 [2]: https://web.archive.org/web/20190318190702/https://www.otempo.com.br/capa/economia/google-premia-estudos-com-foco-no-controle-de-fake-news-1.2058878
+
+[3]: https://web.archive.org/web/20190708120321/https://www.wcsj2019.eu/single-post/2019/07/05/Chinese-whispers-20
