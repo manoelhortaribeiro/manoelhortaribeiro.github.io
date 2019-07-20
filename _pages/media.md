@@ -4,9 +4,6 @@ title:
 permalink: /media
 ---
 
----
-
-# Media Coverage
 
 - [Agora vai? Cientistas entram na caçada às notícias falsas e seus autores, Notícias UOL (in portuguese)][1]
 

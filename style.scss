@@ -25,7 +25,7 @@ body {
 
 .container {
   margin: 0 auto;
-  max-width: 800px;
+  max-width: 600px;
   padding: 0 10px;
   width: 100%;
 }
@@ -160,7 +160,7 @@ img {
 
 
 .masthead {
-  padding: 20px 0;
+  padding: 100px 0px 10px 0px;
   text-align: center;
 }
 
@@ -170,8 +170,7 @@ img {
   width: 150px;
 
   img {
-    border: 2px solid $darkerGray;
-    border-radius: 50%;
+    border: 12px solid $black;
   }
 
 }
@@ -201,13 +200,13 @@ img {
 
 .site-name {
   margin: 0 auto;
+  a {
+      cursor: pointer;
   color: $black;
-  cursor: pointer;
   font-family: $title;
   font-weight: 500;
-  font-size: 20px;
-  max-width: 350px;
-  border-bottom: 1.5px solid $black;
+  font-size: 35px;
+  }
 }
 
 .site-description {
@@ -228,10 +227,17 @@ nav {
   display: block;
 
   a {
-    margin-left: 20px;
+    margin-left: 5px;
+    margin-right: 5px;
     text-align: center;
     font-weight: 300;
   }
+
+}
+
+header{
+      padding: 20px;
+
 }
 
 //
@@ -279,7 +285,7 @@ nav {
 footer {
   margin: 20px auto;
   text-align: center;
-  border-top: 2px solid $darkerGray;
+  border-top: 1px solid #000;
   max-width: 350px;
 
   p {
@@ -290,11 +296,10 @@ footer {
 
 .post {
 
-  padding-bottom: 5px;
+  padding: 10px;
   margin-bottom: 25px;
   margin-top: 25px;
-  border-bottom: $gray solid 1px;
-  border-top: $gray solid 1px;
+  border: $lightGray solid 0.5px;
 
 
   h1 {
@@ -342,7 +347,6 @@ footer {
   }
 }
 }
-
 
 
 // Settled on moving the import of syntax highlighting to the bottom of the CSS

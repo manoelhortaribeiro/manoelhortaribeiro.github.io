@@ -4,13 +4,13 @@
 //
 
 @import url('https://fonts.googleapis.com/css?family=Libre+Baskerville|Lora');
-@import url('https://fonts.googleapis.com/css?family=Rock+Salt|Raleway|Futura|Anonymous+Pro');
+@import url('https://fonts.googleapis.com/css?family=DM+Serif+Display|Raleway|Futura|IBM+Plex+Serif');
 
 // Colors
 $blue: #4183C4;
 $lightBlue: #69abec;
 $lighterBlue: #e6e6ff;
-$black: #000;
+$black: #000000;
 $darkerGray: #222;
 $darkGray: #333;
 $gray: #666;
@@ -18,9 +18,9 @@ $lightGray: #eee;
 $white: #fff;
 
 // Font stacks
-$body: 'Anonymous Pro', monospace;
-$nav: 'Raleway', serif;
-$title: 'Rock Salt', cursive;
+$body: 'IBM Plex Serif', serif;
+$nav: 'IBM Plex Serif', serif;
+$title: 'DM Serif Display', serif;
 $georgia: 'Lora', serif;
 
 // Mobile breakpoints
