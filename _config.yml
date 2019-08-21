@@ -8,6 +8,12 @@ name: Manoel Horta Ribeiro
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
 avatar: /images/profile.jpg
 
+collections_dir: my_collections
+
+collections:
+  publications:
+    output: true
+
 #
 # Flags below are optional
 #

@@ -160,7 +160,7 @@ img {
 
 
 .masthead {
-  padding: 100px 0px 10px 0px;
+  padding: 50px 0px 10px 0px;
   text-align: center;
 }
 
@@ -258,7 +258,7 @@ header{
 
   h1 {
     font-family: $nav;
-    font-size: 35px;
+    font-size: 25px;
 
   }
 
@@ -297,21 +297,22 @@ footer {
 .post {
 
   padding: 10px;
-  margin-bottom: 25px;
-  margin-top: 25px;
+  margin-bottom: 15px;
+  margin-top: 15px;
   border: $lightGray solid 0.5px;
-
 
   h1 {
     margin: 0 auto;
     color: $black;
     font-family: $body;
-    font-size: 25px;
+    font-size: 16px;
   }
 
     h2 {
+    font-family: $body;
+
     display: inline;
-    font-size: 12px;
+    font-size: 14px;
   }
 
   .post-tag{
@@ -319,11 +320,26 @@ footer {
     padding: 0;
     font-family: $body;
     color: $gray;
-    font-size: 16px;
+    font-size: 14px;
 
   }
 
+  .author-tag{
+    display: inline;
+    padding-right: 5px;
+    font-family: $body;
+    color: black;
+    font-size: 14px;
 
+  }
+
+  .stuff{
+    display: inline;
+    padding-right: 5px;
+    font-family: $body;
+    color: $gray;
+    font-size: 14px;
+  }
 
 }
 

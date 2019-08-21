@@ -3,14 +3,11 @@ layout: page
 title: 
 permalink: /
 ---
-
-I'm a  MSc student in Computer Science at [Universidade Federal de Minas Gerais][dcc]. 
-My current research interests lays in the intersection of machine learning and Online Social Networks. 
-I'm particularly interested in the dynamics and the detection of undesirable behaviour, such as *hate speech* and *fake news* in OSNs. 
-Last summer I did an awesome internship at EPFL with [Robert West][bob], [it was pretty awesome][dlab] and we published a WWW (TheWebConf?) [paper][www] out of our work.
-
-
-During my undergraduate studies, I explored a wide variety of topics under the supervision of [Wagner Meira][meira], with projects such as:
+I'm an incoming PhD candidate at EPFL, in Switzerland.
+I'm have defended my MSc in Computer Science at [Universidade Federal de Minas Gerais][dcc]. 
+During my masters I studied complex social phenomena such as hate speech, fake news and user radicalization through the lens of users.
+I also did an awesome internship at EPFL with [Robert West][bob], [it was pretty awesome][dlab] ([paper][www]).
+During my undergrad, I explored a wide variety of topics under the supervision of [Wagner Meira][meira], with projects such as:
 [characterizing the video-game livestreaming community on Twitch.tv][1]; 
 [improving probabilistic graphical models for gesture and activity recognition][2];
 [prototyping a tool for exploring the trajectories of patients with cervical cancer][3]. 
