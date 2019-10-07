@@ -10,7 +10,7 @@ authors:
     
 year: 2018
 
-conf: "ICWSM 2018 (earlier version at MIS2 WorKshop @ WSDM 18)"
+conf: "ICWSM 2018 (earlier version at MIS2 Workshop @ WSDM 18)"
 
 tags:
   - hate-speech
