@@ -10,11 +10,13 @@ permalink: /media
 
 - [YouTube may push users to more radical views over time, a new paper argues, **VICE**][7]
 
-- [How YouTube can suck you into an extremist swamp][10] 
+- [How YouTube can suck you into an extremist swamp, **Irish Times**][10] 
 
 - [Radicalisation sur YouTube: des chercheurs soupçonnent l’algorithme, **Le Big Data** (in French)][9]
 
 - [Radikalisierung durch YouTube? Großzahlige Studie zur Empfehlung rechtsextremer Inhalte, **netzpolitik.org** (in German)][8]
+
+- [Eine Plattform zwischen Hobby und Hass, **Deutschlandfunk** (in German)][11]
 
 - [YouTube recommendation algorithm audit uncovers paths to radicalization, **VentureBeat**][6]
 
@@ -44,3 +46,5 @@ permalink: /media
 [9]: https://web.archive.org/web/20190908102356/https://www.lebigdata.fr/youtube-radicalisation-extreme
 
 [10]: https://web.archive.org/web/20190911074432/https://www.irishtimes.com/opinion/una-mullally-how-youtube-can-suck-you-into-an-extremist-swamp-1.4011517
+
+[11]: https://web.archive.org/save/https://www.deutschlandfunk.de/youtube-eine-plattform-zwischen-hobby-und-hass.724.de.html?dram:article_id=460659
