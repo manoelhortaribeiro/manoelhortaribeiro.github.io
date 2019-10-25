@@ -4,6 +4,8 @@ title:
 permalink: /media
 ---
 
+- [Maybe It’s Not YouTube’s Algorithm That Radicalizes People, **WIRED**][12]
+
 - [YouTube radicalization pipeline exists, study says, **NBC NEWS NOW**][5]
 
 - [Study Shows How the ‘Intellectual Dark Web’ Is a Gateway to the Far Right, **Rolling Stone Magazine**][4]
@@ -48,3 +50,5 @@ permalink: /media
 [10]: https://web.archive.org/web/20190911074432/https://www.irishtimes.com/opinion/una-mullally-how-youtube-can-suck-you-into-an-extremist-swamp-1.4011517
 
 [11]: https://web.archive.org/save/https://www.deutschlandfunk.de/youtube-eine-plattform-zwischen-hobby-und-hass.724.de.html?dram:article_id=460659
+
+[12]: https://web.archive.org/save/https://www.wired.com/story/not-youtubes-algorithm-radicalizes-people/
