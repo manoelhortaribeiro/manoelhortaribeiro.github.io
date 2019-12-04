@@ -18,7 +18,7 @@ permalink: /media
 
 - [Radikalisierung durch YouTube? Großzahlige Studie zur Empfehlung rechtsextremer Inhalte, **netzpolitik.org** (in German)][8]
 
-- [A parcialidade dos algoritmos, in Portuguese][13] 
+- [A parcialidade dos algoritmos, **Nexo Jornal** (in Portuguese)][13] 
 
 - [Eine Plattform zwischen Hobby und Hass, **Deutschlandfunk** (in German)][11]
 
