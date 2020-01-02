@@ -18,13 +18,13 @@ permalink: /media
 
 - [Radikalisierung durch YouTube? Großzahlige Studie zur Empfehlung rechtsextremer Inhalte, **netzpolitik.org** (in German)][8]
 
+- [A parcialidade dos algoritmos, **Nexo Jornal** (in Portuguese)][13] 
+
 - [Eine Plattform zwischen Hobby und Hass, **Deutschlandfunk** (in German)][11]
 
 - [YouTube recommendation algorithm audit uncovers paths to radicalization, **VentureBeat**][6]
 
 - [Chinese whispers 2.0, **WCSJ2019**][3]
-
-- [A parcialidade dos algoritmos, **NEXO** (in portuguese)][13]
 
 - [Google premia estudos com foco no controle de fake news, **O Tempo** (in portuguese)][2]
 
@@ -54,5 +54,3 @@ permalink: /media
 [11]: https://web.archive.org/save/https://www.deutschlandfunk.de/youtube-eine-plattform-zwischen-hobby-und-hass.724.de.html?dram:article_id=460659
 
 [12]: https://web.archive.org/save/https://www.wired.com/story/not-youtubes-algorithm-radicalizes-people/
-
-[13]: https://web.archive.org/web/20191229181002/https://www.nexojornal.com.br/externo/2019/11/24/A-parcialidade-dos-algoritmos
