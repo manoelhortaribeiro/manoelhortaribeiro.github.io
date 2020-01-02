@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Comments on "Algorithmic Extremism: Examining YouTube’s Rabbit Hole of Radicalization"'
-date: 2019-12-20
+date: 2019-12-29
 permalink: /posts/2019/12/algorithmic-extremism
 tags:
 - radicalization
