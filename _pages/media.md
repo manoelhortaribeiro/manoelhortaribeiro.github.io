@@ -4,6 +4,8 @@ title:
 permalink: /media
 ---
 
+- [Study of YouTube comments finds evidence of radicalization effect, **TechCrunch**][15]
+
 - [Maybe It’s Not YouTube’s Algorithm That Radicalizes People, **WIRED**][12]
 
 - [YouTube radicalization pipeline exists, study says, **NBC NEWS NOW**][5]
@@ -18,7 +20,7 @@ permalink: /media
 
 - [Radikalisierung durch YouTube? Großzahlige Studie zur Empfehlung rechtsextremer Inhalte, **netzpolitik.org** (in German)][8]
 
-- [O Algoritmo da Ágora, piauí (in Portuguese)][14]
+- [O Algoritmo da Ágora, **piauí** (in Portuguese)][14]
 
 - [A parcialidade dos algoritmos, **Nexo Jornal** (in Portuguese)][13] 
 
@@ -60,3 +62,5 @@ permalink: /media
 [13]: https://www.nexojornal.com.br/externo/2019/11/24/A-parcialidade-dos-algoritmos
 
 [14]: https://piaui.folha.uol.com.br/materia/o-algoritmo-da-agora/
+
+[15]: https://techcrunch.com/2020/01/28/study-of-youtube-comments-finds-evidence-of-radicalization-effect/
