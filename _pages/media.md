@@ -4,6 +4,12 @@ title:
 permalink: /media
 ---
 
+- [A study of YouTube comments suggests how it’s turning people on to the alt-right, **MIT Tech Review**][17]
+
+- [YouTube comments show how platform helps radicalize viewers, study says, **Fox Business**][18]
+
+- [Study says YouTube comments section can have radicalising effects on users, **htxt.africa**][16]
+
 - [Study of YouTube comments finds evidence of radicalization effect, **TechCrunch**][15]
 
 - [Maybe It’s Not YouTube’s Algorithm That Radicalizes People, **WIRED**][12]
@@ -35,6 +41,7 @@ permalink: /media
 - [Agora vai? Cientistas entram na caçada às notícias falsas e seus autores, **Notícias UOL** (in portuguese)][1]
 
 
+
 [1]: https://web.archive.org/web/20190318181538/https://noticias.uol.com.br/tecnologia/noticias/redacao/2018/10/25/ficou-serio-cientistas-entram-na-briga-para-cacar-fake-news-e-seus-autores.htm
 
 [2]: https://web.archive.org/web/20190318190702/https://www.otempo.com.br/capa/economia/google-premia-estudos-com-foco-no-controle-de-fake-news-1.2058878
@@ -64,3 +71,9 @@ permalink: /media
 [14]: https://piaui.folha.uol.com.br/materia/o-algoritmo-da-agora/
 
 [15]: https://techcrunch.com/2020/01/28/study-of-youtube-comments-finds-evidence-of-radicalization-effect/
+
+[16]: https://web.archive.org/web/20200130084559/https://www.htxt.co.za/2020/01/29/study-says-youtube-comments-section-can-have-radicalising-effects-on-users/  
+
+[17]: https://www.technologyreview.com/f/615114/a-study-of-youtube-comments-shows-how-its-turning-people-onto-the-alt-right/
+
+[18]: https://www.foxbusiness.com/technology/youtube-comments-radicalize-viewers-study
