@@ -6,6 +6,10 @@ permalink: /posts/2019/10/comments-supply-and-demand
 tags:
   - radicalization
   - online-social-networks
+name_file: "2019-10-07-Comments-on-A-Supply-and-Demand"
+
+lead: "In this blog post I will make some comments about a recent pre-print on YouTube Radicalization, which brought some new and exciting ideas about radicalization on YouTube.
+The paper is named 'A Supply and Demand Framework for YouTube Politics'."
 ---
 
 

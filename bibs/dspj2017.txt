@@ -1,6 +1,0 @@
-@article{ribeiro2017everything,
-  title={" Everything I Disagree With is\# FakeNews": Correlating Political Polarization and Spread of Misinformation},
-  author={Ribeiro Horta, Manoel and Calais, Pedro H and Almeida, Virg{\'\i}lio AF and Meira Jr, Wagner},
-  journal={arXiv preprint arXiv:1706.05924},
-  year={2017}
-}

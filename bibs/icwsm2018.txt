@@ -1,7 +1,0 @@
-@inproceedings{hortaribeiroCharacterizingDetectingHateful2018,
-	title = {Characterizing and {Detecting} {Hateful} {Users} on {Twitter}},
-	booktitle = {Proceedings of the {Twelfth}  {International} {Conference} on {Web} and {Social} {Media}},
-	publisher = {AAAI},
-	author = {Horta Ribeiro, Manoel and Calais, Pedro H. and Santos, Yuri A. and Almeida, Virgílio AF and Meira Jr, Wagner},
-	year = {2018}
-}

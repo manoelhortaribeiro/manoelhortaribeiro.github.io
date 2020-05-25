@@ -6,6 +6,9 @@ permalink: /posts/2019/06/dawkins-memes
 tags:
   - memes
   - online-social-networks
+name_file: "2019-07-12-Dawkins-Memes"
+
+lead: "This is probably the most “daring” blog post I wrote as it touches on subjects I’m not an expert on. However, the idea of studying memes (the meme of studying memes?) is widespread among CS and network science, often more than not by people that do not have studied evolutionary biology or social sciences. Thus I think the adventure is worthwhile."
 ---
 
 Manoel Horta Ribeiro ([@manoelribeiro](https://twitter.com/manoelribeiro)),

@@ -5,16 +5,20 @@ date: 2020-01-05
 permalink: /posts/2020/01/youtube-market
 tags:
 - online-social-networks
+name_file: "2020-01-05-Is-YouTube-a-Market"
+
+lead: "My latest YouTube obsession follows the work of Kevin Munger &  Joseph Phillips (about which I wrote another blogpost). 
+Munger & Phillips proposed that part of the fringe content that exists on YouTube is a direct consequence of how the platform works.
+The possibility to reach niches of people (unlike mainstream TV), would allow individuals with fringe views to have their representatives on the platform.
+While I don't believe that this is the whole story (and to be fair, they never sell it as such), I think it is a very interesting proposition/model.
+"
+
 ---
 
 Manoel Horta Ribeiro ([@manoelribeiro](https://twitter.com/manoelribeiro)),
 
 ---
 
-My latest YouTube obsession follows the work of Kevin Munger &  Joseph Phillips ([about which I wrote another blogpost](https://manoelhortaribeiro.github.io/posts/2019/10/comments-supply-and-demand)). 
-Munger & Phillips proposed that part of the fringe content that exists on YouTube is a direct consequence of how the platform works.
-The possibility to reach niches of people (unlike mainstream TV), would allow individuals with fringe views to have their representatives on the platform.
-While I don't believe that this is the whole story (and to be fair, they never sell it as such), I think it is a very interesting proposition/model.
 
 
 Importantly --atleast for the context of this blog post-- it also makes me wonder about an even broader idea. Namely: 

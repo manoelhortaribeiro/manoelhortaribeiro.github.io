@@ -1,6 +1,0 @@
-@article{ribeiro2018automatic,
-title = {Automatic Diagnosis of Short-Duration 12-Lead ECG using a Deep Convolutional Network},
-author = {Ribeiro, Ant{\^o}nio H and Horta Ribeiro, Manoel and Paix{\~a}o, Gabriela and Oliveira, Derick and Gomes, Paulo R and Canazart, J{\'e}ssica A and Pifano, Milton and Meira Jr, Wagner and Sch{\"o}n, Thomas B and Ribeiro, Antonio Luiz},
-journal = {arXiv preprint arXiv:1811.12194},
-year = {2018}
-}

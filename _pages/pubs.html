@@ -4,65 +4,92 @@ title:
 permalink: /publications
 ---
 
-<div id="nav-blog" role="main" class="container">
-    <nav id="tags-nav">
-            <h2>Tags ⥋</h2>
-            <a onclick="filter_all('all')"><b>[All]</b></a>
-    </nav>
+
+
+<div style="text-align: center;">
+    <small style="font-size: 10px;"> (This is a curated list of publications, for a complete list, check <a href="https://scholar.google.com/citations?user=IN55QyEAAAAJ&hl=en">google schoolar</a>)</small>
 </div>
 
 <div class="posts">
+
+{% for n in (2017..2020) reversed %}
+
+    <p style="margin: 0; text-align: right">{{n}}</p>
+    <hr />
+
   {% for pub in site.publications reversed %}
+    {% if pub.year == n %}
+
+
     <article class="post all
                 {% for tag in pub.tags %}
                     filterable-{{tag}}
-                {% endfor %} ">
+                {% endfor %} "
+    style="display: block;">
+
+    <div class="row">
+    <div  class="col-md-3" style="alignment: center">
+      <img src="{{ site.baseurl }}/images/paper_teasers/{{pub.name_file}}.png" style="display: block; max-width: 125px"/>
+
+    </div>
+
+    <div  class="col-md-9" style="alignment: center">
 
         <div class="entry">
 
-              <h2>{{pub.year}}  ⥋</h2>
+<!--              <h2>{{pub.year}}  ⥋</h2>-->
 
-        {% for tag in pub.tags %}
-          <div class="post-tag">
-            [{{ tag }}]
-          </div>
-        {% endfor %}
+<!--        {% for tag in pub.tags %}-->
+<!--          <div class="post-tag">-->
+<!--            [{{ tag }}]-->
+<!--          </div>-->
+<!--        {% endfor %}-->
       </div>
 
-      <h1>{{ pub.title }}</h1>
+        <h1>{{ pub.title }}</h1>
 
-        {% for author in pub.authors %}
-        <div class="author-tag">
-        {{ author }} |
-        </div>
+        <p class="author-tag">{% for author in pub.authors %}
+            {% if author == "Manoel Horta Ribeiro" %}
+            <b style="display: inline-block">{{ author }} |</b>
+            {% else %}
+            <span style="display: inline-block"> {{ author }} |</span>
+            {% endif %}
+            {% endfor %}</p>
+        <p class="stuff">{{pub.conf}}</p>
+        <p class="stuff">{% for link_content in pub.links %} <a href="{{link_content.content}}"> {{link_content.name}}</a> | {% endfor %}</p>
+        {% assign flag = 0 %}
+        {% for med in site.media reversed %}
+        {% if pub.title == med.related_paper %}
+            {% assign flag = 1 %}
+        {% endif %}
         {% endfor %}
-        <div>
-            <h2>{{pub.conf}}</h2>
-        </div>
 
-        <div class="stuff">
-
-        {% for link_content in pub.links  %}
-        <a href="{{link_content.content}}"> {{link_content.name}}</a> |
+        {% if flag == 1 %}
+        <p class="stuff" style="margin-top: 5px">
+            Media Coverage:
+        {% for med in site.media reversed %}
+        {% if pub.title == med.related_paper %}
+            <a href="{{ med.link}}" style="display: inline-block">{{ med.venue }} |</a>
+        {% endif %}
         {% endfor %}
-        </div>
+                </p>
+        {% endif %}
 
+    </div>
+    </div>
     </article>
+    {% endif %}
+
   {% endfor %}
+
+{% endfor %}
+
+    <hr />
+
 </div>
 
 <script>
 
-    function popUp(text){
-
-        var frog = window.open("","wildebeast","width=300,height=300,scrollbars=1,resizable=1")
-
-        var html = "<html><head></head><body>"+ text +"</body></html>";
-
-        frog.document.open()
-        frog.document.write(html)
-        frog.document.close()
-    }
 
     var tmp = [];
     {% for post in site.publications %}

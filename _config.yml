@@ -13,7 +13,8 @@ collections_dir: my_collections
 collections:
   publications:
     output: true
-
+  media:
+    output: true
 #
 # Flags below are optional
 #
@@ -21,7 +22,7 @@ collections:
 # Includes an icon in the footer for each username you enter
 footer-links:
   dribbble:
-  email: manoelribeiro at dcc at ufmg at br
+  email: manoel.hortaribeiro@epfl.ch
   facebook:
   flickr:
   github: manoelhortaribeiro

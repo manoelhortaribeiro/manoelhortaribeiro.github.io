@@ -6,6 +6,11 @@ permalink: /posts/2019/08/radicalization-youtube
 tags:
 - radicalization
 - online-social-networks
+name_file: "2019-11-20-Comments-Auditing-Radicalization"
+
+lead: "This post is intended to address some of the comments and criticism w.r.t. my latest paper: *Auditing Radicalization Pathways on YouTube*. 
+The paper got an unreasonable amount of attention, which involved media coverage, angry e-mails and upset YouTubers.
+Individuals associated with the communities in the paper were critical of aspects of the methodology."
 ---
 
 Manoel Horta Ribeiro ([@manoelribeiro](https://twitter.com/manoelribeiro)),
@@ -111,7 +116,7 @@ We knew we would probably would piss someone with that, but still it felt like t
 
 Lastly, another source of criticism was that  we underestimated previous qualitative research done on the topic. On the abstract, it read:
 
-> Yet, the supporting evidence for this claim is mostly anecdotal, and there are no proper measurements of the influence of YouTube's recommender system.
+>Yet, the supporting evidence for this claim is mostly anecdotal, and there are no proper measurements of the influence of YouTube's recommender system.
 
 On the intro, it read:
 

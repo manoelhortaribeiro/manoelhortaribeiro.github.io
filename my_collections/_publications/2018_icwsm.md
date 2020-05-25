@@ -1,5 +1,5 @@
 ---
-title: 'Characterizing and detecting hateful users on twitter'
+title: 'Characterizing and Detecting Hateful Users on Twitter'
 
 authors:
     - Manoel Horta Ribeiro
@@ -10,18 +10,18 @@ authors:
     
 year: 2018
 
-conf: "ICWSM 2018 (earlier version at MIS2 Workshop @ WSDM 18)"
-
-tags:
-  - hate-speech
-  - social-computing
+conf: "ICWSM 2018"
 
 links:
-  - {"name":"bib", "content":"/bibs/icwsm2018.txt"}
-  - {"name":"src", "content":"https://www.aaai.org/ocs/index.php/ICWSM/ICWSM18/paper/view/17837"}
-  - {"name":"extended", "content":"https://arxiv.org/pdf/1803.08977.pdf"}
-  - {"name":"workshop", "content":"https://arxiv.org/pdf/1801.00317.pdf"}
-  - {"name":"slides", "content":"/slides/misinfo_2018.pdf"}
-  - {"name":"poster", "content":"/posters/icwsm_2018.pdf"}
-  - {"name":"workshop poster", "content":"/posters/misinfo_2018.pdf"}
+  - {"name":"📜 Paper", "content":"https://www.aaai.org/ocs/index.php/ICWSM/ICWSM18/paper/view/17837"}
+  - {"name":"📜 Extended", "content":"https://arxiv.org/pdf/1803.08977.pdf"}
+  - {"name":"🔗️ Code", "content":"https://github.com/manoelhortaribeiro/HatefulUsersTwitter"}
+  - {"name": "🗄 Data", "content": "https://www.kaggle.com/manoelribeiro/hateful-users-on-twitter"}
+
+  - {"name":"▶️ Slides", "content":"/slides/misinfo_2018.pdf"}
+  - {"name":"📃 Poster", "content":"/posters/icwsm_2018.pdf"}
+  
+src: "https://arxiv.org/pdf/1803.08977.pdf"
+name_file: '2018_icwsm'
+
 ---

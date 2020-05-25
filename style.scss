@@ -25,15 +25,19 @@ body {
 
 .container {
   margin: 0 auto;
-  max-width: 600px;
-  padding: 0 10px;
+  max-width: 700px;
   width: 100%;
+}
+
+#maincont {
+  max-width: 850px;
+  width: 100%;
+
 }
 
 a {
   color: $darkGray;
   text-decoration: underline;
-  text-decoration-skip: ink;
   text-decoration-color: $darkGray;
 
   &:hover, &:visited {
@@ -61,9 +65,13 @@ h1, h2, h3, h4, h5, h6 {
   }
 }
 
+hr {
+  margin-top: 5px;
+  margin-bottom: 5px;
+}
+
 h1 {
   font-size: 26px;
-
 }
 
 h2 {
@@ -75,13 +83,12 @@ h3 {
 }
 
 p {
-  font-size: 18px;
-  margin: 12px 0;
+  font-size: 15px;
+  margin: 5px;
   color: $black;
 }
 
 ul, ol {
-  margin: 1512 0;
   padding-left: 30px;
 }
 
@@ -111,6 +118,7 @@ strong, b {
 
 img {
   max-width: 100%;
+
 }
 
 // Fixes images in popup boxes from Google Translate
@@ -121,6 +129,7 @@ img {
 .date {
   font-style: italic;
   color: $gray;
+  font-size: 12px;
 }
 
 // Specify the color of the selection
@@ -155,9 +164,8 @@ img {
 //
 
 .wrapper-masthead {
-  margin-bottom: 10px;
+  margin-bottom: 4px;
 }
-
 
 .masthead {
   padding: 50px 0px 10px 0px;
@@ -166,13 +174,15 @@ img {
 
 .site-avatar {
   display: inline-block;
-  margin: 0 auto;
-  width: 150px;
+  height: 100%;
 
   img {
-    border: 12px solid $black;
+    max-width: 150px;
+    border-radius: 2000px;
+    margin-top: 5px;
+    margin-left: auto;
+    margin-right: auto;
   }
-
 }
 
 .site-info {
@@ -182,8 +192,7 @@ img {
 
   a {
     text-decoration: none;
-    text-decoration-skip: ink;
-    text-decoration-color: $darkGray;
+    text-decoration-color: black;
 
     &:hover, &:visited {
       background: none;
@@ -191,21 +200,20 @@ img {
 
     &:active {
       background: none;
-
     }
   }
-
 }
 
 
 .site-name {
   margin: 0 auto;
+
   a {
-      cursor: pointer;
-  color: $black;
-  font-family: $title;
-  font-weight: 500;
-  font-size: 35px;
+    cursor: pointer;
+    color: $black;
+    font-family: $title;
+    font-weight: 500;
+    font-size: 35px;
   }
 }
 
@@ -213,7 +221,6 @@ img {
   margin: -5px 0 0 0;
   color: $gray;
   font-size: 16px;
-
   @include mobile {
     margin: 3px 0;
   }
@@ -235,110 +242,222 @@ nav {
 
 }
 
-header{
-      padding: 20px;
-
+header {
+  padding: 20px;
 }
 
 //
 // .main
 //
+.col-md-9 {
+  h1 {
+    padding-bottom: 5px;
+    padding-top: 5px;
+  }
+}
 
-
-
-.entry {
+.col-md-3 {
   img {
-    margin: 0 auto;
-    display: block;
+    margin: 5px auto;
+  }
+}
+
+.pub {
+  //flex-grow: 4;
+  //flex-basis: auto;
+  display: inline-block;
+  border-bottom: RGBA(1,1,1,0.25) solid 1px;
+
+  width: 300px;
+
+  margin: 5px auto;
+  //p, a, h1 {
+  //  color: black;
+  //  display: inline;
+  //}
+  h1 {
+    margin: 2px;
+    font-family: "Baskerville";
+    font-size: 16px;
+    border-top: RGBA(1,1,1,0.25) solid 1px;
+  }
+  i {
+    font-size: 12px;
+    display: inline;
+  }
+  .small {
+    font-size: 8px;
 
   }
 }
 
 .actual-post {
 
+  img {
+    margin-top: 20px;
+    margin-bottom: 10px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+  }
+
   h1 {
     font-family: $nav;
-    font-size: 25px;
+    font-size: 30px;
 
   }
 
   h2 {
     font-family: $nav;
-    font-size: 26px;
+    font-size: 25px;
+  }
+
+  h3 {
+    font-family: $nav;
+    font-size: 20px;
+  }
+
+  p, li {
+    font-size: 16px;
+    font-family: $body;
+  }
+
+  code {
+    padding: .2em .4em;
+    margin: 0;
+    font-size: 14px;
+    background-color: rgba(27, 31, 35, .05);
+    border-radius: 3px;
+  }
+
+  pre {
+    word-wrap: normal;
+  }
+
+  pre > code {
+    padding: 0;
+    margin: 0;
+    font-size: 11px;
+    word-break: normal;
+    white-space: pre;
+    background: transparent;
+    border: 0;
+  }
+
+  .highlight {
+    margin-bottom: 12px;
+  }
+
+  .highlight pre {
+    margin-bottom: 0;
+    word-break: normal;
+  }
+
+  .highlight pre,
+  pre {
+    padding: 12px;
+    overflow: auto;
+    font-size: 11px;
+    line-height: 1.45;
+    background-color: #f6f8fa;
+    border-radius: 3px;
+  }
+
+  pre code {
+    display: inline;
+    max-width: auto;
+    padding: 0;
+    margin: 0;
+    overflow: visible;
+    line-height: inherit;
+    word-wrap: normal;
+    background-color: initial;
+    border: 0;
   }
 
   blockquote {
-    margin: 1.8em .8em;
-    border-left: 2px solid $gray;
-    padding: 0.1em 1em;
-    color: $gray;
-    font-size: 22px;
-    font-style: italic;
+    background: #f9f9f9;
+    border-left: 10px solid #ccc;
+    margin: 1.5em 10px;
+    padding: 0.5em 10px;
   }
 
+  blockquote:before {
+    color: #ccc;
+    font-size: 4em;
+    line-height: 0.1em;
+    margin-right: 0.25em;
+    vertical-align: -0.4em;
+  }
+
+  blockquote p {
+    display: inline;
+  }
+
+
 }
 
-.wrapper-footer {
-  margin-top: 50px;
-}
 
 footer {
-  margin: 20px auto;
   text-align: center;
-  border-top: 1px solid #000;
-  max-width: 350px;
 
   p {
-    font-size: 12px;
+    font-size: 10px;
+    font-family: $body;
   }
 }
-
 
 .post {
 
-  padding: 10px;
-  margin-bottom: 15px;
-  margin-top: 15px;
-  border: $lightGray solid 0.5px;
+  padding: 0px;
+  margin-bottom: 0px;
+  margin-top: 0px;
+  display: inline-block;
+  background: RGBA(0, 0, 0, 0.0025);
 
   h1 {
     margin: 0 auto;
     color: $black;
     font-family: $body;
-    font-size: 16px;
+    font-size: 12px;
   }
 
-    h2 {
+  h2 {
+    font-family: $body;
+    display: inline;
+    font-size: 11px;
+
+  }
+
+  h3 {
     font-family: $body;
 
-    display: inline;
-    font-size: 14px;
   }
 
-  .post-tag{
+
+  .post-tag {
     display: inline;
     padding: 0;
     font-family: $body;
     color: $gray;
-    font-size: 14px;
+    font-size: 10px;
 
   }
 
-  .author-tag{
-    display: inline;
-    padding-right: 5px;
+  .author-tag {
     font-family: $body;
+    padding: 0;
+    margin: 0;
     color: black;
-    font-size: 14px;
-
+    font-size: 10px;
   }
 
-  .stuff{
-    display: inline;
-    padding-right: 5px;
+  .stuff {
     font-family: $body;
+    padding: 0;
+    margin: 0;
     color: $gray;
-    font-size: 14px;
+    font-size: 10px;
   }
 
 }
@@ -349,19 +468,17 @@ footer {
     font-size: 12px;
   }
 
-  #tags-nav{
-        text-align: center;
-  border: 1px dotted $gray;
+  #tags-nav {
 
-  a {
-    margin: 5px;
-        display: inline;
-    padding: 0;
-    font-family: $body;
-    color: $gray;
-    font-size: 16px;
+    a {
+      margin: 1px;
+      display: inline;
+      padding: 0;
+      font-family: $body;
+      color: $gray;
+      font-size: 9px;
+    }
   }
-}
 }
 
 

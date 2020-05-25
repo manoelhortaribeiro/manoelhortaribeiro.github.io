@@ -7,13 +7,19 @@
 
     <script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
 
+    <!-- Latest compiled and minified CSS -->
+<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap.min.css" integrity="sha384-HSMxcRTRxnN+Bdg0JdbxYKrThecOKuH5zCYotlSAcp1+c8xmyTe9GYg1l9a69psu" crossorigin="anonymous">
 
-    <link rel="stylesheet" type="text/css" href="//cdn.jsdelivr.net/npm/slick-carousel@1.8.1/slick/slick.css"/>
+<!-- Optional theme -->
+<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap-theme.min.css" integrity="sha384-6pzBo3FDv/PJ8r2KRkGHifhEocL+1X2rVCTTkUfGk7/0pbek5mMa1upzvWbrUbOZ" crossorigin="anonymous">
+
+<!-- Latest compiled and minified JavaScript -->
+<script src="https://stackpath.bootstrapcdn.com/bootstrap/3.4.1/js/bootstrap.min.js" integrity="sha384-aJ21OjlMXNL5UyIl/XNwTMqvzeRMZH2w8c5cRVpzpU8Y5bApTppSuUkhZXN0VxHd" crossorigin="anonymous"></script>
+
+
     <link rel="stylesheet" type="text/css" href="{{ site.baseurl }}/style.css"/>
     <link rel="alternate" type="application/rss+xml" title="{{ site.name }} - {{ site.description }}"
           href="{{ site.baseurl }}/feed.xml"/>
-      <link rel="stylesheet" type="text/css" href="{{ site.baseurl }}/stuff/slick/slick.css"/>
-      <link rel="stylesheet" type="text/css" href="{{ site.baseurl }}/stuff/slick/slick-theme.css"/>
 </head>
 
 <body>
@@ -23,7 +29,6 @@
 <div class="wrapper-masthead">
     <div class="container">
         <header class="masthead clearfix">
-            <span class="site-avatar"><img src="{{ site.avatar }}"/></span>
 
             <div class="site-info">
 
@@ -42,34 +47,16 @@
     </div>
 </div>
 
-<div id="main" role="main" class="container">
+<div  class="container">
     {{ content }}
 </div>
 
-<div class="wrapper-footer">
-    <div class="container">
-        <footer class="footer">
-            {% include svg-icons.html %}
-        </footer>
-    </div>
-</div>
+
 
 {% include analytics.html %}
 
 <script type="text/javascript" src="//code.jquery.com/jquery-1.11.0.min.js"></script>
 <script type="text/javascript" src="//code.jquery.com/jquery-migrate-1.2.1.min.js"></script>
-<script type="text/javascript" src="{{ site.baseurl }}/stuff/slick/slick.min.js"></script>
 
-<script type="text/javascript">
-    $(document).ready(function () {
-        $('.carousel').slick({
-            dots: true,
-            infinite: true,
-            speed: 500,
-            fade: true,
-            cssEase: 'linear'
-        });
-    });
-</script>
 </body>
 </html>

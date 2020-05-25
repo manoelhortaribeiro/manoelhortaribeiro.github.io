@@ -5,7 +5,7 @@
 
 @import url('https://fonts.googleapis.com/css?family=Libre+Baskerville|Lora');
 @import url('https://fonts.googleapis.com/css?family=DM+Serif+Display|Raleway|Futura|IBM+Plex+Serif');
-
+@import url('https://fonts.googleapis.com/css2?family=Anton');
 // Colors
 $blue: #4183C4;
 $lightBlue: #69abec;
@@ -22,6 +22,7 @@ $body: 'IBM Plex Serif', serif;
 $nav: 'IBM Plex Serif', serif;
 $title: 'DM Serif Display', serif;
 $georgia: 'Lora', serif;
+$display: 'Baskerville', sans-serif;
 
 // Mobile breakpoints
 @mixin mobile {

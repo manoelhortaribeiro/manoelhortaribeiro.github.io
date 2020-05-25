@@ -6,6 +6,8 @@ permalink: /posts/2018/01/exploring-user-hate-speech/
 tags:
   - hate-speech
   - online-social-networks
+name_file: '2018-01-12-Exploring-User-Centered'
+lead: "The advent of Online Social Networks has deeply transformed the way people communicate with each other in the contemporary world. Some of these platforms are very popular and aggregate millions of users that, on a daily basis, generate and publish a massive (and growing) amount of data, and even though much of the content produced every day consists of funny and interesting cat videos, some of it is not so cute. This would be the case of *Hate Speech*."
 ---
 
 
