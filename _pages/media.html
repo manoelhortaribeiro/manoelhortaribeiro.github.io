@@ -4,22 +4,15 @@ title:
 permalink: /media
 ---
 
-
-
 <div class="posts">
     <div style="text-align: center">
 
   {% for med in site.media reversed %}
-    {% assign min = 0 %}
-    {% assign max = 1000000 %}
-    {% assign diff = max | minus: min %}
-    {% assign rn = "now" | date: "%N" | modulo: diff | divided_by: 10000 | modulo: 20 | plus: 30 %}
-<!--        {{rn}}-->
+
         <div class="entry pub" style="width: 215px">
         <h1> {{med.venue}} <i>{{med.year}}</i></h1>
             <hr/>
         <p><a href={{ med.link}}>{{ med.title }}</a> </p>
-<!--            <br />-->
         {% assign flag = 0 %}
 
         {% for pub in site.publications reversed %}
@@ -31,42 +24,8 @@ permalink: /media
         <i><a href={{ med.archive}} >(archive)</a></i>
 
         {% endif %}
-
-
       </div>
-
 
   {% endfor %}
             </div>
-
 </div>
-
-<script>
-
-
-
-    var tmp = [];
-    {% for post in site.media %}
-    {% for tag in post.tags %}
-    tmp.push("{{tag}}");
-    {% endfor %}
-    {% endfor %}
-    var topics = new Set(tmp);
-    topics.forEach(function (topic) {
-        d3.selectAll("#tags-nav")
-            .append("a")
-            .text("[" + topic + "]")
-            .attr("onclick","filter_all('" + topic + "')")
-    });
-
-    function filter_all(v){
-        console.log(v);
-        d3.selectAll(".post")
-            .style("display", "none");
-        d3.selectAll(".filterable-" + v)
-            .style("display", "block");
-        if (v == "all")
-            d3.selectAll(".post")
-            .style("display", "block");
-    }
-</script>
