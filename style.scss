@@ -263,18 +263,12 @@ header {
 }
 
 .pub {
-  //flex-grow: 4;
-  //flex-basis: auto;
+
   display: inline-block;
   border-bottom: RGBA(1,1,1,0.25) solid 1px;
-
   width: 300px;
-
   margin: 5px auto;
-  //p, a, h1 {
-  //  color: black;
-  //  display: inline;
-  //}
+
   h1 {
     margin: 2px;
     font-family: "Baskerville";
@@ -287,7 +281,6 @@ header {
   }
   .small {
     font-size: 8px;
-
   }
 }
 
@@ -365,7 +358,6 @@ header {
 
   pre code {
     display: inline;
-    max-width: auto;
     padding: 0;
     margin: 0;
     overflow: visible;
@@ -393,10 +385,7 @@ header {
   blockquote p {
     display: inline;
   }
-
-
 }
-
 
 footer {
   text-align: center;
@@ -415,6 +404,12 @@ footer {
   display: inline-block;
   background: RGBA(0, 0, 0, 0.0025);
 
+  img {
+    border: RGBA(1, 1, 1, 0.25) 1px solid;
+    margin: 3px;
+    padding: 3px;
+  }
+
   h1 {
     margin: 0 auto;
     color: $black;
@@ -426,14 +421,11 @@ footer {
     font-family: $body;
     display: inline;
     font-size: 11px;
-
   }
 
   h3 {
     font-family: $body;
-
   }
-
 
   .post-tag {
     display: inline;
@@ -441,7 +433,6 @@ footer {
     font-family: $body;
     color: $gray;
     font-size: 10px;
-
   }
 
   .author-tag {
@@ -459,7 +450,6 @@ footer {
     color: $gray;
     font-size: 10px;
   }
-
 }
 
 #nav-blog {
@@ -469,7 +459,6 @@ footer {
   }
 
   #tags-nav {
-
     a {
       margin: 1px;
       display: inline;
@@ -481,9 +470,6 @@ footer {
   }
 }
 
-
-// Settled on moving the import of syntax highlighting to the bottom of the CSS
-// ... Otherwise it really bloats up the top of the CSS file and makes it difficult to find the start
 @import "highlights";
 @import "svg-icons";
 @import "custom"
