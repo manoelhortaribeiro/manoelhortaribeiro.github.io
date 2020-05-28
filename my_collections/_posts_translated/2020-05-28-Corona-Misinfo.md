@@ -15,12 +15,12 @@ Se você quiser pode ver a thread original [aqui](https://twitter.com/oatila/sta
 
 Depois de dar minha opinião na madrugada (estou fazendo meu doutorado na Suíça), acordei pensando sobre o assunto e decidi me alongar mais um pouco sobre ele. 
 Acho que isso é um exemplo muito bacana para discutir estudos experimentais (onde os pesquisadores cuidadosamente desenham uma intervenção) e observacionais (com dados que já existem), e também falar das limitações e das dificuldades de fazer pesquisa misturando o mundo real e o virtual. 
-Como essa postagem trata de um assunto muito sério, vale um disclaimer: eu não sou médico, sou um doutorando em computação que meche com redes sociais e estudos observacionais. 
+Como essa postagem trata de um assunto muito sério, vale um disclaimer: eu não sou médico, sou um doutorando em computação que mexe com redes sociais e estudos observacionais. 
 Sei sobre causalidade e estatística, mas o que eu estou escrevendo aqui é mais uma série de pensamentos incompletos do que um plano rigoroso para um estudo.
 
 ## A rota experimental
 
-Num mundo hipotético, poderíamos fazer esse estudo da desinformação com um experimento controlado. Por exemplo, escolheríamos participantes completamente ao acaso, e para uma metade (o grupo de tratamento) dos participantes mandaríamos notícias falsas e pra outra metade (o grupo controle), notícias verdadeiras. Então poderíamos medir, para cada uma das duas populações, qual foi a taxa de incidência do coronavírus, o número de mortes, etc. Essa abordagem não é possível pois acarreta um grande problema ético: estaríamos expondo uma parcela da população à potenciais riscos de saúde. 
+Num mundo hipotético, poderíamos fazer esse estudo da desinformação com um experimento controlado. Por exemplo, escolheríamos participantes completamente ao acaso, e para uma metade (o grupo de tratamento) dos participantes mandaríamos notícias falsas e pra outra metade (o grupo controle), notícias verdadeiras. Então poderíamos medir, para cada uma das duas populações, qual foi a taxa de incidência do coronavírus, o número de mortes, etc. Essa abordagem não é possível pois acarreta um grande problema ético: estaríamos expondo uma parcela da população a potenciais riscos de saúde. 
 
 Outra abordagem possível seria tentar usar intervenções para reduzir o impacto de notícias falsas. Então ao invés de enviar notícias falsas para os candidatos, enviaríamos informação confiável e que desmente notícias falsas para o grupo tratamento, e nada para um grupo controle.  
 
@@ -52,8 +52,8 @@ Vamos representar a existência dessas variáveis como uma linha pontilhada entr
 <em>Modelo 3: A linha tracejada representa co-fatores!</em>
 <br />
 
-No nosso cenário não existe nenhum co-fator entre "Receber checagens" e “Acreditar em notícias falsas”, por que as checagens estão sendo mandadas aleatóriamente para metade da populacão! 
-A exclamação não é àtoa, por que essa estrutura de grafo que acabamos de ver é particularmente amena à inferência causal. 
+No nosso cenário não existe nenhum co-fator entre "Receber checagens" e “Acreditar em notícias falsas”, porque as checagens estão sendo mandadas aleatóriamente para metade da populacão! 
+A exclamação não é àtoa, pois essa estrutura de grafo que acabamos de ver é particularmente amena à inferência causal. 
 Podemos dizer que "Receber checagens" é um instrumento, e existem técnicas para medir a influência de “Acreditar em notícias falsas” e, “Ser infectado com o COVID-19” usando essa terceira variável. 
 
 Contudo, a parte triste da história é que teríamos de conseguir primeiro estudar o impacto das checagens no consumo de desinformação dos indivíduos. Sinceramente, não sei exatamente como isso poderia ser feito, pois esse impacto é extremamente subjetivo. Por exemplo, poderíamos coletar todos os links vistos por cada participante (que já é algo bem improvável de se conseguir) e contar quantas fake news cada pessoa viu. Além do fato de que isso é extremamente difícil de se obter por motivos de privacidade e que o processo envolveria classificar centenas de notícias como verdadeiras ou falsas, pode ser que mesmo com as checagens a pessoa continue recebendo desinformação, só que ela não acredita nela mais.
