@@ -13,7 +13,7 @@ permalink: /publications
 {% for n in (2017..2020) reversed %}
 
     <p style="margin: 0; text-align: right">{{n}}</p>
-    <hr />
+    <hr  style="border-bottom: 1.5px solid #333333; "/>
 
   {% for pub in site.publications reversed %}
     {% if pub.year == n %}
@@ -27,7 +27,7 @@ permalink: /publications
 
     <div class="row">
     <div  class="col-md-3" style="alignment: center">
-      <img src="{{ site.baseurl }}/images/paper_teasers/{{pub.name_file}}.png" style="display: block; max-width: 125px"/>
+      <img src="{{ site.baseurl }}/images/paper_teasers/{{pub.name_file}}.png" style="display: inline-block; max-width: 125px"/>
 
     </div>
 
@@ -76,6 +76,8 @@ permalink: /publications
     </div>
     </div>
     </article>
+            <hr />
+
     {% endif %}
 
   {% endfor %}
