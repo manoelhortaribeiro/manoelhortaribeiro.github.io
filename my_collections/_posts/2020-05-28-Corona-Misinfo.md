@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Measuring the impact of misinformation amidst the pandemic (pt. 1)'
-date: 2020-01-05
+date: 2020-05-28
 permalink: /posts/2020/05/corona-misinfo
 
 translated: /posts_translated/2020/05/corona-misinfo_pt
