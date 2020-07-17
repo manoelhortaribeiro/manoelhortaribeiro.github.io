@@ -163,11 +163,11 @@ Which will output something like:
     
 Then add edit file, adding the following lines to the top:
 
-c.NotebookApp.ip = '*'
-c.NotebookApp.open_browser = False
-c.NotebookApp.password = 'sha1:0686104888f6:79c7e12f64925ceb0e859aa23934e41798ba7da8'
-c.NotebookApp.port = 1234
-    
+    c.NotebookApp.ip = '*'
+    c.NotebookApp.open_browser = False
+    c.NotebookApp.password = 'sha1:0686104888f6:79c7e12f64925ceb0e859aa23934e41798ba7da8'
+    c.NotebookApp.port = 1234
+
 This will make jupyter run on port 1234 (you may need to change this!), and will ask for your password!
 Now create a new screen and run jupyter
 
