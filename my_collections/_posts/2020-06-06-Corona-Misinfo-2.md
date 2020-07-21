@@ -4,7 +4,7 @@ title: 'Measuring the impact of misinformation amidst the pandemic (pt. 2)'
 date: 2020-06-06
 permalink: /posts/2020/06/corona-misinfo-2
 
-translated: /posts_translated/2020/05/corona-misinfo-2_pt
+translated: /posts_translated/2020/06/corona-misinfo-2_pt
 
 name_file: "2020-06-06-Corona-Misinfo-2"
 

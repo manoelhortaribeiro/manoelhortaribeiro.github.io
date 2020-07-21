@@ -2,7 +2,7 @@
 layout: post
 title: 'Algumas ideias sobre como medir o impacto da desinformação na pandemia (pt. 2)'
 date: 2020-06-06
-permalink: /posts_translated/2020/05/corona-misinfo-2_pt
+permalink: /posts_translated/2020/06/corona-misinfo-2_pt
 
 ---
 
