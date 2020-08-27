@@ -3,7 +3,7 @@ title: 'Radikalisiert uns Youtube? Ein Selbstversuch'
 
 year: 2020
 
-venue: "NZZ"
+venue: "🇨🇭NZZ"
 
 link: "https://www.nzz.ch/technologie/radikalisiert-uns-youtube-ein-selbstversuch-ld.1566778?reduced=true"
 
