@@ -10,9 +10,19 @@ permalink: /publications
 
 <div class="posts">
 
-{% for n in (2017..2020) reversed %}
 
-    <p style="margin: 0; text-align: right">{{n}}</p>
+{% for n in (2017..2022) reversed %}
+
+    {% if n > 2020 %}
+        {% if n == 2022 %}
+            <p style="margin: 0; text-align: right">Pre-prints</p>
+        {% else %}
+        <p style="margin: 0; text-align: right">{{n}} (forthcoming)</p>
+        {% endif %}
+    {% else %}
+        <p style="margin: 0; text-align: right">{{n}}</p>
+    {% endif %}
+
     <hr  style="border-bottom: 1.5px solid #333333; "/>
 
   {% for pub in site.publications reversed %}
