@@ -9,9 +9,9 @@ authors:
     - Markus Strohmaier
     - Robert West
 
-year: 2022
+year: 2021
 
-conf: 'Preprint'
+conf: 'ICWSM 2021'
 
 links:
   - {"name": "📜 Paper", "content": "https://arxiv.org/abs/2005.08505"}
