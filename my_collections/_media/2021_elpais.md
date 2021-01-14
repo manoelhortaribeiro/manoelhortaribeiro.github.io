@@ -1,7 +1,7 @@
 ---
 title: 'La victoria de los troles: de cómo Internet se ha convertido en la vida real'
 
-year: 2020
+year: 2021
 
 venue: "🇪🇸 El País"
 

@@ -1,5 +1,5 @@
 ---
-title: 'Ameaças ao STF e incels: comunidades misóginas virtuais estão mais tóxicas'
+title: 'Banning Trump from Social Media Makes Sense. But Beware the Downside'
 
 year: 2021
 
