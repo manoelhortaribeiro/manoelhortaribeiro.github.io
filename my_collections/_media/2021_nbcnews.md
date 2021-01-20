@@ -1,5 +1,5 @@
 ---
-title: 'Does 'deplatforming' work? Trump's most extreme fans will find him, research says'
+title: "Does 'deplatforming' work? Trump's most extreme fans will find him, research says"
 
 year: 2021
 
