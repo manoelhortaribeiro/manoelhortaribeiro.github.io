@@ -1,5 +1,5 @@
 ---
-title: 'Does ‘deplatforming’ work to curb hate speech and calls for violence? 3 experts in online communications weigh in'
+title: "Does ‘deplatforming’ work to curb hate speech and calls for violence? 3 experts in online communications weigh in"
 
 year: 2021
 
