@@ -1,5 +1,5 @@
 ---
-title: 'Sudden Attention Shifts on Wikipedia Following COVID-19 Mobility Restrictions'
+title: 'Sudden Attention Shifts on Wikipedia During the COVID-19 Crisis'
 
 authors:
     - Manoel Horta Ribeiro *
