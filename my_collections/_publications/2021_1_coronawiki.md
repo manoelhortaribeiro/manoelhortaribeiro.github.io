@@ -13,7 +13,7 @@ authors:
 
 year: 2022
 
-conf: 'preprint'
+conf: 'Preprint'
 
 links:
   - {"name": "📜 Paper", "content": "https://arxiv.org/abs/2102.10090"}
