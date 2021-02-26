@@ -60,6 +60,9 @@ permalink: /publications
             {% if author == "Manoel Horta Ribeiro" %}
             <b style="display: inline-block">{{ author }} |</b>
             {% else %}
+            {% if author == "Manoel Horta Ribeiro *" %}
+            <b style="display: inline-block">{{ author }} |</b>
+            {% else %}
             <span style="display: inline-block"> {{ author }} |</span>
             {% endif %}
             {% endfor %}</p>
