@@ -65,6 +65,7 @@ permalink: /publications
             {% else %}
             <span style="display: inline-block"> {{ author }} |</span>
             {% endif %}
+            {% endif %}
             {% endfor %}</p>
         <p class="stuff">{{pub.conf}}</p>
         <p class="stuff">{% for link_content in pub.links %} <a href="{{link_content.content}}"> {{link_content.name}}</a> | {% endfor %}</p>
