@@ -9,6 +9,6 @@ link: "https://www.newscientist.com/article/2269414-wikipedia-has-seen-a-spike-i
 
 archive: "./files/new_scientist_1.pdf"
 
-related_paper:  'Volunteer contributions to Wikipedia increased during COVID-19 mobility restrictions'
+related_paper: 'Volunteer contributions to Wikipedia increased during COVID-19 mobility restrictions'
 
 ---
