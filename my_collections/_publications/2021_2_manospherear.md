@@ -7,6 +7,8 @@ authors:
 - Manoel Horta Ribeiro
 - Robert West
 
+student: ☆
+
 year: 2022
 
 conf: 'Preprint'

@@ -5,7 +5,14 @@ permalink: /publications
 ---
 
 <div style="text-align: center;">
-    <small style="font-size: 10px;"> (This is a curated list of publications, for a complete list, check <a href="https://scholar.google.com/citations?user=IN55QyEAAAAJ&hl=en">google schoolar</a>)</small>
+    <small style="font-size: 10px;">
+        This is a curated list of publications, for a complete list, check <a href="https://scholar.google.com/citations?user=IN55QyEAAAAJ&hl=en">google schoolar</a>.
+        <br />
+        Titles from papers of students I (co-)supervised are marked with a ☆.
+        <br />
+        <br />
+
+    </small>
 </div>
 
 <div class="posts">
@@ -15,12 +22,12 @@ permalink: /publications
 
     {% if n > 2020 %}
         {% if n == 2022 %}
-            <p style="margin: 0; text-align: right">Pre-prints</p>
+            <p style="margin: 0; text-align: center">Pre-prints</p>
         {% else %}
-        <p style="margin: 0; text-align: right">{{n}} (forthcoming)</p>
+        <p style="margin: 0; text-align: center">{{n}} (forthcoming)</p>
         {% endif %}
     {% else %}
-        <p style="margin: 0; text-align: right">{{n}}</p>
+        <p style="margin: 0; text-align: center">{{n}}</p>
     {% endif %}
 
     <hr  style="border-bottom: 1.5px solid #333333; "/>
@@ -54,7 +61,13 @@ permalink: /publications
 <!--        {% endfor %}-->
       </div>
 
-        <h1>{{ pub.title }}</h1>
+        <h1>
+            {{ pub.title }}<sup><small>{{pub.student}}</small></sup>
+
+
+
+
+        </h1>
 
         <p class="author-tag">{% for author in pub.authors %}
             {% if author == "Manoel Horta Ribeiro" %}
@@ -90,7 +103,7 @@ permalink: /publications
     </div>
     </div>
     </article>
-            <hr />
+            <br />
 
     {% endif %}
 
