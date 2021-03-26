@@ -10,9 +10,9 @@ authors:
     - Gianluca Stringhini
     - Robert West
 
-year: 2022
+year: 2021
 
-conf: 'Preprint'
+conf: 'CSCW 2021'
 
 links:
   - {"name": "📜 Paper", "content": "https://arxiv.org/abs/2010.10397"}

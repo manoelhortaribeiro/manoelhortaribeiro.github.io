@@ -1,0 +1,43 @@
+---
+- links:
+#    - {"date": "2021-03-30", "text": "🏆 I have received a Facebook fellowship award to continue my ongoing work on understanding and improving our information ecosystem",
+#       "link":"todo"}
+    - {"date": "2021-03-24", "text": "📜 Paper accepted at CSCW 2021: \"Does Platform Migration Compromise Content
+    Moderation? Evidence from r/The_Donald and r/Incels\"", "link": "https://arxiv.org/abs/2010.10397" }
+    - {"date": "2021-03-19", "text": "📜 Dataset paper accepted at ICWSM 2021: \"YouNiverse: Large-Scale Channel and Video
+    Metadata from English-Speaking YouTube\"", "link": "https://arxiv.org/abs/2012.10378"}
+    - {"date": "2020-11-20", "text": "🏆 My MSc thesis was won 3rd place in the SBC (Brazilian Computing Society) Master Thesis Awards",
+       "link":"http://www2.sbc.org.br/csbc2020/ganhadores-33o-ctd-concurso-de-teses-e-dissertacoes-2/" }
+    - {"date": "2020-07-15", "text": "📜 Two papers accepted at ICWSM 2021: \"The Evolution of the Manosphere Across the Web
+\" and \"Sudden Attention Shifts on Wikipedia During the COVID-19 Crisis\"", "links": ["https://arxiv.org/abs/2001.07600", "https://arxiv.org/abs/2005.08505"] }
+    - {"date": "2020-04-09", "text": "📜 Paper out at Nature Communications: \"Automatic diagnosis of the 12-lead ECG using a deep neural network\", check photo for picture of 1/4th of authors",
+       "link": "https://www.nature.com/articles/s41467-020-15432-4/", "photo": "/images/photos/very_serious_authors.jpeg"}
+    - {"date": "2020-01-28", "text": "🎬 Presented \"Auditing Radicalization Pathways on YouTube\" at FAT*2020 in Barcelona", "link": "https://www.youtube.com/watch?v=zju-J53S4W0"}
+    - {"date": "2019-12-17",  "text": "🏆 \"Auditing Radicalization Pathways on YouTube\" was considered one of the top 100 most influential papers in 2019 (3rd in Computer Science)", "link":"https://www.altmetric.com/top100/2019/?details=65319049"}
+    - {"date": "2019-11-20", "text": "📜 Paper accepted at FAT*2020: \"Auditing Radicalization Pathways on YouTube\"", "link": "https://dl.acm.org/doi/abs/10.1145/3351095.3372879"}
+    - {"date": "2019-08-31", "text": "🎒Moved to Switzerland to do my PhD at EPFL!", "photo": "/images/photos/epfl.jpeg"}
+    - {"date": "2019-08-13", "text": "🎓 Defended my MSc Thesis: \"Misinformation, Radicalization and Hate Through the Lens of Users\"", "photo":  "/images/photos/msc_thesis_def.jpeg"}
+    - {"date": "2019-05-19", "text": "🎬 Presented \"Message Distortion in Information Cascades\" at the TheWebConf 2019, in San Francisco",
+       "link": "https://manoelhortaribeiro.github.io/posters/icwsm_2018.pdf", "photo": "/images/photos/www_2019.pdf" }
+    - {"date": "2019-01-21", "text": "📜 Paper accepted at TheWebConf 2019: \"Message Distortion in Information Cascades\"", "link": "https://dl.acm.org/doi/10.1145/3308558.3313531"}
+    - {"date": "2018-10-24",  "text": "🏆 Google will be sponsoring my MSc research through their Latin America Research Award", "link":"https://research.google/outreach/featured-research-collaborations/latin-america-research-awards/recipients/?category=2018",
+    "photo": "/images/photos/lara.jpeg"}
+    - {"date": "2018-07-01", "text": "☀️ This summer I'll work with Bob West at the Summer@EPFL program", "link": "https://dlab.epfl.ch/2018-11-20-summer-at-epfl-interns-2018/",
+       "photo": "/images/photos/lab_hike.jpg"}
+    - {"date": "2018-07-22", "text": "🎬 Presented \"Characterizing and Detecting Hateful Users on Twitter\" in ICWSM 2018, at Stanford",
+       "link": "https://manoelhortaribeiro.github.io/posters/icwsm_2018.pdf", "photo": "/images/photos/very_formal_ceremony.jpg" }
+    - {"date": "2018-03-22", "text": "📜 Paper accepted at ICWSM 2018: \"Characterizing and Detecting Hateful Users on Twitter\"", "link": "https://arxiv.org/abs/1803.08977"}
+    - {"date": "2017-08-12", "text": "🎒 Attended the Cornell, Maryland, Max Planck Pre-doctoral Research School", "photo": "/images/photos/saarbrucken.jpeg"}
+    - {"date": "2017-08-01", "text": "🎒 Joined UFMG MSc program" }
+    - {"date": "2017-07-26",  "text": "🏆 Won Best Graduating Student Award for my BSc degree at UFMG"}
+    - {"date": "2017-07-19", "text": "🎓 Got a BSc in Computer Science from UFMG in a super formal ceremony", "photo":  "/images/photos/very_formal_ceremony.jpg"}
+
+
+
+
+
+
+
+
+
+

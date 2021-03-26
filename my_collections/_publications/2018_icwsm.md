@@ -17,7 +17,6 @@ links:
   - {"name":"📜 Extended", "content":"https://arxiv.org/pdf/1803.08977.pdf"}
   - {"name":"🔗️ Code", "content":"https://github.com/manoelhortaribeiro/HatefulUsersTwitter"}
   - {"name": "🗄 Data", "content": "https://www.kaggle.com/manoelribeiro/hateful-users-on-twitter"}
-
   - {"name":"▶️ Slides", "content":"/slides/misinfo_2018.pdf"}
   - {"name":"📃 Poster", "content":"/posters/icwsm_2018.pdf"}
   

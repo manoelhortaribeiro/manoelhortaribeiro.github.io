@@ -155,6 +155,40 @@ img {
   clear: both;
 }
 
+.news-box {
+
+  border: $lightGray 1px solid;
+
+  ul {
+    margin-left: 1px;
+    padding-left: 0;
+  }
+
+  .datev {
+    padding-left: 5px;
+
+    font-size: 9px;
+    font-weight: bold;
+
+  }
+
+  td {
+    //background: #FEFEFE;
+    background: #FEFEFF;
+    font-size: 11px;
+    padding-bottom: 3px;
+    padding-top: 3px;
+  }
+
+  tr {
+    margin-bottom: 3px;
+    margin-top: 3px;
+  }
+  //li:nth-child(odd) {
+  //  background: #FFFEFE;
+  //}
+}
+
 /*********************/
 /* LAYOUT / SECTIONS */
 /*********************/
