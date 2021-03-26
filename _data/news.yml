@@ -18,7 +18,7 @@
     - {"date": "2019-08-31", "text": "🎒Moved to Switzerland to do my PhD at EPFL!", "photo": "/images/photos/epfl.jpeg"}
     - {"date": "2019-08-13", "text": "🎓 Defended my MSc Thesis: \"Misinformation, Radicalization and Hate Through the Lens of Users\"", "photo":  "/images/photos/msc_thesis_def.jpeg"}
     - {"date": "2019-05-19", "text": "🎬 Presented \"Message Distortion in Information Cascades\" at the TheWebConf 2019, in San Francisco",
-       "link": "https://manoelhortaribeiro.github.io/posters/icwsm_2018.pdf", "photo": "/images/photos/www_2019.pdf" }
+       "link": "/posters/www_2019.pdf", "photo": "/images/photos/www2019.jpeg" }
     - {"date": "2019-01-21", "text": "📜 Paper accepted at TheWebConf 2019: \"Message Distortion in Information Cascades\"", "link": "https://dl.acm.org/doi/10.1145/3308558.3313531"}
     - {"date": "2018-10-24",  "text": "🏆 Google will be sponsoring my MSc research through their Latin America Research Award", "link":"https://research.google/outreach/featured-research-collaborations/latin-america-research-awards/recipients/?category=2018",
     "photo": "/images/photos/lara.jpeg"}
