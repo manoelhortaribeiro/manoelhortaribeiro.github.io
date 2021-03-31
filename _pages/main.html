@@ -43,7 +43,7 @@ permalink: /
     {% for entry in tmp.links %}
 
       <tr>
-        <td style="width: 10%" class="datev">{{ entry.date }}</td>
+        <td style="width: 10%; min-width: 75px;" class="datev">{{ entry.date }}</td>
           <td style="width: 90%">
               {{entry.text}}
               {% if entry.link %}
