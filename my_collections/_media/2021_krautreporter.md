@@ -1,4 +1,3 @@
-
 ---
 title: "Warum ich als Mann über Feminismus schreibe"
 
