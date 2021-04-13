@@ -2,6 +2,7 @@
 - links:
 #    - {"date": "2021-03-30", "text": "🏆 I have received a Facebook fellowship award to continue my ongoing work on understanding and improving our information ecosystem",
 #       "link":"todo"}
+    - {"date": "2021-04-13", "text": "📜 Paper accepted at WebSci 2021: \"Are Anti-Feminist Communities Gateways to the Far Right? Evidence from Reddit and YouTube", "link": "https://arxiv.org/abs/2102.12837"}
     - {"date": "2021-03-24", "text": "📜 Paper accepted at CSCW 2021: \"Does Platform Migration Compromise Content
     Moderation? Evidence from r/The_Donald and r/Incels\"", "link": "https://arxiv.org/abs/2010.10397" }
     - {"date": "2021-03-19", "text": "📜 Dataset paper accepted at ICWSM 2021: \"YouNiverse: Large-Scale Channel and Video
