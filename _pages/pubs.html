@@ -18,16 +18,12 @@ permalink: /publications
 <div class="posts">
 
 
-{% for n in (2018..2022) reversed %}
+{% for n in (2017..2021) reversed %}
 
-    {% if n > 2020 %}
-        {% if n == 2022 %}
-            <p style="margin: 0; text-align: center">Pre-prints</p>
-        {% else %}
-        <p style="margin: 0; text-align: center">{{n}}</p>
-        {% endif %}
+    {% if n == 2017 %}
+        <p style="margin: 0; text-align: center">Pre-prints</p>
     {% else %}
-        <p style="margin: 0; text-align: center">{{n}}</p>
+    <p style="margin: 0; text-align: center">{{n}}</p>
     {% endif %}
 
     <hr  style="border-bottom: 1.5px solid #333333; "/>
