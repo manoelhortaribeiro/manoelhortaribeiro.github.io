@@ -9,9 +9,9 @@ authors:
 
 student: ☆
 
-year: 2022
+year: 2021
 
-conf: 'Preprint'
+conf: 'WebSci 2021'
 
 links:
   - {"name": "📜 Paper", "content": "https://arxiv.org/abs/2102.12837"}
