@@ -26,7 +26,7 @@ permalink: /publications
     <p style="margin: 0; text-align: center">{{n}}</p>
     {% endif %}
 
-    <hr  style="border-bottom: 1.5px solid #333333; "/>
+    <hr />
 
   {% for pub in site.publications reversed %}
     {% if pub.year == n %}
@@ -57,12 +57,9 @@ permalink: /publications
 <!--        {% endfor %}-->
       </div>
 
+                <p class="stuff" style="text-align: left; font-size: 12px">[{{pub.conf}}]</p>
         <h1>
             {{ pub.title }}<sup><small>{{pub.student}}</small></sup>
-
-
-
-
         </h1>
 
         <p class="author-tag">{% for author in pub.authors %}
@@ -76,7 +73,6 @@ permalink: /publications
             {% endif %}
             {% endif %}
             {% endfor %}</p>
-        <p class="stuff">{{pub.conf}}</p>
         <p class="stuff">{% for link_content in pub.links %} <a href="{{link_content.content}}"> {{link_content.name}}</a> | {% endfor %}</p>
         {% assign flag = 0 %}
         {% for med in site.media reversed %}
@@ -107,6 +103,6 @@ permalink: /publications
 
 {% endfor %}
 
-    <hr />
+<!--    <hr />-->
 
 </div>

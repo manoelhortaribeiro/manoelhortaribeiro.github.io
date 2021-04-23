@@ -3,7 +3,7 @@ title: "Warum ich als Mann über Feminismus schreibe"
 
 year: 2021
 
-venue: "Krautreporter 🇩🇪"
+venue: "🇩🇪 Krautreporter"
 
 link: "https://krautreporter.de/3780-warum-ich-als-mann-uber-feminismus-schreibe?shared=2b628604-df36-4b35-86c7-6a830bf25077"
 

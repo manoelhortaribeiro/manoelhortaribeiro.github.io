@@ -19,11 +19,12 @@ permalink: /blog
         </div>
 
         <div  class="col-md-9">
-            <h1> <a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a>, {{post.date | slice: 0,10}}</h1>
+            <h1>{{post.date | slice: 0,10}}</h1>
+            <h1> <a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h1>
             <p style="font-size: 10px;"><i> {{post.lead | slice: 0,180 }}</i><b>...</b></p>
 
             {% if post.translated != None %}
-            <h1><a href="{{ site.baseurl }}{{post.translated}}">(Tradução em Português 🇧🇷)</a></h1>
+            <h1>  <a href="{{ site.baseurl }}{{post.translated}}">Tradução em Português 🇧🇷</a></h1>
             {% endif%}
         </div>
     </div>

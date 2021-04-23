@@ -3,7 +3,7 @@ title: "Die Krise als Chance: Aktivität in der Wikipedia durch COVID-19 deutlic
 
 year: 2021
 
-venue: "Wikimedia 🇩🇪"
+venue: "🇩🇪 Wikimedia"
 
 link: "https://blog.wikimedia.de/2021/03/26/die-krise-als-chance-aktivitaet-in-der-wikipedia-durch-covid-19-deutlich-gestiegen/"
 
