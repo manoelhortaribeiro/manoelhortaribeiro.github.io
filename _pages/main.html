@@ -8,7 +8,7 @@ permalink: /
 <div class="col-md-6">
     <span class="frame">
         <span class="site-avatar">
-          <img src="{{ site.avatar }}"/>
+          <img src="{{ site.avatar }}" style="border-radius: 20px"/>
         </span>
     </span>
       <footer class="footer">
@@ -37,7 +37,7 @@ permalink: /
 
         <h2 style="padding: 0px; margin: 0px;">🗞️ news </h2>
 
-        <div class="newsbox" style="height:150px;overflow:auto;">
+        <div class="newsbox" style="height:150px;overflow:auto;border-radius: 10px">
     <table style="width: 100%">
     {% for tmp in site.data.news %}
     {% for entry in tmp.links %}

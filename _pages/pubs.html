@@ -5,14 +5,17 @@ permalink: /publications
 ---
 
 <div style="text-align: center;">
-    <small style="font-size: 10px;">
-        this is a curated list of publications, for a complete list, check <a href="https://scholar.google.com/citations?user=IN55QyEAAAAJ&hl=en">google schoolar</a>
+    <small style="font-size: 12px;">
+        For a complete list, check <a href="https://scholar.google.com/citations?user=IN55QyEAAAAJ&hl=en">Google Schoolar</a>.
         <br />
-        titles from papers of students I (co-)supervised are marked with a ☆
+
+        ☆: Papers with students I helped to supervised
         <br />
         <br />
 
     </small>
+    <div class="divider div-transparent" style="margin-top: 10px; margin-bottom: 30px"></div>
+
 </div>
 
 <div class="posts">
@@ -21,12 +24,14 @@ permalink: /publications
 {% for n in (2017..2021) reversed %}
 
     {% if n == 2017 %}
-        <p style="margin: 0; text-align: center">Pre-prints</p>
+        <p style="margin: 0; text-align: center; font-size: 24px">Pre-prints</p>
+    <br />
     {% else %}
-    <p style="margin: 0; text-align: center">{{n}}</p>
+    <p style="margin: 0; text-align: center; font-size: 24px">{{n}}</p>
+    <br />
     {% endif %}
 
-    <hr />
+<!--    <hr />-->
 
   {% for pub in site.publications reversed %}
     {% if pub.year == n %}
@@ -38,9 +43,12 @@ permalink: /publications
                 {% endfor %} "
     style="display: block;">
 
-    <div class="row">
-    <div  class="col-md-4" style="alignment: center">
-      <img src="{{ site.baseurl }}/images/paper_teasers/{{pub.name_file}}.png" style="display: inline-block; max-width: 200px"/>
+    <div class="row" style="margin-left: 5px; margin-right: 5px;
+    border-right-style: solid; border-right-width: 5px; border-right-color: #333333;
+    border-bottom-style: solid; border-bottom-width: 1px; border-bottom-color: #333333">
+
+    <div  class="col-md-4" style="text-align:center; alignment: center">
+      <img src="{{ site.baseurl }}/images/paper_teasers/{{pub.name_file}}.png" style="display: inline-flex; max-width: 200px"/>
 
     </div>
 
@@ -56,13 +64,13 @@ permalink: /publications
 <!--          </div>-->
 <!--        {% endfor %}-->
       </div>
-
-                <p class="stuff" style="text-align: left; font-size: 12px">[{{pub.conf}}]</p>
-        <h1>
+                <p class="stuff" style="text-align: left; font-size: 15px; margin-top: 10px">[{{pub.conf}}]</p>
+        <h1 style="text-align: left; font-size: 15px">
             {{ pub.title }}<sup><small>{{pub.student}}</small></sup>
         </h1>
 
-        <p class="author-tag">{% for author in pub.authors %}
+
+        <p class="author-tag" style="margin-bottom: 10px; margin-top: 10px">{% for author in pub.authors %}
             {% if author == "Manoel Horta Ribeiro" %}
             <b style="display: inline-block">{{ author }} |</b>
             {% else %}
@@ -82,7 +90,7 @@ permalink: /publications
         {% endfor %}
 
         {% if flag == 1 %}
-        <p class="stuff" style="margin-top: 5px">
+        <p class="stuff" style="margin-top: 10px">
             Media Coverage:
         {% for med in site.media reversed %}
         {% if pub.title == med.related_paper %}

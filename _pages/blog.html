@@ -11,23 +11,29 @@ permalink: /blog
                 {% for tag in post.tags %}
                     filterable-{{tag}}
                 {% endfor %} "  style="display: block;">
-    <hr />
+<!--    <hr />-->
 
-    <div class="row">
-        <div  class="col-md-3" style="alignment: center">
-            <img src="{{ site.baseurl }}/images/{{post.name_file}}/teaser.png" style="display: inline-block; max-width: 100px"/>
+    <div class="row" style="margin-left: 5px; margin-right: 5px;
+    border-right-style: solid; border-right-width: 5px; border-right-color: #333333;
+    border-bottom-style: solid; border-bottom-width: 1px; border-bottom-color: #333333">
+    <div  class="col-md-4" style="text-align:center; alignment: center">
+        <img src="{{ site.baseurl }}/images/{{post.name_file}}/teaser.png"
+             style="display: inline-block; max-width: 200px; margin-top: 5px; border-radius: 10px;"/>
+
         </div>
 
-        <div  class="col-md-9">
+        <div  class="col-md-8">
             <h1>{{post.date | slice: 0,10}}</h1>
             <h1> <a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h1>
-            <p style="font-size: 10px;"><i> {{post.lead | slice: 0,180 }}</i><b>...</b></p>
+            <p style="font-size: 14px;"><i> {{post.lead | slice: 0,300 }}</i><b>...</b></p>
 
             {% if post.translated != None %}
             <h1>  <a href="{{ site.baseurl }}{{post.translated}}">Tradução em Português 🇧🇷</a></h1>
             {% endif%}
         </div>
     </div>
+
+        <br/>
 
     </article>
 {% endfor %}
