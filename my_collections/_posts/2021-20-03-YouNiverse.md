@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'So do you want to do research about YouTube?'
+title: 'So do you want to do research about YouTube...'
 date: 2021-05-19
 permalink: /posts/2020/08/youniverse
 
@@ -114,9 +114,9 @@ between Big Tech and strict regulation ([as shown by this 170M FTC lawsuit][ftc]
 
 Last but not least,  the vastness of YouTube's archive creates not only dangerous rabbit holes but also insightful and 
 interesting ones. For me, no video represents the  potential of YouTube as a cultural archive as David Bull's ["Remembering a carver - Ito Susumu"][db]. David, a 
-charmingly calm Canadian in his 60s, recalls his interactions with a master woodblock printmaker, Ito Susumu. He goes on 
-to tell how he went on to learn some of Susumu's carving "secrets" and, in the meantime, sheds light on
-life of one of his most admired artists.
+charmingly calm Canadian in his 60s, recalls his interactions with a master woodblock printmaker, Ito Susumu. 
+In the video, David tells how he went on to learn some of Susumu's carving "secrets" and, in the meantime, sheds light on
+the life of one of his most admired artists.
 
 <br />
 <img src="{{ site.baseurl }}/images/2021-05-19-YouNiverse/david_bull.png" width="700px" >
@@ -151,7 +151,7 @@ indexed list of all content available on the platform!
 Wild times.
 Since then, things have gotten much harder:
 
-- The platform's catalog is orders of magnitude bigger than it was back in 2007.
+- The platform's catalog is orders of magnitude larger than it was back in 2007.
 
 - There is no systematic way to obtain a random sample of videos or channels (that is not extremely inefficient).
 
@@ -165,11 +165,10 @@ generalizability of studies (since research is carried with little knowledge abo
  
 ## YouNiverse 🚀
 
-Since data collection seems to be the big block me and [Bob](https://twitter.com/cervisiarius/) decided to release 
-[YouNiverse][zen]: a large scale dataset on YouTube that will empower the research community to do research with
+Since data collection seems to be the big block, [Bob](https://twitter.com/cervisiarius/) and I decided to release 
+YouNiverse: a large scale dataset on YouTube that will empower the community to do research with
 and about YouTube. YouNiverse contains many moving parts, including video metadata for over 72.9 million videos.
-You can read the paper [in arxiv]() and download the data on [zenodo](), but to get the gist of it, here goes a YouTube video for your watch list!
-
+You can read the paper in [arXiv](https://arxiv.org/abs/2012.10378) and download the data on [Zenodo][zen], but to get the gist of it, here goes a YouTube video for your watch list!
 
 <br />
 <center>
@@ -177,7 +176,6 @@ You can read the paper [in arxiv]() and download the data on [zenodo](), but to 
 autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </center>
 <br />
-
 
 [rw]: https://journals.sagepub.com/doi/abs/10.1177/1940161220964767
 [b1]: /posts/2020/01/youtube-market
