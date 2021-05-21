@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'So do you want to do research about YouTube...'
+title: 'So you wanna do research about YouTube...'
 date: 2021-05-19
 permalink: /posts/2020/08/youniverse
 
