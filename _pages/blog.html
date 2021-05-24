@@ -13,27 +13,24 @@ permalink: /blog
                 {% endfor %} "  style="display: block;">
 <!--    <hr />-->
 
-    <div class="row" style="margin-left: 5px; margin-right: 5px;
-    border-right-style: solid; border-right-width: 5px; border-right-color: #333333;
-    border-bottom-style: solid; border-bottom-width: 1px; border-bottom-color: #333333">
-    <div  class="col-md-4" style="text-align:center; alignment: center">
+    <div class="row" style="margin-left: 5px; margin-right: 5px; margin-bottom: 5px; padding-top: 5px; padding-bottom: 5px;
+    border-radius: 10px; border: #eeeeee 1px solid; ">
+        <div  class="col-md-3 hidden-xs hidden-sm" style="text-align:center; alignment: center">
     <img src="{{ site.baseurl }}/images/{{post.name_file}}/teaser.png"
-         style="display: inline-block; max-width: 200px; margin-top: 5px; border-radius: 10px;"/>
+         style="display: inline-block; max-width: 125px; margin-top: 5px; border-radius: 10px;"/>
 
         </div>
 
-        <div  class="col-md-8">
+        <div  class="col-md-9">
             <h1>{{post.date | slice: 0,10}}</h1>
             <h1> <a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h1>
-            <p style="font-size: 14px;"><i> {{post.lead | slice: 0,300 }}</i><b>...</b></p>
+            <p style="font-size: 12px;"><i> {{post.lead | slice: 0,256 }}</i><b>...</b></p>
 
             {% if post.translated != None %}
             <h1>  <a href="{{ site.baseurl }}{{post.translated}}">Tradução em Português 🇧🇷</a></h1>
             {% endif%}
         </div>
     </div>
-
-        <br/>
 
     </article>
 {% endfor %}

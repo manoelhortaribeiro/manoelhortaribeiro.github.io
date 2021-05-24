@@ -4,18 +4,18 @@ title:
 permalink: /publications
 ---
 
-<div style="text-align: center;">
+<div style="align: center; text-align: center;">
+
+<div style="max-width: 325px; display: inline-block; border-radius: 10px; border: #eeeeee 1px solid; padding: 5px; margin-bottom: 5px;" >
     <small style="font-size: 12px;">
         For a complete list, check <a href="https://scholar.google.com/citations?user=IN55QyEAAAAJ&hl=en">Google Scholar</a>.
         <br />
 
         ☆: Papers with students I helped to supervised
-        <br />
-        <br />
 
     </small>
-    <div class="divider div-transparent" style="margin-top: 10px; margin-bottom: 30px"></div>
 
+</div>
 </div>
 
 <div class="posts">
@@ -24,11 +24,11 @@ permalink: /publications
 {% for n in (2017..2021) reversed %}
 
     {% if n == 2017 %}
-        <p style="margin: 0; text-align: center; font-size: 24px">Pre-prints</p>
-    <br />
+        <h2 style="margin: 0px; text-align: center;">Pre-prints</h2>
+<!--    <br />-->
     {% else %}
-    <p style="margin: 0; text-align: center; font-size: 24px">{{n}}</p>
-    <br />
+    <h2 style="margin: 0px; text-align: center;">{{n}}</p>
+<!--    <br />-->
     {% endif %}
 
 <!--    <hr />-->
@@ -43,34 +43,27 @@ permalink: /publications
                 {% endfor %} "
     style="display: block;">
 
-    <div class="row" style="margin-left: 5px; margin-right: 5px;
-    border-right-style: solid; border-right-width: 5px; border-right-color: #333333;
-    border-bottom-style: solid; border-bottom-width: 1px; border-bottom-color: #333333">
+    <div class="row" style="margin-left: 5px; margin-right: 5px; margin-bottom: 5px; padding-top: 5px; padding-bottom: 5px;
+    border-radius: 10px; border: #eeeeee 1px solid; ">
 
-    <div  class="col-md-4" style="text-align:center; alignment: center">
-      <img src="{{ site.baseurl }}/images/paper_teasers/{{pub.name_file}}.png" style="display: inline-flex; max-width: 200px"/>
+    <div  class="col-md-3 hidden-xs hidden-sm" style="text-align:center; alignment: center">
+      <img src="{{ site.baseurl }}/images/paper_teasers/{{pub.name_file}}.png" style="display: inline-flex; max-width: 100px"/>
 
     </div>
 
-    <div  class="col-md-8" style="alignment: center">
+    <div  class="col-md-9" style="text-align: center">
 
-        <div class="entry">
-
-<!--              <h2>{{pub.year}}  ⥋</h2>-->
-
-<!--        {% for tag in pub.tags %}-->
-<!--          <div class="post-tag">-->
-<!--            [{{ tag }}]-->
-<!--          </div>-->
-<!--        {% endfor %}-->
-      </div>
-                <p class="stuff" style="text-align: left; font-size: 15px; margin-top: 10px">[{{pub.conf}}]</p>
-        <h1 style="text-align: left; font-size: 15px">
+        <h1 style="text-align: left; font-size: 14px; margin: 0px; padding-bottom: 2px; padding-top: 1px">
             {{ pub.title }}<sup><small>{{pub.student}}</small></sup>
         </h1>
+                <p class="stuff" style="text-align: left; font-size: 10px; margin: 0px;">
+
+                    [{{pub.conf}}] —
+                    {% for link_content in pub.links %} <a href="{{link_content.content}}"> {{link_content.name}}</a> | {% endfor %}
+                    </p>
 
 
-        <p class="author-tag" style="margin-bottom: 10px; margin-top: 10px">{% for author in pub.authors %}
+        <p class="author-tag" style="text-align: left">{% for author in pub.authors %}
             {% if author == "Manoel Horta Ribeiro" %}
             <b style="display: inline-block">{{ author }} |</b>
             {% else %}
@@ -81,7 +74,6 @@ permalink: /publications
             {% endif %}
             {% endif %}
             {% endfor %}</p>
-        <p class="stuff">{% for link_content in pub.links %} <a href="{{link_content.content}}"> {{link_content.name}}</a> | {% endfor %}</p>
         {% assign flag = 0 %}
         {% for med in site.media reversed %}
         {% if pub.title == med.related_paper %}
@@ -90,7 +82,7 @@ permalink: /publications
         {% endfor %}
 
         {% if flag == 1 %}
-        <p class="stuff" style="margin-top: 10px">
+        <p class="stuff" style="text-align: left">
             Media Coverage:
         {% for med in site.media reversed %}
         {% if pub.title == med.related_paper %}
@@ -103,7 +95,7 @@ permalink: /publications
     </div>
     </div>
     </article>
-            <br />
+<!--            <br />-->
 
     {% endif %}
 
