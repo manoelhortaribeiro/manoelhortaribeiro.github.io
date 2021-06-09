@@ -2,7 +2,7 @@
 layout: post
 title: 'So you wanna do research about YouTube...'
 date: 2021-05-19
-permalink: /posts/2020/08/youniverse
+permalink: /posts/2021/05/youniverse
 
 name_file: "2021-05-19-YouNiverse"
 

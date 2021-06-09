@@ -1,5 +1,6 @@
 ---
 - links:
+    - {"date": "2018-07-01", "text": "☀️ This summer I'll work with Justin Cheng @ Facebook"}
     - {"date": "2021-04-23", "text": "🏆 I have received a Facebook fellowship award to continue my ongoing work on understanding and improving our information ecosystem",
        "link":"https://research.fb.com/blog/2021/04/announcing-the-recipients-of-the-2021-facebook-fellowship-awards/"}
     - {"date": "2021-04-13", "text": "📜 Paper accepted at WebSci 2021: \"Are Anti-Feminist Communities Gateways to the Far Right? Evidence from Reddit and YouTube", "link": "https://arxiv.org/abs/2102.12837"}
@@ -16,7 +17,7 @@
     - {"date": "2020-01-28", "text": "🎬 Presented \"Auditing Radicalization Pathways on YouTube\" at FAT*2020 in Barcelona", "link": "https://www.youtube.com/watch?v=zju-J53S4W0"}
     - {"date": "2019-12-17",  "text": "🏆 \"Auditing Radicalization Pathways on YouTube\" was considered one of the top 100 most influential papers in 2019 (3rd in Computer Science)", "link":"https://www.altmetric.com/top100/2019/?details=65319049"}
     - {"date": "2019-11-20", "text": "📜 Paper accepted at FAT*2020: \"Auditing Radicalization Pathways on YouTube\"", "link": "https://dl.acm.org/doi/abs/10.1145/3351095.3372879"}
-    - {"date": "2019-08-31", "text": "🎒Moved to Switzerland to do my PhD at EPFL!", "photo": "/images/photos/epfl.jpeg"}
+    - {"date": "2019-08-31", "text": "🎒Moved to Switzerland to do my PhD @ EPFL!", "photo": "/images/photos/epfl.jpeg"}
     - {"date": "2019-08-13", "text": "🎓 Defended my MSc Thesis: \"Misinformation, Radicalization and Hate Through the Lens of Users\"", "photo":  "/images/photos/msc_thesis_def.jpeg"}
     - {"date": "2019-05-19", "text": "🎬 Presented \"Message Distortion in Information Cascades\" at the TheWebConf 2019, in San Francisco",
        "link": "/posters/www_2019.pdf", "photo": "/images/photos/www2019.jpeg" }
