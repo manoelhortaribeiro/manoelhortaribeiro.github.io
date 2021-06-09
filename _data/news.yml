@@ -1,6 +1,7 @@
 ---
 - links:
-    - {"date": "2018-07-01", "text": "☀️ This summer I'll work with Justin Cheng @ Facebook"}
+    - {"date": "2021-06-08", "text": "🎬 Presented a couple of papers at ICWSM2021 in gather.town", "photo": "/images/photos/gather_town_icwsm.png"}
+    - {"date": "2021-06-07", "text": "☀️ This summer I'll work with Justin Cheng @ Facebook"}
     - {"date": "2021-04-23", "text": "🏆 I have received a Facebook fellowship award to continue my ongoing work on understanding and improving our information ecosystem",
        "link":"https://research.fb.com/blog/2021/04/announcing-the-recipients-of-the-2021-facebook-fellowship-awards/"}
     - {"date": "2021-04-13", "text": "📜 Paper accepted at WebSci 2021: \"Are Anti-Feminist Communities Gateways to the Far Right? Evidence from Reddit and YouTube", "link": "https://arxiv.org/abs/2102.12837"}
