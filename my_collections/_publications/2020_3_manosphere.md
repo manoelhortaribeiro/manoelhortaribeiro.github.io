@@ -19,7 +19,7 @@ links:
   - {"name": "📜 Paper", "content": "https://arxiv.org/abs/2001.07600"}
   - {"name": "🔗️ Code", "content": "https://github.com/manoelhortaribeiro/manosphere_analysis"}
   - {"name":"🗄️ Data", "content": "https://zenodo.org/record/4007913#.X0ubptMzZQI"}
-  - {"name":"📹 Video", "content": "https://www.youtube.com/watch?v=cnpQxLcalxg"}
+  - {"name":"📹 Presentation", "content": "https://slideslive.com/38956725/the-evolution-of-the-manosphere-across-the-web"}
 
 name_file: '2020_manosphere'
 

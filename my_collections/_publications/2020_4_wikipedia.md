@@ -16,7 +16,7 @@ conf: 'ICWSM 2021'
 links:
   - {"name": "📜 Paper", "content": "https://arxiv.org/abs/2005.08505"}
   - {"name": "🔗️ Code and Data", "content": "https://github.com/epfl-dlab/wiki_pageviews_covid"}
-
+  - {"name": "📹 Presentation", "content": "https://www.youtube.com/watch?v=tiBnS7VMtx0"}
 name_file: '2020_wiki'
 
 ---
