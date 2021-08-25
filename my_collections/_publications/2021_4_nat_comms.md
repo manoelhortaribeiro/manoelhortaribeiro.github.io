@@ -26,7 +26,6 @@ links:
   - {"name":"🗄️ Data 1", "content": "https://zenodo.org/record/4892365"}
   - {"name":"🗄️ Data 2", "content": "https://zenodo.org/record/4916206"}
   - {"name":"🗄️ Data 3", "content": "https://zenodo.org/record/4905618"}
-  - {"name":"🗄️ Data 3", "content": "https://zenodo.org/record/4905618"}
   - {"name": "🔗️ Code", "content": "https://github.com/antonior92/ecg-age-prediction"}
 
 name_file: '2021_natcom'
