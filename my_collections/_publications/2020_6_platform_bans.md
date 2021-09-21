@@ -16,6 +16,7 @@ conf: 'CSCW 2021'
 
 links:
   - {"name": "📜 Paper", "content": "https://arxiv.org/abs/2010.10397"}
+  - {"name": "🔗️ Code and Data", "content": "https://zenodo.org/record/5171068"}
 
 name_file: '2020_bans'
 
