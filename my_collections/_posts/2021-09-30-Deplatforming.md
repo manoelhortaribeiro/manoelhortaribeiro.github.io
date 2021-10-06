@@ -1,8 +1,8 @@
 ---
 layout: post
 title: 'Do Platform Migrations Compromise Content Moderation?'
-date: 2021-05-19
-permalink: /posts/2021/09/deplatforming
+date: 2021-10-06
+permalink: /posts/2021/10/deplatforming
 
 name_file: "2021-10-01-Deplatforming"
 
