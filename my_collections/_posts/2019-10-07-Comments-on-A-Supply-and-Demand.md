@@ -12,9 +12,6 @@ lead: "In this blog post I will make some comments about a recent pre-print on Y
 The paper is named 'A Supply and Demand Framework for YouTube Politics'."
 ---
 
-
-Manoel Horta Ribeiro ([@manoelribeiro](https://twitter.com/manoelribeiro)),
-
 ---
 
 In this blog post I will make some comments about a recent pre-print on YouTube Radicalization, which brought some new and exciting ideas about radicalization on YouTube.

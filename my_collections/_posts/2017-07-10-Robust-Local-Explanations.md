@@ -11,10 +11,6 @@ lead: "As the machine learning community creates increasingly complex models and
 we are stuck with the problem of understanding decisions made by machine learning models without sacrificing their accuracy."
 ---
 
-Manoel Horta Ribeiro ([@manoelribeiro]((https://twitter.com/manoelribeiro))),
-
----
-
 As the machine learning community creates increasingly complex models and pervades areas of societal impact, 
 we are stuck with the problem of understanding decisions made by machine learning models without sacrificing their accuracy.
 

@@ -3,8 +3,10 @@ layout: post
 title: 'Algumas ideias sobre como medir o impacto da desinformação na pandemia (pt. 2)'
 date: 2020-06-06
 permalink: /posts_translated/2020/06/corona-misinfo-2_pt
+---
 
 ---
+
 
 Este é o segundo post com algumas idéias sobre como alguém poderia estudar o impacto da desinformação na atual pandemia.
 Para ser bem justo, acho que o tema principal deste post e o [anterior](/posts_translated/2020/05/corona-misinfo_pt) é falar sobre causalidade e experimentação.

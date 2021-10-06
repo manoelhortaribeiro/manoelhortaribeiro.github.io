@@ -13,8 +13,6 @@ lead: "So, one of my resolutions for 2019 was that I wanted to started to blog m
 It may seem late for new year resolutions, but if you are from Brazil, then you do know that the year only begins after carnival ends."
 ---
 
-Manoel Horta Ribeiro ([@manoelribeiro]((https://twitter.com/manoelribeiro))),
-
 ---
 
 So, one of my resolutions for 2019 was that I wanted to started to blog more.

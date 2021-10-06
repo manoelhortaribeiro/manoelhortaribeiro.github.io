@@ -12,8 +12,11 @@ lead:  "This is the second post on some ideas about how one could possibly study
  COVID-19 pandemic. 
 To be quite fair, I think that the overarching theme of this post and the previous one is to talk about causality and 
 experimentation and techniques on how to “simulate” experiment with observational data."
+---
 
 ---
+
+
 
 This is the second post on some ideas about how one could possibly study the impact of misinformation on the ongoing
  COVID-19 pandemic. 

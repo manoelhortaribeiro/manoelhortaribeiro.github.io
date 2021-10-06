@@ -11,8 +11,6 @@ name_file: '2019-05-21-The-Web-Conf'
 lead: "During the last week, I attended the Web Conference 2019 (#TheWebConf2019). I had a blast, and the pleasure to meet and hang out with my perspective advisor in Switzerland, some future EPFL colleagues, some folks I befriended in social media and an old friend. Moreover, and perhaps more importantly, I was able to share the research I did last summer in Switzerland with Bob and to be exposed to some pretty cool stuff. The rest of this post is divided into sections with no clear logic to it"
 ---
 
-Manoel Horta Ribeiro ([@manoelribeiro]((https://twitter.com/manoelribeiro))),
-
 ---
 
 <img src="{{ site.baseurl }}/images/2019-05-21-The-Web-Conf/webconf.jpeg" >

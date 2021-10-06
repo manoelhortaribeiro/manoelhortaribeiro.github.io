@@ -9,8 +9,6 @@ name_file: "2019-04-16-My-CS-PhD-Application-Proccess"
 lead: "This post is a half-guide half-memoir of my PhD application process (not very timely, as the PhD application round has just ended). I think those who would benefit the most from my ~guide~ are international applicants, yet, I believe it contains generic enough advice so that others may find it useful. "
 ---
 
-Manoel Horta Ribeiro ([@manoelribeiro]((https://twitter.com/manoelribeiro))),
-
 ---
 This post is a half-guide half-memoir of my PhD application process (not very timely, as the PhD application round has just ended). I think those who would benefit the most from my ~guide~ are international applicants, yet, I believe it contains generic enough advice so that others may find it useful. 
 When I was deciding to do a PhD I read Philip J. Guo's [*The PhD Grind*](http://pgbovine.net/PhD-memoir.htm), and (I think) it helped me immensely to grasp the joys and troubles of what is to come. This is less well written and (a bit) less personal than Guo's book, but I still think it may help to read other people's experiences on though parts of life.

@@ -12,6 +12,8 @@ If you are already interested, and I hope you are (always easier to preach to th
 I want to discuss the main challenge involved with studying YouTube.'
 ---
 
+---
+
 The purpose of this blog post depends on the reaction you had while reading the question in the title. 
 If you hesitated, I want to convince you that maybe you _should_ be doing research about YouTube. 
 If you are already interested, and I hope you are (always easier to preach to the choir), 

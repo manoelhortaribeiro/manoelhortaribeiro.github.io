@@ -12,9 +12,6 @@ lead: "This post is intended to address some of the comments and criticism w.r.t
 The paper got an unreasonable amount of attention, which involved media coverage, angry e-mails and upset YouTubers.
 Individuals associated with the communities in the paper were critical of aspects of the methodology."
 ---
-
-Manoel Horta Ribeiro ([@manoelribeiro](https://twitter.com/manoelribeiro)),
-
 ---
 
 This post is intended to address some of the comments and criticism w.r.t. my latest paper: *Auditing Radicalization Pathways on YouTube*. 

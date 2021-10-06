@@ -3,9 +3,10 @@ layout: post
 title: 'Algumas ideias sobre como medir o impacto da desinformação na pandemia (pt. 1)'
 date: 2020-01-05
 permalink: /posts_translated/2020/05/corona-misinfo_pt
-
+---
 
 ---
+
 
 
 Recentemente o Átila Iamarino (@oatila), que dispensa apresentações nessa altura do campeonato, me marcou em uma postagem do Sleeping Giants Brasil (@slpng_giants_pt), uma iniciativa muito bacana que está tentando cortar o problema da desinformação pela raiz, diminuindo os benefícios financeiros desse tipo de “empreitada”. 

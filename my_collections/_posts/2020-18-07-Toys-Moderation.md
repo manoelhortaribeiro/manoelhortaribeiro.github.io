@@ -10,6 +10,8 @@ lead:  'I’m steering my Ph.D. towards studying how things like moderation poli
 
 ---
 
+---
+
 I’m steering my Ph.D. towards studying how things like moderation policies impact our information ecosystem, that is, the way people consume and produce content online (more on that later, I hope). 
 
 In any case, in EPFL we have to do a “candidacy exam” where the Ph.D. student has to discuss three papers broadly related to the research direction they want to pursue. As I did my literature review, a paper that stood out was “Hidden resilience and adaptive dynamics of the global online hate ecology”. Three reasons for that:

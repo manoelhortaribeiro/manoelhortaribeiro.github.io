@@ -15,12 +15,12 @@ While I don't believe that this is the whole story (and to be fair, they never s
 
 ---
 
-Manoel Horta Ribeiro ([@manoelribeiro](https://twitter.com/manoelribeiro)),
-
 ---
 
-
-
+My latest YouTube obsession follows the work of Kevin Munger &  Joseph Phillips ([about which I wrote another blogpost](https://manoelhortaribeiro.github.io/posts/2019/10/comments-supply-and-demand)). 
+Munger & Phillips proposed that part of the fringe content that exists on YouTube is a direct consequence of how the platform works.
+The possibility to reach niches of people (unlike mainstream TV), would allow individuals with fringe views to have their representatives on the platform.
+While I don't believe that this is the whole story (and to be fair, they never sell it as such), I think it is a very interesting proposition/model.
 Importantly --atleast for the context of this blog post-- it also makes me wonder about an even broader idea. Namely: 
 
 > *Is YouTube a market where content creators compete for users?* 
@@ -48,7 +48,7 @@ This seems counter-intuitive to me, but begs the question: which kinds of empiri
 One thing that occurs to me is that we could try to replicate things expected from markets, such as: 
 *(i)* can supply (content) adapt to the demand (views)? and 
 *(ii)* do the agents in the market behave to maximize profit?
-I believe these questions could be answered in a data-driven manner with YouTube data (which I may have been collecting for the past 3 months, who knows :p).
+I believe these questions could be answered in a data-driven manner with YouTube data (which I may have been collecting for the past 3 months, who knows).
 
 The second question is perhaps deeper, and is the one that bothers me the most.
 Sometimes, this whole market thing seems to be a center-piece of how to make online social networks better, but during moments of doubt it seems remarkably useless.

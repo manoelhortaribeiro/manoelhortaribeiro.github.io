@@ -12,6 +12,9 @@ lead:  Recently Atila Iamarino (@oatila),a major science communicator in Brazil 
  Sleeping giants is very cool initiative (inspired by the international version) that is trying to cut the problem of disinformation at the root, reducing the financial benefits of this type of “enterprise”.
 ---
 
+---
+
+
 Recently Atila Iamarino (@oatila),a major science communicator in Brazil who is playing a very important role in the corona pandemic, marked me in a post by Sleeping Giants Brasil (@slpng_giants_pt).
  Sleeping giants is very cool initiative (inspired by the international version) that is trying to cut the problem of disinformation at the root, reducing the financial benefits of this type of “enterprise”. 
 The question that was asked, abstracting the context a little, can be expressed as:

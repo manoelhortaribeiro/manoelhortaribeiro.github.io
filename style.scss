@@ -292,6 +292,19 @@ header {
 
 .actual-post {
 
+    /* These are technically the same, but use both */
+  overflow-wrap: break-word;
+  word-wrap: break-word;
+
+  border-radius: 10px;
+  border: #eeeeee 1px solid;
+  padding: 10px;
+
+
+  blockquote {
+    background-color: white;
+  }
+
   img {
     margin-top: 20px;
     margin-bottom: 10px;
@@ -302,23 +315,34 @@ header {
 
   h1 {
     font-family: $nav;
-    font-size: 30px;
+    font-size: 20px;
+    margin-top: 0;
+    text-align: center;
 
   }
 
   h2 {
     font-family: $nav;
-    font-size: 25px;
+    font-size: 18px;
   }
 
   h3 {
     font-family: $nav;
-    font-size: 20px;
+    font-size: 16px;
   }
 
   p, li {
-    font-size: 16px;
+    font-size: 14px;
     font-family: $body;
+    margin-bottom: 15px;
+  }
+
+  sup {
+    font-size: 10px;
+  }
+
+  sub {
+    font-size: 12px;
   }
 
   code {
@@ -374,23 +398,22 @@ header {
   }
 
   blockquote {
-    background: #f9f9f9;
-    border-left: 10px solid #ccc;
-    margin: 1.5em 10px;
-    padding: 0.5em 10px;
+    background: rgba(204, 38, 59, 0.025);
+    border-left: 5px solid #cc263b;
+    margin: 15px;
+    padding: 5px;
+    font-style: italic;
+    //text-align: center;
+
   }
 
-  blockquote:before {
-    color: #ccc;
-    font-size: 4em;
-    line-height: 0.1em;
-    margin-right: 0.25em;
-    vertical-align: -0.4em;
-  }
+
 
   blockquote p {
     display: inline;
   }
+
+
 }
 
 footer {
