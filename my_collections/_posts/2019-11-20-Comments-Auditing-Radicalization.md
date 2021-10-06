@@ -12,6 +12,9 @@ lead: "This post is intended to address some of the comments and criticism w.r.t
 The paper got an unreasonable amount of attention, which involved media coverage, angry e-mails and upset YouTubers.
 Individuals associated with the communities in the paper were critical of aspects of the methodology."
 ---
+
+\[This blogpost talks about our FAT* 2020 paper which you can read [here](https://arxiv.org/abs/1908.08313)\]
+
 ---
 
 This post is intended to address some of the comments and criticism w.r.t. my latest paper: *Auditing Radicalization Pathways on YouTube*. 

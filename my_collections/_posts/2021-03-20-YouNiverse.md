@@ -12,6 +12,8 @@ If you are already interested, and I hope you are (always easier to preach to th
 I want to discuss the main challenge involved with studying YouTube.'
 ---
 
+\[This blogpost talks about our ICWSM 2021 paper which you can read [here](https://arxiv.org/abs/2012.10378)\]
+
 ---
 
 The purpose of this blog post depends on the reaction you had while reading the question in the title. 

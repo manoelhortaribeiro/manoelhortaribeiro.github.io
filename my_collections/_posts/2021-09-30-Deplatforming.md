@@ -12,6 +12,8 @@ the attempt to boycott a group or individual through removing the platforms (suc
  to share information or ideas."
 ---
 
+\[This blogpost talks about our CSCW 2021 paper which you can read [here](https://arxiv.org/abs/2010.10397)\]
+
 ---
 
 In 2018, around the time when America's leading conspiracy theorist<sup>1</sup> was banned from YouTube, Apple, and 
