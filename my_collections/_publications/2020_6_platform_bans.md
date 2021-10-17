@@ -1,5 +1,5 @@
 ---
-title: 'Does Platform Migration Compromise Content Moderation? Evidence from r/The_Donald and r/Incels'
+title: 'Do Platform Migrations Compromise Content Moderation? Evidence from r/The_Donald and r/Incels'
 
 authors:
     - Manoel Horta Ribeiro
@@ -11,6 +11,8 @@ authors:
     - Robert West
 
 year: 2021
+
+award: '🏆 Best Paper Honorable Mention Award'
 
 conf: 'CSCW 2021'
 
