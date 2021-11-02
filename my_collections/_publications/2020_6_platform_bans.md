@@ -19,6 +19,7 @@ conf: 'CSCW 2021'
 links:
   - {"name": "📜 Paper", "content": "https://arxiv.org/abs/2010.10397"}
   - {"name": "🔗️ Code and Data", "content": "https://zenodo.org/record/5171068"}
+  - {"name": "🌐 Blog post", "content": "https://manoelhortaribeiro.github.io/posts/2021/10/deplatforming"} 
 
 name_file: '2020_bans'
 

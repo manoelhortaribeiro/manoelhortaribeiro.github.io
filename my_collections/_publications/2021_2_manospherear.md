@@ -14,10 +14,10 @@ year: 2021
 conf: 'WebSci 2021'
 
 links:
-  - {"name": "📜 Paper", "content": "https://arxiv.org/abs/2102.12837"}
+  - {"name": "📜 Paper", "content": "https://dl.acm.org/doi/10.1145/3447535.3462504"}
+  - {"name": "📄 Pre-print", "content": "https://arxiv.org/abs/2102.12837"}
   - {"name": "🔗️ Code", "content": "https://github.com/epfl-dlab/manosphere_to_altright"}
   - {"name": "🗄️️ Data", "content": "https://zenodo.org/record/4420983"}
-
 
 name_file: '2021_manosphere'
 

@@ -11,12 +11,13 @@ authors:
 - Robert West
 - Denis Helic
 
-year: 2017
+year: 2021
 
-conf: 'Preprint'
+conf: 'Nature Scientific Reports'
 
 links:
-  - {"name": "📜 Paper", "content": "https://arxiv.org/abs/2102.10090"}
+  - {"name": "📜 Paper", "content": "https://www.nature.com/articles/s41598-021-00789-3"}
+  - {"name": "📄 Pre-print", "content":"https://arxiv.org/abs/1908.08313"}
   - {"name": "🔗️ Code", "content": "https://github.com/ruptho/wiki-volunteers-covid"}
 
 

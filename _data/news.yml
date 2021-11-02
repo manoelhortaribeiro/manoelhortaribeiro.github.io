@@ -1,6 +1,9 @@
 ---
 - links:
-    - {"date": "2021-11-14",  "text": "🏆 \"Do Platform Migrations Compromise Content Moderation\" received a Best Paper Honorable Mention Award at CSCW 2021", "link":"https://programs.sigchi.org/cscw/2021/program/content/64052"}
+    - {"date": "2021-11-02", "text": "📜 Paper out at Nature Scientific Reports: \"Volunteer contributions to Wikipedia increased during COVID-19 mobility restrictions\"",
+       "link": "https://www.nature.com/articles/s41598-021-00789-3"}
+    - {"date": "2021-10-25",  "text": "🎬 Presented our deplatforming work at CSCW ", "link":"/images/photos/cscw.png"}
+    - {"date": "2021-10-14",  "text": "🏆 \"Do Platform Migrations Compromise Content Moderation\" received a Best Paper Honorable Mention Award at CSCW 2021", "link":"https://programs.sigchi.org/cscw/2021/program/content/64052"}
     - {"date": "2021-08-25", "text": "📜  Paper out at Nature Communications: \"Deep neural network-estimated electrocardiographic age as a mortality predictor
 \"", "link": "https://www.nature.com/articles/s41467-021-25351-7"}
     - {"date": "2021-06-27", "text": "🎬 Presented our deplatforming and our Wikipedia + COVID-19 work at IC2S2"}
@@ -32,7 +35,7 @@
     - {"date": "2018-07-01", "text": "☀️ This summer I'll work with Bob West at the Summer@EPFL program", "link": "https://dlab.epfl.ch/2018-11-20-summer-at-epfl-interns-2018/",
        "photo": "/images/photos/lab_hike.jpg"}
     - {"date": "2018-07-22", "text": "🎬 Presented \"Characterizing and Detecting Hateful Users on Twitter\" in ICWSM 2018, at Stanford",
-       "link": "https://manoelhortaribeiro.github.io/posters/icwsm_2018.pdf", "photo": "/images/photos/very_formal_ceremony.jpg" }
+       "link": "https://manoelhortaribeiro.github.io/posters/icwsm_2018.pdf"}
     - {"date": "2018-03-22", "text": "📜 Paper accepted at ICWSM 2018: \"Characterizing and Detecting Hateful Users on Twitter\"", "link": "https://arxiv.org/abs/1803.08977"}
     - {"date": "2017-08-12", "text": "🎒 Attended the Cornell, Maryland, Max Planck Pre-doctoral Research School", "photo": "/images/photos/saarbrucken.jpeg"}
     - {"date": "2017-08-01", "text": "🎒 Joined UFMG MSc program" }
