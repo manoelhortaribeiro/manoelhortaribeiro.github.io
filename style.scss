@@ -17,12 +17,9 @@ html {
   font-size: 100%;
 }
 
-
-
 body {
   background: $white;
   font: 18px/1.4 $body;
-  color: $darkGray;
 }
 
 .container {
@@ -34,7 +31,6 @@ body {
 #maincont {
   max-width: 850px;
   width: 100%;
-
 }
 
 a {
