@@ -2,8 +2,8 @@
 title: 'Characterizing Alternative Monetization Strategies on YouTube'
 
 authors:
-- Yiqing Hua
-- Manoel Horta Ribeiro
+- Yiqing Hua *
+- Manoel Horta Ribeiro *
 - Thomas Ristenpart
 - Robert West
 - Mor Naaman
