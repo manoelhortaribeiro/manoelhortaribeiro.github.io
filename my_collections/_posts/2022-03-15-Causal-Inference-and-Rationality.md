@@ -18,6 +18,7 @@ lead:  "I read this recent paper by the Twitter META team with the most interest
 - The paper analysis has a methodological issue that explains the unsatisfactory results obtained.
 - The conclusion that causal inference is at odds with rationality comes from conflating causal inference with prediction, which is inadequate.
 
+---
 
 I read [this](https://arxiv.org/abs/2107.08995) recent paper by the Twitter META team with the most interest. First, the Twitter META team (along with consultants, interns, and external academics) has been producing outstanding research. Second, a substantial part of what I do is observational studies on online platforms. Third, I have just done some research using causal inference methods to disentangle the effect of an opt-in feature on Facebook (hopefully, soon more about this).
 
