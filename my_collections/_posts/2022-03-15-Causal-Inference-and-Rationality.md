@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Causal Inference is not Prediction! Comments on Causal Inference Struggles with Agency on Online Platforms'
+title: 'Comments on "Causal Inference Struggles with Agency on Online Platforms"'
 date: 2022-03-28
 permalink: /posts/2022/03/causal-inference-rationality
 
@@ -79,7 +79,7 @@ user behavior, however, performing observational causal inference successfully r
 
 ### Okay, so what’s the problem?
 
-This is not true! You can have a model that is bad at predicting user behavior (e.g., self-selection into treatment) and still get a good causal estimate. 
+This is not true! You can have a bad model for predicting user behavior (e.g., self-selection into treatment) and still get a good causal estimate. 
 
 Instead of justifying this with words, I show it in a minimal example. For instance, consider the first DAG we talked about:
 
@@ -112,4 +112,3 @@ However, this has absolute **no impact** on our retrieval of the causal effect. 
 
 This example disproves the authors' argument — we have a **terrible** model to predict a user's behavior (slightly better than a random guess). However, we can still retrieve the causal effect nicely!
 You can play with the code used to do these plots in this [Google Colab](https://colab.research.google.com/drive/1gcMJjGhHYgsbSOn0EBiOtqVU9lJHetFm?usp=sharing).
-
