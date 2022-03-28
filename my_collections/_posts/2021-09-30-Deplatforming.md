@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Do Platform Migrations Compromise Content Moderation?'
+title: 'Do platform migrations compromise content moderation?'
 date: 2021-10-06
 permalink: /posts/2021/10/deplatforming
 

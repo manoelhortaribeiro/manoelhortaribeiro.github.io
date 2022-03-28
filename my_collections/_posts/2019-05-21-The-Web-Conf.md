@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Stuff I Learned at #TheWebConf2019'
+title: 'Stuff I learned at #TheWebConf2019'
 date: 2019-05-21
 permalink: /posts/2019/05/the-web-conf-2019
 name_file: '2019-05-21-The-Web-Conf'

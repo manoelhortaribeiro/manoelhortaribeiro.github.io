@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'On Toy Models and Moderation Measures: Comments on Hidden Resilience and Adaptive Dynamics of the Global Online Hate Ecology'
+title: 'Comments on "Hidden Resilience and Adaptive Dynamics of the Global Online Hate Ecology"'
 date: 2020-08-25
 permalink: /posts/2020/08/toys-moderation
 

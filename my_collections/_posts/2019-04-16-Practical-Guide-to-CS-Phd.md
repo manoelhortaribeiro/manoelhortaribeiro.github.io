@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'My CS PhD Application Process'
+title: 'My CS PhD application process'
 date: 2019-04-16
 permalink: /posts/2019/04/phd-application
 name_file: "2019-04-16-My-CS-PhD-Application-Proccess"

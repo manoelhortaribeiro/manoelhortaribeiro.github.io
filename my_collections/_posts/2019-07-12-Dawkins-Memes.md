@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'On Internet Memes and What Dawkins Meant by Memes'
+title: 'On internet memes and what Dawkins meant by memes'
 date: 2019-07-12
 permalink: /posts/2019/06/dawkins-memes
 name_file: "2019-07-12-Dawkins-Memes"

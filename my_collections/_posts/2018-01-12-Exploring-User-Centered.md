@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'User-Centered Approaches to Understand Hate Online'
+title: 'User-centered approaches to understand hate online'
 date: 2018-01-12
 permalink: /posts/2018/01/exploring-user-hate-speech/
 name_file: '2018-01-12-Exploring-User-Centered'

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'On the Unreasonable Influence of Fringe Communities'
+title: 'On the unreasonable influence of fringe communities'
 date: 2019-03-20
 permalink: /posts/2019/03/on-the-origin-of-memes
 name_file: '2019-03-20-On-the-Origin-of-Memes'
