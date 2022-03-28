@@ -14,6 +14,11 @@ lead:  "I read this recent paper by the Twitter META team with the most interest
 
 ---
 
+**TL;DR:**
+- The paper analysis has a methodological issue that explains the unsatisfactory results obtained.
+- The conclusion that causal inference is at odds with rationality comes from conflating causal inference with prediction, which is inadequate.
+
+
 I read [this](https://arxiv.org/abs/2107.08995) recent paper by the Twitter META team with the most interest. First, the Twitter META team (along with consultants, interns, and external academics) has been producing outstanding research. Second, a substantial part of what I do is observational studies on online platforms. Third, I have just done some research using causal inference methods to disentangle the effect of an opt-in feature on Facebook (hopefully, soon more about this).
 
 The paper presents a surprising result: for 3 out of 4 within-study comparisons they find that observational methods fail to recover the RCT estimate (even finding an effect with the opposite sign). This is a big deal — it suggests that one should be very careful trying to do causal inference trying to infer the effects of an opt-in feature.
