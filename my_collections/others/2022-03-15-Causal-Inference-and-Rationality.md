@@ -10,7 +10,6 @@ lead:  "I read this recent paper by the Twitter META team with the most interest
 
 ---
 
-
 *\[ I would like to thank Smitha Milli, lead author of the paper I talk about for the insightful discussions through mail, and for engaging with criticism so cordially. Most of this post is a result of our e-mail exchange. \]*
 
 ---
