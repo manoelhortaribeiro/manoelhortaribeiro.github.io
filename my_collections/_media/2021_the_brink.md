@@ -9,6 +9,6 @@ link: "https://www.bu.edu/articles/2021/trump-banned-from-twitter-facebook/"
 
 archive: "https://web.archive.org/web/20210109015518/https://www.bu.edu/articles/2021/trump-banned-from-twitter-facebook/"
 
-related_paper: 'Does Platform Migration Compromise Content Moderation? Evidence from r/The_Donald and r/Incels'
+related_paper: 'Do Platform Migrations Compromise Content Moderation? Evidence from r/The_Donald and r/Incels'
 
 ---

@@ -9,6 +9,6 @@ link: "https://techpolicy.press/researchers-detail-sleeping-giants-strategy-agai
 
 archive: "https://web.archive.org/web/20210531104205/https://techpolicy.press/researchers-detail-sleeping-giants-strategy-against-misinformation/"
 
-related_paper: "Follow the Money: Analyzing @slpng_giants_pt's Strategy to Combat Misinformation"
+related_paper: "Analyzing the Sleeping Giants Activism Model in Brazil"
 
 ---

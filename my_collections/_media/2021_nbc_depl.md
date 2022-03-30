@@ -9,6 +9,6 @@ link: "https://www.nbcnews.com/tech/tech-news/trumps-blog-isnt-lighting-internet
 
 archive: "https://web.archive.org/web/20210515144028/https://www.nbcnews.com/tech/tech-news/trumps-blog-isnt-lighting-internet-rcna890"
 
-related_paper: 'Does Platform Migration Compromise Content Moderation? Evidence from r/The_Donald and r/Incels'
+related_paper: 'Do Platform Migrations Compromise Content Moderation? Evidence from r/The_Donald and r/Incels'
 
 ---

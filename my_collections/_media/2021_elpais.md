@@ -9,6 +9,6 @@ link: "https://elpais.com/tecnologia/2021-01-08/la-victoria-de-los-trols-de-como
 
 archive: "./files/el_pais.pdf"
 
-related_paper: 'Does Platform Migration Compromise Content Moderation? Evidence from r/The_Donald and r/Incels'
+related_paper: 'Do Platform Migrations Compromise Content Moderation? Evidence from r/The_Donald and r/Incels'
 
 ---

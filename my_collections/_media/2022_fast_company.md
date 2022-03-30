@@ -1,7 +1,7 @@
 ---
 title: "Deplatforming works, but it’s not enough to fix Facebook and Twitter"
 
-year: 2021
+year: 2022
 
 venue: "FastCompany"
 
