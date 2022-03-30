@@ -1,7 +1,8 @@
 ---
 - links:
-    - { "date": "2022-03-30", "text": "📜 Paper accepted at Websci 2022: \"Post approvals in online communities\"", "link": "https://arxiv.org/abs/2203.10143" }
+    - { "date": "2022-03-30", "text": "📜 Paper accepted at Websci 2022: \"Analyzing the Sleeping Giants Activism Model in Brazil\"", "link": "https://arxiv.org/abs/2105.07523" }
     - { "date": "2022-03-18", "text": "📜 Paper accepted at CSCW 2022: \"Characterizing Alternative Monetization Strategies on YouTube\"", "link": "https://arxiv.org/abs/2203.10143" }
+    - { "date": "2022-03-30", "text": "📜 Paper accepted at ICWSM 2022: \"Post approvals in online communities\""}
     - {"date": "2021-11-02", "text": "📜 Paper out at Nature Scientific Reports: \"Volunteer contributions to Wikipedia increased during COVID-19 mobility restrictions\"",
        "link": "https://www.nature.com/articles/s41598-021-00789-3"}
     - {"date": "2021-10-25",  "text": "🎬 Presented our deplatforming work at CSCW ", "link":"/images/photos/cscw.png"}
