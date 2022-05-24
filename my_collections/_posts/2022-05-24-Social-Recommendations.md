@@ -1,7 +1,7 @@
 ---
 bibliography: 2022-05-24-Social-Recommendations.bib
 csl: alpha.csl
-date: 2022-03-28
+date: 2022-05-24
 layout: post
 lead: People recommender systems are widely used to suggest connections
   between users in social networks but are becoming pervasive across
