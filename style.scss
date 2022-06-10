@@ -33,6 +33,14 @@ body {
   width: 100%;
 }
 
+details {
+  border: 1px solid rgba(0, 0, 0, 0.2);
+  padding: 5px;
+  summary{
+    padding-bottom: 3px;
+  }
+}
+
 a {
   color: $darkGray;
   text-decoration: underline;
