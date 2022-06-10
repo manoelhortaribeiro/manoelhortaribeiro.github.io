@@ -21,6 +21,7 @@ links:
   - {"name": "🔗️ Code", "content": "https://github.com/manoelhortaribeiro/manosphere_analysis"}
   - {"name":"🗄️ Data", "content": "https://zenodo.org/record/4007913#.X0ubptMzZQI"}
   - {"name":"📹 Presentation", "content": "https://slideslive.com/38956725/the-evolution-of-the-manosphere-across-the-web"}
+  - {"name": "🐦 Twitter Thread", "content":"https://twitter.com/ahortaribeiro/status/1262710117490974721"}
 
 name_file: '2020_manosphere'
 

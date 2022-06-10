@@ -1,8 +1,11 @@
 ---
 - links:
+    - {"date": "2022-06-09", "text": "🏆 I have received a Best Reviewer Award at ICWSM 2022!", "link": "https://twitter.com/icwsm/status/1535023098474516498"}
+    - {"date": "2022-06-07", "text": "🎬 Presented our paper on post approvals at ICWSM!", "link": "https://twitter.com/icwsm/status/1535023098474516498"}
+    - {"date": "2022-05-09", "text": "🎬 Gave a talk at the ETH Immigration Policy Lab", "link": "https://pp.ethz.ch/about/ipl.html#:~:text=The%20Immigration%20Policy%20Lab%2C%20with,of%20immigration%20and%20integration%20policy."}
     - { "date": "2022-03-30", "text": "📜 Paper accepted at Websci 2022: \"Analyzing the Sleeping Giants Activism Model in Brazil\"", "link": "https://arxiv.org/abs/2105.07523" }
     - { "date": "2022-03-18", "text": "📜 Paper accepted at CSCW 2022: \"Characterizing Alternative Monetization Strategies on YouTube\"", "link": "https://arxiv.org/abs/2203.10143" }
-    - { "date": "2022-03-30", "text": "📜 Paper accepted at ICWSM 2022: \"Post approvals in online communities\""}
+    - { "date": "2022-03-30", "text": "📜 Paper accepted at ICWSM 2022: \"Post approvals in online communities\"", "link": "https://arxiv.org/abs/2203.10143" }
     - {"date": "2021-11-02", "text": "📜 Paper out at Nature Scientific Reports: \"Volunteer contributions to Wikipedia increased during COVID-19 mobility restrictions\"",
        "link": "https://www.nature.com/articles/s41598-021-00789-3"}
     - {"date": "2021-10-25",  "text": "🎬 Presented our deplatforming work at CSCW ", "link":"/images/photos/cscw.png"}
@@ -10,6 +13,7 @@
     - {"date": "2021-08-25", "text": "📜  Paper out at Nature Communications: \"Deep neural network-estimated electrocardiographic age as a mortality predictor
 \"", "link": "https://www.nature.com/articles/s41467-021-25351-7"}
     - {"date": "2021-06-27", "text": "🎬 Presented our deplatforming and our Wikipedia + COVID-19 work at IC2S2"}
+    - {"date": "2020-02-13", "text": "🎬 Gave a talk at MILA (governance of AI discussion group)"}
     - {"date": "2021-06-08", "text": "🎬 Presented a couple of papers at ICWSM2021 in gather.town", "photo": "/images/photos/gather_town_icwsm.png"}
     - {"date": "2021-06-07", "text": "☀️ This summer I'll work with Justin Cheng @ Facebook"}
     - {"date": "2021-04-23", "text": "🏆 I have received a Facebook fellowship award to continue my ongoing work on understanding and improving our information ecosystem",
@@ -25,6 +29,7 @@
 \" and \"Sudden Attention Shifts on Wikipedia During the COVID-19 Crisis\"", "links": ["https://arxiv.org/abs/2001.07600", "https://arxiv.org/abs/2005.08505"] }
     - {"date": "2020-04-09", "text": "📜 Paper out at Nature Communications: \"Automatic diagnosis of the 12-lead ECG using a deep neural network\", check photo for picture of 1/4th of authors",
        "link": "https://www.nature.com/articles/s41467-020-15432-4/", "photo": "/images/photos/very_serious_authors.jpeg"}
+    - {"date": "2020-02-13", "text": "🎬 Gave a talk at Google Zurich", "photo":  "/images/photos/google_talk.jpeg"}
     - {"date": "2020-01-28", "text": "🎬 Presented \"Auditing Radicalization Pathways on YouTube\" at FAT*2020 in Barcelona", "link": "https://www.youtube.com/watch?v=zju-J53S4W0"}
     - {"date": "2019-12-17",  "text": "🏆 \"Auditing Radicalization Pathways on YouTube\" was considered one of the top 100 most influential papers in 2019 (3rd in Computer Science)", "link":"https://www.altmetric.com/top100/2019/?details=65319049"}
     - {"date": "2019-11-20", "text": "📜 Paper accepted at FAT*2020: \"Auditing Radicalization Pathways on YouTube\"", "link": "https://dl.acm.org/doi/abs/10.1145/3351095.3372879"}

@@ -18,7 +18,8 @@ links:
   - {"name": "📄 Pre-print", "content": "https://arxiv.org/abs/2005.08505"}
   - {"name": "🔗️ Code and Data", "content": "https://github.com/epfl-dlab/wiki_pageviews_covid"}
   - {"name": "📹 Presentation", "content": "https://www.youtube.com/watch?v=tiBnS7VMtx0"}
-  
+  - {"name": "🐦 Twitter Post", "content":"https://twitter.com/WikiResearch/status/1268819449165025280"}
+
 name_file: '2020_wiki'
 
 ---

@@ -20,6 +20,8 @@ links:
   - {"name": "📜 Paper", "content": "https://arxiv.org/abs/2010.10397"}
   - {"name": "🔗️ Code and Data", "content": "https://zenodo.org/record/5171068"}
   - {"name": "🌐 Blog post", "content": "https://manoelhortaribeiro.github.io/posts/2021/10/deplatforming"} 
+  - {"name": "📹 Presentation", "content":"https://www.youtube.com/watch?v=d2UlF-q005M"}
+  - {"name": "🐦 Twitter Post", "content":"https://twitter.com/manoelribeiro/status/1375057683628359680"}
 
 name_file: '2020_bans'
 

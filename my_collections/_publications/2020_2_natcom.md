@@ -22,7 +22,8 @@ links:
   - {"name": "🔗️ Code", "content": "https://github.com/antonior92/automatic-ecg-diagnosis"}
   - {"name":"🗄️ Data", "content": "https://doi.org/10.5281/zenodo.3625006"}
   - {"name": "🛹 Models", "content": "https://doi.org/10.5281/zenodo.3625017"}
-
+  - {"name": "🐦 Twitter Thread", "content":"https://twitter.com/ahortaribeiro/status/1248204378600812546"}
+  
 name_file: '2020_natcom'
 
 ---

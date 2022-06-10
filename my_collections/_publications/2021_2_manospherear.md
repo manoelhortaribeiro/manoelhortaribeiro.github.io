@@ -18,6 +18,8 @@ links:
   - {"name": "📄 Pre-print", "content": "https://arxiv.org/abs/2102.12837"}
   - {"name": "🔗️ Code", "content": "https://github.com/epfl-dlab/manosphere_to_altright"}
   - {"name": "🗄️️ Data", "content": "https://zenodo.org/record/4420983"}
+  - {"name": "📹 Presentation", "content":"https://www.youtube.com/watch?v=yqxpqXpVX7M"}
+  - {"name": "🐦 Twitter Post", "content":"https://twitter.com/manoelribeiro/status/1365330671837851653"}
 
 name_file: '2021_manosphere'
 
