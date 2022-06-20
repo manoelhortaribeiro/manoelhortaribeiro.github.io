@@ -1,1 +1,2 @@
 pandoc -t markdown_strict --standalone -t markdown_mmd+yaml_metadata_block --citeproc --bibliography=2022-05-24-Social-Recommendations.bib -s 2022-05-24-Social-Recommendations_.md -o ../_posts/2022-05-24-Social-Recommendations.md
+pandoc -t markdown_strict --standalone -t markdown_mmd+yaml_metadata_block --citeproc --bibliography=2022-06-20-Deplatforming.bib -s 2022-06-20-Deplatforming_.md -o ../_posts/2022-06-20-Deplatforming.md
