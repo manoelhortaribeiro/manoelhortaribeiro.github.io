@@ -1,5 +1,5 @@
 ---
-title: "Deplatforming works, but it’s not enough to fix Facebook and Twitter"
+title: "Fringe YouTubers are profiting off-platform"
 
 year: 2022
 
