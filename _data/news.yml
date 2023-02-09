@@ -1,5 +1,7 @@
 ---
 - links:
+    - {"date": "2023-02-07", "text": "🎬 Gave a talk at the Raditube Workshop at Tec de Monterrey", "link": "https://docs.google.com/document/d/1vZS1_5rOYrl9edzbHSyb-xueVPBZnSQAQJXa0QTdq6U/edit" }
+    - { "date": "2022-03-30", "text": "📜 Paper accepted at TheWebConf 2023: \"Automated Content Moderation Increases Adherence to Community Guidelines\"", "link": "https://arxiv.org/abs/2210.10454" }
     - {"date": "2022-12-16", "text": "🏆 I have received a Teaching Assistant Award at EPFL", "photo": "/images/photos/ta-award.jpeg" }
     - {"date": "2022-12-08", "text": "🎬 Gave a talk at the ETH Chair of Systems Design", "photo": "/images/photos/sg_ethz.jpeg" }
     - {"date": "2022-12-07", "text": "🎬 Gave an online talk at UFMG", "photo": "/images/photos/ufmg_talk.jpeg" }
