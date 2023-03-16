@@ -1,8 +1,10 @@
 ---
 - links:
-    - {"date": "2023-02-07", "text": "🏆 I am in Forbes’ 30 Under 30 Class of 2023 in Science & Healthcare (Europe)", "link": "https://www.forbes.com/30-under-30/2023/europe/science-healthcare?profile=manoel-horta-ribeiro" }
+    - { "date": "2023-03-15", "text": "📜 Three papers accepted at ICWSM 2023: \"The Amplification Paradox in Recommender Systems\", \"Quotatives Indicate Decline in Objectivity in US Political News\", and \"Spillover of Antisocial Behavior from Fringe Platforms: The Unintended Consequences of Community Banning\"", "links": ["https://arxiv.org/abs/2209.09803", "https://arxiv.org/abs/2210.10454", "https://arxiv.org/abs/2302.11225"] }
+    - {"date": "2023-03-07", "text": "🏆 I am in Forbes’ 30 Under 30 Class of 2023 in Science & Healthcare (Europe)", "link": "https://www.forbes.com/30-under-30/2023/europe/science-healthcare?profile=manoel-horta-ribeiro" }
     - {"date": "2023-02-07", "text": "🎬 Gave a talk at the Raditube Workshop at Tec de Monterrey", "link": "https://docs.google.com/document/d/1vZS1_5rOYrl9edzbHSyb-xueVPBZnSQAQJXa0QTdq6U/edit" }
-    - { "date": "2022-03-30", "text": "📜 Paper accepted at TheWebConf 2023: \"Automated Content Moderation Increases Adherence to Community Guidelines\"", "link": "https://arxiv.org/abs/2210.10454" }
+    - { "date": "2023-01-31", "text": "📜 Paper accepted at WebSci 2023: \"Understanding Online Migration Decisions Following the Banning of Radical Communities\"", "link": "https://arxiv.org/abs/2212.04765" }
+    - { "date": "2022-01-25", "text": "📜 Paper accepted at TheWebConf 2023: \"Automated Content Moderation Increases Adherence to Community Guidelines\"", "link": "https://arxiv.org/abs/2210.10454" }
     - {"date": "2022-12-16", "text": "🏆 I have received a Teaching Assistant Award at EPFL", "photo": "/images/photos/ta-award.jpeg" }
     - {"date": "2022-12-08", "text": "🎬 Gave a talk at the ETH Chair of Systems Design", "photo": "/images/photos/sg_ethz.jpeg" }
     - {"date": "2022-12-07", "text": "🎬 Gave an online talk at UFMG", "photo": "/images/photos/ufmg_talk.jpeg" }
@@ -33,8 +35,7 @@
     Metadata from English-Speaking YouTube\"", "link": "https://arxiv.org/abs/2012.10378"}
     - {"date": "2020-11-20", "text": "🏆 My MSc thesis was won 3rd place in the SBC (Brazilian Computing Society) Master Thesis Awards",
        "link":"http://www2.sbc.org.br/csbc2020/ganhadores-33o-ctd-concurso-de-teses-e-dissertacoes-2/" }
-    - {"date": "2020-07-15", "text": "📜 Two papers accepted at ICWSM 2021: \"The Evolution of the Manosphere Across the Web
-\" and \"Sudden Attention Shifts on Wikipedia During the COVID-19 Crisis\"", "links": ["https://arxiv.org/abs/2001.07600", "https://arxiv.org/abs/2005.08505"] }
+    - {"date": "2020-07-15", "text": "📜 Two papers accepted at ICWSM 2021: \"The Evolution of the Manosphere Across the Web\" and \"Sudden Attention Shifts on Wikipedia During the COVID-19 Crisis\"", "links": ["https://arxiv.org/abs/2001.07600", "https://arxiv.org/abs/2005.08505"] }
     - {"date": "2020-04-09", "text": "📜 Paper out at Nature Communications: \"Automatic diagnosis of the 12-lead ECG using a deep neural network\", check photo for picture of 1/4th of authors",
        "link": "https://www.nature.com/articles/s41467-020-15432-4/", "photo": "/images/photos/very_serious_authors.jpeg"}
     - {"date": "2020-02-13", "text": "🎬 Gave a talk at Google Zurich", "photo":  "/images/photos/google_talk.jpeg"}
