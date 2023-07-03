@@ -1,6 +1,9 @@
 ---
 - links:
-    - { "date": "2023-03-15", "text": "📜 Three papers accepted at ICWSM 2023: \"The Amplification Paradox in Recommender Systems\", \"Quotatives Indicate Decline in Objectivity in US Political News\", and \"Spillover of Antisocial Behavior from Fringe Platforms: The Unintended Consequences of Community Banning\"", "links": ["https://arxiv.org/abs/2209.09803", "https://arxiv.org/abs/2210.10454", "https://arxiv.org/abs/2302.11225"] }
+    - { "date": "2023-06-13", "text": "☀️ This summer I'll work with Sid Suri and Teny Shapiro at Microsoft Research", "photo": "/images/photos/seattle.png"}
+    - {"date": "2023-06-07", "text": "🎬 Presented our paper on \"The Amplification Paradox in Recommender Systems\" at ICWSM! Peppe and Tiancheng also presented other work I was involved with!", "photo": "/images/photos/cyprus.png"}
+    - {"date": "2023-02-07", "text": "🎬 Presented our paper on content removals at WWW!", "link": "https://twitter.com/frapi9/status/1653450568809971730" }
+    - { "date": "2023-03-15", "text": "📜 Three papers accepted at ICWSM 2023: \"The Amplification Paradox in Recommender Systems\", \"Quotatives Indicate Decline in Objectivity in US Political News\", and \"Spillover of Antisocial Behavior from Fringe Platforms: The Unintended Consequences of Community Banning\"", "links": ["https://arxiv.org/abs/2209.09803", "https://arxiv.org/abs/2210.15476", "https://arxiv.org/abs/2302.11225"] }
     - {"date": "2023-03-07", "text": "🏆 I am in Forbes’ 30 Under 30 Class of 2023 in Science & Healthcare (Europe)", "link": "https://www.forbes.com/30-under-30/2023/europe/science-healthcare?profile=manoel-horta-ribeiro" }
     - {"date": "2023-02-07", "text": "🎬 Gave a talk at the Raditube Workshop at Tec de Monterrey", "link": "https://docs.google.com/document/d/1vZS1_5rOYrl9edzbHSyb-xueVPBZnSQAQJXa0QTdq6U/edit" }
     - { "date": "2023-01-31", "text": "📜 Paper accepted at WebSci 2023: \"Understanding Online Migration Decisions Following the Banning of Radical Communities\"", "link": "https://arxiv.org/abs/2212.04765" }
