@@ -1,5 +1,5 @@
 ---
-title: "Mechanical Turk workers are using AI to automate being human"
+title: "AI is going to eat itself: Experiment shows people training bots are using bots"
 
 year: 2023
 
