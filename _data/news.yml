@@ -1,5 +1,13 @@
 ---
 - links:
+    - {"date": "2023-03-07", "text": "🏆 Went to ICWSM, our paper (led by Peppe) won the best paper award! Hurray!", "photo": "/images/photos/icwsm_best_paper.jpg"}
+    - { "date": "2024-04-30", "text": "🎬 Gave a talk at the Social Computing Group at the University of Zürich — and took no pictures :(."}
+    - { "date": "2024-04-23", "text": "🎓 Successfully passed my thesis defense!", "photo": "/images/photos/private_defense.JPG"}
+    - { "date": "2024-03-28", "text": "🎬 Gave a virtual talk at TeDCog Lab", "link": "https://www.youtube.com/watch?v=J2XxPHxiwMU"}
+    - { "date": "2024-03-08", "text": "🎬 Gave a talk at University of Washington", "photo": "/images/photos/cornell.jpg", "link": "https://www.youtube.com/watch?v=bEjVEcpOacU"}
+    - { "date": "2024-03-04", "text": "🎬 Gave a talk at Princeton", "link": "https://www.youtube.com/watch?v=cBBuzZjZfng&t=103s"}
+    - { "date": "2024-02-28", "text": "🎬 Gave a talk at Cornell",  "photo": "/images/photos/cornell.jpg"}
+    - { "date": "2023-10-13", "text": "🤕 I hit the job market ", "link": "https://x.com/manoelribeiro/status/1712831831924457732"}
     - { "date": "2023-06-13", "text": "☀️ This summer I'll work with Sid Suri and Teny Shapiro at Microsoft Research", "photo": "/images/photos/seattle.png"}
     - {"date": "2023-06-07", "text": "🎬 Presented our paper on \"The Amplification Paradox in Recommender Systems\" at ICWSM! Peppe and Tiancheng also presented other work I was involved with!", "photo": "/images/photos/cyprus.png"}
     - {"date": "2023-02-07", "text": "🎬 Presented our paper on content removals at WWW!", "link": "https://twitter.com/frapi9/status/1653450568809971730" }

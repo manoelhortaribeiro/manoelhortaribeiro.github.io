@@ -9,7 +9,6 @@ link: "https://web.archive.org/web/20190908102356/https://www.lebigdata.fr/youtu
 
 archive: "https://www.lebigdata.fr/youtube-radicalisation-extreme"
 
-
 related_paper: 'Auditing Radicalization Pathways on YouTube'
 
 ---

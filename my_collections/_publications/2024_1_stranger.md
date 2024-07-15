@@ -1,6 +1,5 @@
 ---
-title: 'Stranger Danger! Cross-Community Interactions with Fringe Users Increase the Growth of Fringe Communities on Reddit
-'
+title: 'Stranger Danger! Cross-Community Interactions with Fringe Users Increase the Growth of Fringe Communities on Reddit'
 
 authors:
 
@@ -10,7 +9,7 @@ authors:
 
 year: 2024
 
-conf: 'ICWSM 2024'
+conf: 'ICWSM'
 
 links:
   - {"name": "📜 Paper", "content": "https://arxiv.org/abs/2310.12186"}

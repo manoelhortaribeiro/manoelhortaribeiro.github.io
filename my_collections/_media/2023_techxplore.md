@@ -3,7 +3,7 @@ title: "Study says AI data contaminates vital human input"
 
 year: 2023
 
-venue: "Tech Crunch"
+venue: "TechXplore"
 
 link: "https://techxplore.com/news/2023-06-ai-contaminates-vital-human.html"
 

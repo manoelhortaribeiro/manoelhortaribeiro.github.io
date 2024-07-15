@@ -3,7 +3,7 @@ title: "A.I.'s exploitation of human workers could come back to bite it"
 
 year: 2023
 
-venue: "Tech Crunch"
+venue: "Fortune"
 
 link: "https://fortune.com/2023/06/21/a-i-s-exploitation-of-human-workers-could-come-back-to-bite-it/"
 

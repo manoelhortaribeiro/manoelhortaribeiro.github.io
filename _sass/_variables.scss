@@ -3,26 +3,21 @@
 // VARIABLES
 //
 
-@import url('https://fonts.googleapis.com/css?family=Libre+Baskerville|Lora');
-@import url('https://fonts.googleapis.com/css?family=DM+Serif+Display|Raleway|Futura|IBM+Plex+Serif');
-@import url('https://fonts.googleapis.com/css2?family=Anton');
 // Colors
 $blue: #4183C4;
-$lightBlue: #69abec;
-$lighterBlue: #e6e6ff;
-$black: #000000;
+
+// Grays
+$black: #000;
 $darkerGray: #222;
 $darkGray: #333;
-$gray: #666;
-$lightGray: #eee;
+$gray: #C7C8C9;
+$lightGray: #C7C8C9;
 $white: #fff;
 
 // Font stacks
-$body: 'IBM Plex Serif', serif;
-$nav: 'IBM Plex Serif', serif;
-$title: 'georgia', serif;
-$georgia: 'Lora', serif;
-$display: 'Baskerville', sans-serif;
+$helveticaNeue: "Helvetica Neue", sans-serif;
+$palatino: "Palatino", sans-serif;
+$lora: "Lora", serif;
 
 // Mobile breakpoints
 @mixin mobile {

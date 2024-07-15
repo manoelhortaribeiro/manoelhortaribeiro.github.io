@@ -2,11 +2,15 @@
 # This file contains configuration flags to customize your site
 #
 
-# Name of your site (displayed in the header)
-name: Manoel Horta Ribeiro
+
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
-avatar: /images/profile.jpg
+avatar: /images/img.png
+
+#
+# Flags below are optionalß
+#
+
 
 collections_dir: my_collections
 
@@ -15,39 +19,13 @@ collections:
     output: true
   media:
     output: true
-  posts_translated:
-    output: true
-#
-# Flags below are optional
-#
-
-# Includes an icon in the footer for each username you enter
-footer-links:
-  dribbble:
-  email: manoel.hortaribeiro@epfl.ch
-  facebook:
-  flickr:
-  github: manoelhortaribeiro
-  instagram:
-  linkedin: manoelhortaribeiro
-  pinterest:
-  rss: # just type anything here for a working RSS icon
-  twitter: manoelribeiro
-  stackoverflow: # your stackoverflow profile, e.g. "users/50476/bart-kiers"
-  youtube: # channel/<your_long_string> or user/<user-name>
-  googleplus: # anything in your profile username that comes after plus.google.com/
-
-
-# Enter your Disqus shortname (not your username) to enable commenting on posts
-# You can find your shortname on the Settings page of your Disqus account
-disqus: https-manoelhortaribeiro-github-io
 
 # Enter your Google Analytics web tracking code (e.g. UA-2110908-2) to activate tracking
-google_analytics: UA-110389775-1
+google_analytics:
 
 # Your website URL (e.g. http://barryclark.github.io or http://www.barryclark.co)
 # Used for Sitemap.xml and your RSS feed
-url: http://manoelhortaribeiro.github.io
+url:
 
 # If you're hosting your site at a Project repository on GitHub pages
 # (http://yourusername.github.io/repository-name)
@@ -81,8 +59,6 @@ sass:
 # Use the following plug-ins
 gems:
   - jekyll-sitemap # Create a sitemap using the official Jekyll sitemap gem
-#  - jekyll-feed # Create an Atom feed using the official Jekyll feed gem
-
 
 include:
   - _pages

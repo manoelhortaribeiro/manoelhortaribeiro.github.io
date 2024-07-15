@@ -1,5 +1,5 @@
 ---
-title: "AI chatbots beat humans at persuading their opponents in debates"
+title: "YouTube has managed to stop its algorithm serving up extreme videos"
 
 year: 2024
 

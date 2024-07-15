@@ -8,7 +8,7 @@ authors:
 - Riccardo Gallotti
 - Robert West
 
-year: 2017
+year: 2024
 
 conf: 'preprint'
 
@@ -20,5 +20,3 @@ links:
 name_file: '2024_dgpt1'
 
 ---
-
-
