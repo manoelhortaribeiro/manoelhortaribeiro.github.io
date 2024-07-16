@@ -28,7 +28,7 @@ Examples of projects with master students I advised:
 
 - [Prevalence and prevention of large language model use in crowd work](https://arxiv.org/abs/2310.15683) (under review at CACM; Venia went on to do his doctorate at Princeton);
 - [On the Conversational Persuasiveness of Large Language Models: A Randomized Controlled Trial](https://arxiv.org/abs/2403.14380) (informed [Anthropic’s model evaluation strategy](https://www.anthropic.com/news/measuring-model-persuasiveness); This is currently under review at Nature Human Behavior);
-- [Quotatives Indicate Decline in Objectivity in US Political News](https://arxiv.org/abs/2210.15476) (published at ICWSM; Tiancheng went on to do his doctorate at Oxford);
+- [Quotatives Indicate Decline in Objectivity in US Political News](https://arxiv.org/abs/2210.15476) (published at ICWSM; Tiancheng went on to do his doctorate at Cambridge);
 
 
 ## Research flavor
@@ -67,7 +67,7 @@ my lab. I’m keen to explore new (related) directions!
 | 2024 | Guosheng Feng           | _MSc_ | DataBricks                     |
 | 2023 | Francesco Salvi         | _MSc_ |                                |
 | 2023 | Paula Rescala           | _MSc_ |                                |
-| 2023 | Veniamin Veselovskyy    | _MSc_ |   _Princeton University (PhD)_ |
+| 2023 | Veniamin Veselovsky     | _MSc_ |   _Princeton University (PhD)_ |
 | 2022 | Maciej Styczen          | _MSc_ |                         _Uber_ |
 | 2022 | Mateo Echeverry Hoyos   | _BSc_ |                    _Microsoft_ |
 | 2022 | Tiancheng Hu            | _MSc_ |   _University of Oxford (PhD)_ |
