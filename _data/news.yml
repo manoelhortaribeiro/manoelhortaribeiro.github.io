@@ -1,7 +1,7 @@
 ---
 - links:
     - { "date": "2024-09-20", "text": "📜 Two papers accepted at CSCW 2025: \"Deplatforming Norm-Violating Influencers on Social Media Reduces Overall Online Attention Toward Them\" and \"Post Guidance for Online Communities\"", "link": "https://arxiv.org/abs/2404.00750" }
-    - { "date": "2024-09-20", "text": "📜 Paper accepted at Findings of the EMNLP 2025: \"Can Language Models Recognize Convincing Arguments?\"", "link": "https://arxiv.org/abs/2404.00750" }
+    - { "date": "2024-09-20", "text": "📜 Paper accepted at Findings of the EMNLP 2025: \"Can Language Models Recognize Convincing Arguments?\"", "links": ["https://arxiv.org/abs/2401.01253"] }
     - {"date": "2024-06-06", "text": "🏆 Went to ICWSM, our paper (led by Peppe) won the best paper award! Hurray!", "photo": "/images/photos/icwsm_best_paper.jpg"}
     - { "date": "2024-04-30", "text": "🎬 Gave a talk at the Social Computing Group at the University of Zürich — and took no pictures :(."}
     - { "date": "2024-04-23", "text": "🎓 Successfully passed my thesis defense!", "photo": "/images/photos/private_defense.JPG"}

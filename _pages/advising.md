@@ -16,6 +16,7 @@ I'll join Princeton as an assistant professor in Spring 2025 --- Let's work toge
 - Have a PhD, please see [post-doc/fellowship opportunities at CITP](https://citp.princeton.edu/programs/fellows/).
 
 In general, feel free to email me, and I will do my best to reply!  
+
 ## Advising style
 
 I am hands-on. 
@@ -26,7 +27,7 @@ I expect that my students' interests will shape my lab's direction.
 
 Examples of projects with master students I advised:
 
-- [Prevalence and prevention of large language model use in crowd work](https://arxiv.org/abs/2310.15683) (under review at CACM; Venia went on to do his doctorate at Princeton);
+- [Prevalence and prevention of large language model use in crowd work](https://arxiv.org/abs/2310.15683) (to appear at Communications of the ACM; Venia went on to do his doctorate at Princeton);
 - [On the Conversational Persuasiveness of Large Language Models: A Randomized Controlled Trial](https://arxiv.org/abs/2403.14380) (informed [Anthropic’s model evaluation strategy](https://www.anthropic.com/news/measuring-model-persuasiveness); This is currently under review at Nature Human Behavior);
 - [Quotatives Indicate Decline in Objectivity in US Political News](https://arxiv.org/abs/2210.15476) (published at ICWSM; Tiancheng went on to do his doctorate at Cambridge);
 
@@ -70,7 +71,7 @@ my lab. I’m keen to explore new (related) directions!
 | 2023 | Veniamin Veselovsky     | _MSc_ |   _Princeton University (PhD)_ |
 | 2022 | Maciej Styczen          | _MSc_ |                         _Uber_ |
 | 2022 | Mateo Echeverry Hoyos   | _BSc_ |                    _Microsoft_ |
-| 2022 | Tiancheng Hu            | _MSc_ |   _University of Oxford (PhD)_ |
+| 2022 | Tiancheng Hu            | _MSc_ |   _University of Cambridge (PhD)_ |
 | 2022 | Mihaela Berezantev      | _MSc_ |                         _ELCA_ |
 | 2022 | Jordi Cluet i Martinell | _MSc_ |                     _Swisscom_ |
 | 2022 | Breno Matos             | _MSc_ |          _Data Commons Brazil_ |
