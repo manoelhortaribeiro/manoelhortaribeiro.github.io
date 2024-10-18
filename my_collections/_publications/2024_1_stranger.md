@@ -7,12 +7,17 @@ authors:
 - Manoel Horta Ribeiro
 - Robert West
 
+award: '🏆 Best Paper Award'
+
+
 year: 2024
 
 conf: 'ICWSM'
 
 links:
-  - {"name": "📜 Paper", "content": "https://arxiv.org/abs/2310.12186"}
+  - {"name": "📜 Paper", "content": "https://ojs.aaai.org/index.php/ICWSM/article/view/22223"}
+  - {"name": "📄 Pre-print", "content": "https://arxiv.org/abs/2310.12186"}
+  - {"name": "🐦 Tweet", "content": "https://ojs.aaai.org/index.php/ICWSM/article/view/31393/33553"}
 
 name_file: '2024_icwsm'
 

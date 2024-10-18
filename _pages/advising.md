@@ -96,7 +96,8 @@ my lab. I’m keen to explore new (related) directions!
 [^3]: Veniamin Veselovsky, Manoel Horta Ribeiro, and Robert West. "Artificial artificial artificial intelligence: Crowd workers widely use large language models for text production tasks." arXiv preprint arXiv:2306.07899 (2023). [(link)](https://arxiv.org/abs/2306.07899)  
 [^4]: Homa Hosseinmardi, Amir Ghasemian, Miguel Rivera-Lanas, Manoel Horta Ribeiro, Robert West, and Duncan J. Watts. "Causally estimating the effect of YouTube’s recommender system using counterfactual bots." Proceedings of the National Academy of Sciences 121, no. 8 (2024): e2313377121.  [(link)](https://www.pnas.org/doi/full/10.1073/pnas.2313377121)  
 [^5]: Manoel Horta Ribeiro, Homa Hosseinmardi, Robert West, and Duncan J. Watts. "Deplatforming did not decrease Parler users’ activity on fringe social media." PNAS nexus 2, no. 3 (2023): pgad035.  [(link)](https://academic.oup.com/pnasnexus/article/2/3/pgad035/7081430)
-[^6]: My reference.
+[^6]: Manoel Horta Ribeiro, Shagun Jhaver, Savvas Zannettou, Jeremy Blackburn, Gianluca Stringhini, Emiliano De Cristofaro, and Robert West. "Do platform migrations compromise content moderation? evidence from r/the_donald and r/incels." Proceedings of the ACM on Human-Computer Interaction 5, no. CSCW2 (2021): 1-24.
+
 
 
 

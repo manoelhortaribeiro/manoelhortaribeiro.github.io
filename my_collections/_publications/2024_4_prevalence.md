@@ -12,7 +12,7 @@ authors:
 
 year: 2024
 
-conf: 'preprint'
+conf: 'Comms. of the ACM'
 
 student: ☆
 
