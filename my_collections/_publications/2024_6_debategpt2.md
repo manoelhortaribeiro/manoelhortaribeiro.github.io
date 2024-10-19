@@ -10,7 +10,7 @@ authors:
 
 year: 2024
 
-conf: 'preprint'
+conf: 'Findings of the EMNLP'
 
 student: ☆
 

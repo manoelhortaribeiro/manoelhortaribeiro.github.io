@@ -11,7 +11,7 @@ authors:
 
 year: 2024
 
-conf: 'preprint'
+conf: 'CSCW'
 
 student: ☆
 
