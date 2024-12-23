@@ -11,7 +11,7 @@ authors:
 
 year: 2025
 
-conf: 'preprint'
+conf: 'ICWSM'
 
 links:
   - {"name": "📄 Pre-print", "content": "https://arxiv.org/abs/2310.12696"}

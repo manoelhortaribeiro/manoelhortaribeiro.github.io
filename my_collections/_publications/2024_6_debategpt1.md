@@ -10,7 +10,7 @@ authors:
 
 year: 2025
 
-conf: 'preprint'
+conf: 'Nature Human Behavior'
 
 student: ☆
 

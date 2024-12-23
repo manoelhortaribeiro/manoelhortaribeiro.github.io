@@ -1,7 +1,11 @@
 ---
 - links:
-    - { "date": "2024-09-20", "text": "📜 Two papers accepted at CSCW 2025: \"Deplatforming Norm-Violating Influencers on Social Media Reduces Overall Online Attention Toward Them\" and \"Post Guidance for Online Communities\"", "link": "https://arxiv.org/abs/2404.00750" }
-    - { "date": "2024-09-20", "text": "📜 Paper accepted at Findings of the EMNLP 2025: \"Can Language Models Recognize Convincing Arguments?\"", "links": ["https://arxiv.org/abs/2401.01253"] }
+    - { "date": "2024-12-20", "text": "📜 Paper accepted at Nature Human Behaviour: \"On the Conversational Persuasiveness of Large Language Models: A Randomized Controlled Trial\"", "links": ["https://arxiv.org/abs/2403.14380"] }
+    - { "date": "2024-11-28", "text": "🎬 Gave a virtual talk at the AI keynote at LMU Munich."}
+    - { "date": "2024-11-15", "text": "📜 Paper accepted at ICWSM 2025: \"Protection from Evil and Good: The Differential Effects of Page Protection on Wikipedia Article Quality\"", "links": ["https://arxiv.org/abs/2310.12696"] }
+    - { "date": "2024-09-23", "text": "📜 Two papers accepted at CSCW 2025: \"Deplatforming Norm-Violating Influencers on Social Media Reduces Overall Online Attention Toward Them\" and \"Post Guidance for Online Communities\"", "links": ["https://arxiv.org/abs/2401.01253", "https://arxiv.org/abs/2411.16814"] }
+    - { "date": "2024-07-27", "text": "📜 Paper accepted to the Communications of the ACM: \"Prevalence and prevention of large language model use in crowd work\" — This paper will be the cover of the May 2025 edition!", "links": ["https://arxiv.org/abs/2310.15683"] }
+    - { "date": "2024-07-20", "text": "📜 Paper accepted at Findings of the EMNLP 2025: \"Can Language Models Recognize Convincing Arguments?\"", "links": ["https://arxiv.org/abs/2401.01253"] }
     - {"date": "2024-06-06", "text": "🏆 Went to ICWSM, our paper (led by Peppe) won the best paper award! Hurray!", "photo": "/images/photos/icwsm_best_paper.jpg"}
     - { "date": "2024-04-30", "text": "🎬 Gave a talk at the Social Computing Group at the University of Zürich — and took no pictures :(."}
     - { "date": "2024-04-23", "text": "🎓 Successfully passed my thesis defense!", "photo": "/images/photos/private_defense.JPG"}

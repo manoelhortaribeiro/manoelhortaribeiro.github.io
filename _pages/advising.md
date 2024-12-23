@@ -28,7 +28,7 @@ I expect that my students' interests will shape my lab's direction.
 Examples of projects with master students I advised:
 
 - [Prevalence and prevention of large language model use in crowd work](https://arxiv.org/abs/2310.15683) (to appear at Communications of the ACM; Venia went on to do his doctorate at Princeton);
-- [On the Conversational Persuasiveness of Large Language Models: A Randomized Controlled Trial](https://arxiv.org/abs/2403.14380) (informed [Anthropic’s model evaluation strategy](https://www.anthropic.com/news/measuring-model-persuasiveness); This is currently under review at Nature Human Behavior);
+- [On the Conversational Persuasiveness of Large Language Models: A Randomized Controlled Trial](https://arxiv.org/abs/2403.14380) (informed [Anthropic’s model evaluation strategy](https://www.anthropic.com/news/measuring-model-persuasiveness); to appear at Nature Human Behaviour);
 - [Quotatives Indicate Decline in Objectivity in US Political News](https://arxiv.org/abs/2210.15476) (published at ICWSM; Tiancheng went on to do his doctorate at Cambridge);
 
 
