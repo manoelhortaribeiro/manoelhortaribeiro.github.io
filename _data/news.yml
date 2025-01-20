@@ -1,5 +1,6 @@
 ---
 - links:
+    - {"date": "2025-01-16", "text": "🎒Moved to the US to start as an Assistant Professor at Princeton!", "link": "https://x.com/manoelribeiro/status/1793288211814379776"}
     - { "date": "2024-12-20", "text": "📜 Paper accepted at Nature Human Behaviour: \"On the Conversational Persuasiveness of Large Language Models: A Randomized Controlled Trial\"", "links": ["https://arxiv.org/abs/2403.14380"] }
     - { "date": "2024-11-28", "text": "🎬 Gave a virtual talk at the \"AI keynote series\" at LMU Munich."}
     - { "date": "2024-11-15", "text": "📜 Paper accepted at ICWSM 2025: \"Protection from Evil and Good: The Differential Effects of Page Protection on Wikipedia Article Quality\"", "links": ["https://arxiv.org/abs/2310.12696"] }
