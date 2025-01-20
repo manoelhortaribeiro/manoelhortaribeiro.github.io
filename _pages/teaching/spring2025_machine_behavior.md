@@ -23,14 +23,15 @@ permalink: /teaching/spring2025_machine_behavior
     - 3.4 [Grading](#34-grading)
     - 3.5 [Expectations](#35-expectations) 
 4. [Detailed Schedule](#4-detailed-schedule) 
+5. [Acknowledgments](#5-acknowledgments) 
 
 <hr>
 
 ## 1. Basic information
-- **Email**: [manoel@cs.princeton.edu](mailto:manoel@princeton.edu)
-- **Office Hours**: on demand.
-- Tue & Thu, 10 am --- 11:32 am.
-- **TA:** Ryan Liu [rl5886@cs.princeton.edu](mailto:rl5886@cs.princeton.edu)
+- **Email:** [manoel@cs.princeton.edu](mailto:manoel@princeton.edu).
+- **Office Hours:** on demand.
+- **Hours:** Tue & Thu, 10 am --- 11:20 am.
+- **TA:** Ryan Liu ([rl5886@cs.princeton.edu](mailto:rl5886@cs.princeton.edu)).
 
 ## 2. Schedule 
 
@@ -305,4 +306,10 @@ After spring break, we will have a series of guest lectures. Students are expect
 #### Apr 24
 - **Project**:
 	- **Final presentations:** students present their project and submit their report. 
-	
+
+## 5. Acknowledgments
+
+I used the following seminar courses as references to help structure this:
+- [Andrés Monroy-Hernández](https://www.andresmh.com/)’s [Social Computing Seminar](https://docs.google.com/document/d/1JxSlpqlvhCMNm6p39O2oXd09kXvx3PwGPQ4wCAbG5Q4/edit?tab=t.0#heading=h.uo1fs6av3urp).
+- [Robert West](https://dlab.epfl.ch/people/west/)’s [Topics in Computational Social Science](https://dlab.epfl.ch/teaching/spring2024/cs727/).
+- [Lydia Liu](https://www.lydiatliu.com/)’s [Responsible AI in Societal Deployment](https://docs.google.com/document/d/1rDF5eSKb55HxaPPHH_ukcsmEgkrTG2rC6KbcWxSkerU/edit?tab=t.0#heading=h.ck8vg9xjbu5q).**
