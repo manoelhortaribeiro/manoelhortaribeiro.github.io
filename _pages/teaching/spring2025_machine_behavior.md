@@ -11,6 +11,8 @@ permalink: /teaching/spring2025_machine_behavior
 <center><h3>Spring 2025 — COS 598B</h3></center>
 <div><br/></div>
 
+Machine learning models are everywhere, and their role in society may increase as they become more popular and influential. At the same time, recent work has shown that LLMs can simulate and predict human behavior remarkably well. Thus, understanding and steering the behavior of such systems can amplify their benefits, mitigate their harms, and increase our understanding of human behavior. This seminar course aims to facilitate publishable student research on these broad topics. Coursework is a mix of readings and a research project.
+
 <hr>
 
 ## Table of Contents
@@ -190,6 +192,7 @@ After spring break, we will have a series of guest lectures. Students are expect
 	- *Wang, Angelina, Jamie Morgenstern, and John P. Dickerson. "Large language models should not replace human participants because they can misportray and flatten identity groups." ArXiv preprint 2024.*  [(link)](https://arxiv.org/abs/2402.01908)
 - **For fun**:
 	- "I strongly feel that this is an insult to life itself," Munger [(blogpost)](https://kevinmunger.substack.com/p/i-strongly-feel-that-this-is-an-insult?utm_source=publication-search)
+	- [John Horton's take on Kevin's blogpost.](https://x.com/johnjhorton/status/1881418006418624902)
 - **Project**:
 	- Brainstorming areas of interest.
 
