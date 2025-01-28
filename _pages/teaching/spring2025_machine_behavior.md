@@ -39,23 +39,23 @@ Machine learning models are everywhere, and their role in society may increase a
 
 |        Date       |                                  Readings                                  | Slides |    Project    |
 |:-----------------:|:--------------------------------------------------------------------------:|:------:|:-------------:|
-| [Jan 28](#jan-28) |                                Intro                                |  [(link)](https://docs.google.com/presentation/d/1vTIoX0O8KAI8QeLWoRYnNs1Ofw2O9z4h29FLDVXb0v0/edit?usp=sharing)    | Ideation |
-| [Jan 30](#jan-30) |                                Intro                                |        | Ideation |
-| [Feb 04](#feb-04) |                                 Simulation                                 |        | Ideation |
-| [Feb 06](#feb-06) |                                 Simulation                                 |         | Ideation |
-| [Feb 11](#feb-11) |                                  LLMology                                  |        | Ideation |
-| [Feb 13](#feb-13) |                                  LLMology                                  |        | Ideation |
-| [Feb 18](#feb-18) |               [Serina Chang](https://serinachang5.github.io/)              |        |       ❌       |
+| [Jan 28](#jan-28) |                                Intro                                       | [(link)](https://docs.google.com/presentation/d/1vTIoX0O8KAI8QeLWoRYnNs1Ofw2O9z4h29FLDVXb0v0/edit?usp=sharing)| Ideation |
+| [Jan 30](#jan-30) |                                Intro                                       | [(link)](https://docs.google.com/presentation/d/1o0aOimVL_mXdZrbWXK9szBLBJMFyQM4Xa1pPI7SDZfM/edit?usp=sharing)| Ideation |
+| [Feb 04](#feb-04) |                                 Simulation                                 | [(link)](https://docs.google.com/presentation/d/1CK1iGDj5XH5aqCjFv0A9R_N5xqFzNegiiXiS0fq1oDY/edit?usp=sharing)| Ideation |
+| [Feb 06](#feb-06) |                                 Simulation                                 | [(link)](https://docs.google.com/presentation/d/1nUbj0-AtfSbwHBQZYOqDrmcEzhcvk6FAaANaEW5IGV0/edit?usp=sharing)| Ideation |
+| [Feb 11](#feb-11) |                                  LLMology                                  | [(link)](https://docs.google.com/presentation/d/18Skn6sSTbKRwRXYLdT0N9ROnejcKksvsBeCUYgCXL1E/edit?usp=sharing)| Ideation |
+| [Feb 13](#feb-13) |                                  LLMology                                  | [(link)](https://docs.google.com/presentation/d/1E23FG036TiD_4UvIBOe-Ymv1gDYaIYrlBLq52uJICdo/edit?usp=sharing)| Ideation |
+| [Feb 18](#feb-18) |               [Serina Chang](https://serinachang5.github.io/)              |         |    ❌       |
 | [Feb 20](#feb-20) |                                      ❌                                     |        |   Proposal   |
-| [Feb 25](#feb-25) |                                Social Media                                |        |   Prior work  |
-| [Feb 27](#feb-27) |                                Social Media                                |         |   Prior work  |
-| [Mar 04](#mar-04) |                               Hum. & Machines                              |        |    ❌    |
-| [Mar 06](#mar-06) |                               Hum. & Machines                              |        |       ❌      |
+| [Feb 25](#feb-25) |                                Social Media                                | [(link)](https://docs.google.com/presentation/d/1CQXIU3VE5nsTRcAR4QNeT7LJCCZDYytgyTEebXs-5kY/edit?usp=sharing) |   Prior work  |
+| [Feb 27](#feb-27) |                                Social Media                                | [(link)](https://docs.google.com/presentation/d/1bz6diGA17bLwhafn7wQWNcdpSGyMj_UNnt4rJjQHDQI/edit?usp=drive_link) |   Prior work  |
+| [Mar 04](#mar-04) |                               Hum. & Machines                              | [(link)](https://docs.google.com/presentation/d/1OBpzGjB2SvX39v-P6MjGHC527obbvZx5Np8QNSMozu8/edit?usp=drive_link)|    ❌    |
+| [Mar 06](#mar-06) |                               Hum. & Machines                              | [(link)](https://docs.google.com/presentation/d/1ECdVJzhjmFj9ju-utSffFQyn5YAKlrirBBs6ClQYkrc/edit?usp=drive_link)|       ❌      |
 | [Mar 18](#mar-18) |            [Mor Naaman](https://mmoorr.github.io/www_personal/)            |        |       ❌       |
 | [Mar 20](#mar-20) |             [Michael Bernstein](https://hci.stanford.edu/msb/)             |        |       ❌       |
 | [Mar 25](#mar-25) |                                     ❌                                     |        |     Clinic    |
 | [Mar 27](#mar-27) |                                     ❌                                     |        |     Clinic    |
-| [Apr 01](#apr-01) |                                   Alignment                                   |        |       ❌       |
+| [Apr 01](#apr-01) |                                   Alignment                                   | [(link)](https://docs.google.com/presentation/d/14z5AyN6eDlvtSiMYN6s48OFbfckfiST8BovuYmLm5D8/edit?usp=drive_link) |       ❌       |
 | [Apr 03](#apr-03) |                                     [Sunnie Kim](https://sunniesuhyoung.github.io/)                                     |        |       ❌       |
 | [Apr 08](#apr-08) | [Dylan Thurgood](https://www.oii.ox.ac.uk/people/profiles/dylan-thurgood/) |        |       ❌       |
 | [Apr 10](#apr-10) |             [Christopher Barrie](https://www.cjbarrie.com/main)            |        |       ❌       |
