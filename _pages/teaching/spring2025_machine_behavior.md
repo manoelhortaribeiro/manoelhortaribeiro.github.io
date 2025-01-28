@@ -39,30 +39,30 @@ Machine learning models are everywhere, and their role in society may increase a
 
 |        Date       |                                  Readings                                  | Slides |    Project    |
 |:-----------------:|:--------------------------------------------------------------------------:|:------:|:-------------:|
-| [Jan 28](#jan-28) |                                Intro                                |        | Ideation |
-| [Jan 30](#jan-30) |                                     〃                                     |        |       〃      |
-| [Feb 04](#feb-04) |                                 Simulation                                 |        |       〃      |
-| [Feb 06](#feb-06) |                                     〃                                     |        |       〃      |
-| [Feb 11](#feb-11) |                                  LLMology                                  |        |       〃      |
-| [Feb 13](#feb-13) |                                     〃                                     |        |       〃      |
+| [Jan 28](#jan-28) |                                Intro                                |  [(link)](https://docs.google.com/presentation/d/1vTIoX0O8KAI8QeLWoRYnNs1Ofw2O9z4h29FLDVXb0v0/edit?usp=sharing)    | Ideation |
+| [Jan 30](#jan-30) |                                Intro                                |        | Ideation |
+| [Feb 04](#feb-04) |                                 Simulation                                 |        | Ideation |
+| [Feb 06](#feb-06) |                                 Simulation                                 |         | Ideation |
+| [Feb 11](#feb-11) |                                  LLMology                                  |        | Ideation |
+| [Feb 13](#feb-13) |                                  LLMology                                  |        | Ideation |
 | [Feb 18](#feb-18) |               [Serina Chang](https://serinachang5.github.io/)              |        |       ❌       |
 | [Feb 20](#feb-20) |                                      ❌                                     |        |   Proposal   |
 | [Feb 25](#feb-25) |                                Social Media                                |        |   Prior work  |
-| [Feb 27](#feb-27) |                                     〃                                     |        |       〃      |
+| [Feb 27](#feb-27) |                                Social Media                                |         |   Prior work  |
 | [Mar 04](#mar-04) |                               Hum. & Machines                              |        |    ❌    |
-| [Mar 06](#mar-06) |                                     〃                                     |        |       ❌      |
+| [Mar 06](#mar-06) |                               Hum. & Machines                              |        |       ❌      |
 | [Mar 18](#mar-18) |            [Mor Naaman](https://mmoorr.github.io/www_personal/)            |        |       ❌       |
 | [Mar 20](#mar-20) |             [Michael Bernstein](https://hci.stanford.edu/msb/)             |        |       ❌       |
-| [Mar 25](#mar-25) |                                      ❌                                     |        |     Clinic    |
-| [Mar 27](#mar-27) |                                     〃                                     |        |       〃      |
+| [Mar 25](#mar-25) |                                     ❌                                     |        |     Clinic    |
+| [Mar 27](#mar-27) |                                     ❌                                     |        |     Clinic    |
 | [Apr 01](#apr-01) |                                   Alignment                                   |        |       ❌       |
-| [Apr 03](#apr-03) |                                     〃                                     |        |       ❌       |
+| [Apr 03](#apr-03) |                                     [Sunnie Kim](https://sunniesuhyoung.github.io/)                                     |        |       ❌       |
 | [Apr 08](#apr-08) | [Dylan Thurgood](https://www.oii.ox.ac.uk/people/profiles/dylan-thurgood/) |        |       ❌       |
 | [Apr 10](#apr-10) |             [Christopher Barrie](https://www.cjbarrie.com/main)            |        |       ❌       |
 | [Apr 15](#apr-15) |                  [Paul Röttger](https://paulrottger.com/)                  |        |       ❌       |
 | [Apr 17](#apr-17) |               [Micah Caroll](https://micahcarroll.github.io/)              |        |       ❌       |
 | [Apr 22](#apr-22) |                                      ❌                                     |        | Presentations |
-| [Apr 24](#apr-24) |                                      ❌                                     |        |       〃      |
+| [Apr 24](#apr-24) |                                      ❌                                     |        | Presentations |
 
 ## 3. About the course
 This course has three central components: 1) reading activities, 2) a research project, 3) guest lectures
@@ -280,9 +280,7 @@ After spring break, we will have a series of guest lectures. Students are expect
 
 #### Apr 03
 
-- **Readings**:
-	- Zhi-Xuan, Tan, et al. "Beyond preferences in ai alignment." Philosophical Studies (2024): 1-51.
-. [(link)](https://link.springer.com/article/10.1007/s11098-024-02249-w)
+- **Guest Lecture:** [Sunnie Kim](https://sunniesuhyoung.github.io/)
 
 ### Week #10 — Guest Lectures
 ---
