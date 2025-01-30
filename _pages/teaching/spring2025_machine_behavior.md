@@ -137,9 +137,10 @@ After spring break, we will have a series of guest lectures. Students are expect
 - 10% In-class active participation.
 - 10% Discussant presentation.
 - 20% Reading responses.
-- 50% Research project:
+- 60% Research project:
 	- 35% Final write-up.
 	- 15% Final presentation.
+	- 10% Other deliverables.
 
 ### 3.5 Expectations
 
