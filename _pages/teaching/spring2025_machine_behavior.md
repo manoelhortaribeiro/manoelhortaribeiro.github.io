@@ -34,6 +34,7 @@ Machine learning models are everywhere, and their role in society may increase a
 - **Office Hours:** on demand.
 - **Hours:** Tue & Thu, 10 am --- 11:20 am.
 - **TA:** Ryan Liu ([rl5886@cs.princeton.edu](mailto:rl5886@cs.princeton.edu)).
+- **Location:** [Friend Center 016](https://m.princeton.edu/default/campus_map/map?feed=campus_map&parentId=campus_map%2FBuilding&filter=Friend%20Center&id=_0616).
 
 ## 2. Schedule 
 
@@ -75,7 +76,7 @@ This course has three central components: 1) reading activities, 2) a research p
 - Each day, we will have 1 to 2 assigned readings;
 - Everyone should write a short response for each. 
 	- This should be done as a slide to be added to a collective deck.
-	- This should be done at least 24 hours before the class.
+	- This should be done at least 22 hours before the class.
 - Your response should reflect on a couple of the following questions:
 	- What are the contributions of the paper?
 	- How would you extend this work?
@@ -119,7 +120,7 @@ This course has three central components: 1) reading activities, 2) a research p
 		- **Description:** Short presentation of your project.
 		- **Deadline:** Apr 22nd.
 		- **Submission:** Add slide to this [drive folder](https://drive.google.com/drive/folders/18aRvzdNke5lWuwA4X5wYifX_G0r4rKsc?usp=drive_link).
-	5. **Due Apr 24th: Final project rep dort.** 
+	5. **Due Apr 24th: Final project** 
 		- **Description:** Final report in the format of a paper. The report should have around 8 pages and 4,000-8,000 words, and should be structured like a paper. You must include a `contributions' section outlining what group participant did what. I encourage you to link a github repo with the code you used for the project within the manuscript. 
 		- **Deadline:** Apr 24nd.
 		- [**Submission link**](https://docs.google.com/forms/d/e/1FAIpQLScg5aOqNopJ9YtuAK6Mz9nE-UEgVRqmtVJTcT0ddk_CGXjVSw/viewform?usp=header).
