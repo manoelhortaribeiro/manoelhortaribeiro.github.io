@@ -98,7 +98,7 @@ This course has three central components: 1) reading activities, 2) a research p
 
 - **Scope.** A central component of the seminar is a research project. For example, your project might 1) use LLMs to simulate human behavior, 2) examine the behavior of machine learning models, or 3) analyze the interaction between humans and machine learning models. Above all, the project should be about a topic that interests you, e.g., something you find useful or that may contribute to your dissertation.
 - **Teams.** Team formation will be flexible, and the project scope will be commensurate with the team size. The final paper will include a “credits” section describing how each group member contributed to the project.
-- **Process.** We will have milestones, informal presentations, and feedback throughout the semester. Specifically, we will give peer feedback on projects throughout the semester simulating a single-blind peer-review process. I will also meet with you outside the class to help with your project. 
+- **Process.** We will have milestones, informal presentations, and feedback throughout the semester. I will also meet with you outside the class to help with your project. 
 - **Outcome.** Your team should write a research paper summarizing the projects with the typical sections, e.g., Intro, Related Work, Methods, Results, and Discussion. It should have around 5,000 to 7,000 words. You may tailor the paper to a specific venue you want to target for publication (e.g., ACL venues, ICLR, CoLM), and the instructor can help students think about whether and where to submit their project.
 
 #### 3.2.1 Deliverables
