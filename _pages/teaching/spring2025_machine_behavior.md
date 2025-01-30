@@ -105,7 +105,7 @@ This course has three central components: 1) reading activities, 2) a research p
 
 - The project has five different deliverables, all to be done in groups:
 	1. **Project proposal.** 
-		- **Description:** Two-pager on: 1) what your intended project is; 2) why is it relevant, and 3) how you are going to do it.
+		- **Description:** Two-pager on: 1) what your intended project is; 2) why is it relevant, and 3) how you are going to do it. Be prepared to talk about your proposal (no slides needed) in class!
 		- **Deadline:** Feb 20.
 		- [**Submission link**](https://docs.google.com/forms/d/e/1FAIpQLSdnm4qQAYMC1RalVikKKkvahbUKzBe_iQk7OuZ3s7Psggj1fw/viewform?usp=header)
 	2. **Brief synthesis of relevant related work.**
@@ -113,14 +113,14 @@ This course has three central components: 1) reading activities, 2) a research p
 		- **Deadline:** Mar 06.
 		- [**Submission link**](https://docs.google.com/forms/d/e/1FAIpQLSdb7vf6_hmdTalQ1X__pCO2nvJsMVTatRlCfPcwFShpqiMHug/viewform?usp=header)
 	3. **Project clinic presentation.** 
-		- **Description:** Short presentation discussing what your group has accomplished and, most important, the roadbloacks you are currently facing.
+		- **Description:** Short presentation discussing what your group has accomplished and, most important, the roadbloacks you are currently facing. 
 		- **Deadline:** Mar 25.
 		- **Submission:** Add slide to this [drive folder](https://drive.google.com/drive/folders/11zKO4jO5dsadjnMg_ts5V5qlEIhyugCj?usp=sharing).
 	4. **Project final presentation.** 
 		- **Description:** Short presentation of your project.
 		- **Deadline:** Apr 22nd.
 		- **Submission:** Add slide to this [drive folder](https://drive.google.com/drive/folders/18aRvzdNke5lWuwA4X5wYifX_G0r4rKsc?usp=drive_link).
-	5. **Due Apr 24th: Final project** 
+	5. **Final project report** 
 		- **Description:** Final report in the format of a paper. The report should have around 8 pages and 4,000-8,000 words, and should be structured like a paper. You must include a `contributions' section outlining what group participant did what. I encourage you to link a github repo with the code you used for the project within the manuscript. 
 		- **Deadline:** Apr 24nd.
 		- [**Submission link**](https://docs.google.com/forms/d/e/1FAIpQLScg5aOqNopJ9YtuAK6Mz9nE-UEgVRqmtVJTcT0ddk_CGXjVSw/viewform?usp=header).
@@ -268,6 +268,7 @@ After spring break, we will have a series of guest lectures. Students are expect
 #### Mar 25
 - **Project**:
 	- **Project clinic:** Students present projects and get feedback.
+
 #### Mar 27
 - **Project**:
 	- **Project clinic:** Students present projects and get feedback.
