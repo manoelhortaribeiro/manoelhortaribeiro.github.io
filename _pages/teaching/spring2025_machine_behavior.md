@@ -198,7 +198,7 @@ After spring break, we will have a series of guest lectures. Students are expect
 - **Project**:
 	- Brainstorming areas of interest.
 
-### Week #3 — LLMology
+### Week #3 — LLMology [(Pre-read)](https://docs.google.com/document/d/1BxFsbe7w-ZCZ07RTNolxLKCSN7X5DJhBu5QkLZh3qbM/edit?usp=sharing)
 ---
 
 #### Feb 11
