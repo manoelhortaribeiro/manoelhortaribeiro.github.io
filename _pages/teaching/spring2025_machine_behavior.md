@@ -35,6 +35,11 @@ Machine learning models are everywhere, and their role in society may increase a
 - **Hours:** Tue & Thu, 10 am --- 11:20 am.
 - **TA:** Ryan Liu ([rl5886@cs.princeton.edu](mailto:rl5886@cs.princeton.edu)).
 - **Location:** [Friend Center 016](https://m.princeton.edu/default/campus_map/map?feed=campus_map&parentId=campus_map%2FBuilding&filter=Friend%20Center&id=_0616).
+- **Office hours:** [Use this Google Sheet](https://docs.google.com/spreadsheets/d/1k8h2DWbhoN40703cFOF4832gRzINzhrbzujXa-Ld7uU/edit?usp=sharing)
+
+- **Other useful links:**
+	- [Office hours sign-in / hours.](https://docs.google.com/spreadsheets/d/1k8h2DWbhoN40703cFOF4832gRzINzhrbzujXa-Ld7uU/edit?usp=sharing)
+	- [Group formation form]
 
 ## 2. Schedule 
 
@@ -219,6 +224,8 @@ After spring break, we will have a series of guest lectures. Students are expect
 #### Feb 18
 
 - **Guest Lecture:** [Serina Chang](https://serinachang5.github.io/)
+	- **Title:** "Inferring and simulating human behaviors with machine learning"
+	- **Abstract:** *"Understanding human behaviors is crucial for high-stakes decision making, such as pandemic response, yet fine-grained behaviors are often difficult to observe (e.g., for privacy reasons or data collection constraints). In this talk, I'll discuss two approaches to addressing this challenge: (1) inferring behaviors from novel data sources, (2) simulating behaviors with LLMs. In the first part, I'll discuss our work to infer fine-grained mobility networks from aggregated location data, which enabled us to model the spread of COVID-19 and inform public health decision-making. In the second part, I'll discuss our recent work on generating social networks with LLMs, showing that, while these models can capture structural characteristics of real-world networks, they substantially overestimate political homophily."*
 
 #### Feb 20
 
