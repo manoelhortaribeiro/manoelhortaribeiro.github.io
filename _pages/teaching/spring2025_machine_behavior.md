@@ -203,7 +203,7 @@ After spring break, we will have a series of guest lectures. Students are expect
 - **Project**:
 	- Brainstorming areas of interest.
 
-### Week #3 — LLMology [(Pre-read)](https://docs.google.com/document/d/1BxFsbe7w-ZCZ07RTNolxLKCSN7X5DJhBu5QkLZh3qbM/edit?usp=sharing)
+### Week #3 — LLMology [(Pre-read)](https://docs.google.com/document/d/e/2PACX-1vT3nAhn0KuaCHRKnnldkOxrzFyGAKtFEGW3nTuelZ-0ldvIn9nw75jfNV2hPHwdjfXSSE2GeBY0iUzr/pub)
 ---
 
 #### Feb 11
@@ -232,7 +232,7 @@ After spring break, we will have a series of guest lectures. Students are expect
 - **Project**:
 	- **Project proposal:** Students present project proposals and receive feedback. 
 
-### Week #5 — Social Media Algorithms
+### Week #5 — Social Media Algorithms [(Pre-read)](https://docs.google.com/document/d/e/2PACX-1vRPXLK2k0Zc6nT0FuevBTTFD-NJgFag526uHbp2DzL3SoAdj4hAnMkFsaQh0Jiw1n4lEYBSPYma25t6/pub)
 ---
 
 #### Feb 25
