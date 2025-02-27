@@ -251,17 +251,21 @@ After spring break, we will have a series of guest lectures. Students are expect
 - **Project**:
 	- Review of prior work.
 
-### Week #6 — Humans and Machines
+### Week #6 — Humans and Machines [(Pre-read)](https://docs.google.com/document/d/e/2PACX-1vTTvqpkCzepu_HbtWhgR-Vypnv4xHitzWFuZd3l4K6uYztslTajYa2WPg05KZf-QwFbNqgH7r5pcQ79/pub)
 ---
 
 #### Mar 04
 - **Readings**:
 	- Costello, Thomas H., Gordon Pennycook, and David G. Rand. "Durably reducing conspiracy beliefs through dialogues with AI." Science 385.6714 (2024). [(link)](https://www.science.org/doi/abs/10.1126/science.adq1814)
+- **Project**:
+	- Review of prior work.
 
 
 #### Mar 06
 - **Readings**:
 	- Krügel, Sebastian, Andreas Ostermaier, and Matthias Uhl. "ChatGPT’s inconsistent moral advice influences users’ judgment." Scientific Reports (2023). [(link)](https://www.nature.com/articles/s41598-023-31341-0) 
+- **Project**:
+	- Review of prior work.
 
 ### Week #7 — Guest Lectures
 ---
