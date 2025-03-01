@@ -37,10 +37,6 @@ Machine learning models are everywhere, and their role in society may increase a
 - **Location:** [Friend Center 016](https://m.princeton.edu/default/campus_map/map?feed=campus_map&parentId=campus_map%2FBuilding&filter=Friend%20Center&id=_0616).
 - **Office hours:** [Use this Google Sheet](https://docs.google.com/spreadsheets/d/1k8h2DWbhoN40703cFOF4832gRzINzhrbzujXa-Ld7uU/edit?usp=sharing)
 
-- **Other useful links:**
-	- [Office hours sign-in / hours.](https://docs.google.com/spreadsheets/d/1k8h2DWbhoN40703cFOF4832gRzINzhrbzujXa-Ld7uU/edit?usp=sharing)
-	- [Group formation form]
-
 ## 2. Schedule 
 
 |        Date       |                                  Readings                                  | Slides |    Project    |
