@@ -292,7 +292,6 @@ After spring break, we will have a series of guest lectures. Students are expect
 	- **1-on-1 meetiings:** Students get individualized feedback.
   
 #### Apr 03
-
 - **Guest Lecture:** [Sunnie Kim](https://sunniesuhyoung.github.io/)
   - **Title:** Advancing Responsible AI with Human-Centered Evaluation 
   - **Abstract:** As AI technologies are increasingly transforming how we live, work, and communicate, AI evaluation must take a human-centered approach to realistically reflect real-world performance and impact. In this talk, I will discuss how to advance human-centered evaluation, and subsequently, responsible development of AI, by integrating knowledge and methods from AI and HCI. First, using explainable AI as an example, I will highlight the challenges and necessity of human (as opposed to automatic) evaluation. Second, I will illustrate the importance of contextualized evaluation with real users, revisiting key assumptions in explainable AI research. Finally, I will present empirical insights into human-AI interaction, demonstrating how users perceive and act upon common AI behaviors (e.g., LLMs providing explanations and sources). I will conclude by discussing the implications of these findings and future directions for responsible AI development.
@@ -300,14 +299,16 @@ After spring break, we will have a series of guest lectures. Students are expect
 ### Week #10 — Guest Lectures
 ---
 #### Apr 08
+
 - **Guest Lecture:** [Dylan Thurgood](https://www.oii.ox.ac.uk/people/profiles/dylan-thurgood/)
   - **Title:**  Assessing the role of emotions in the persuasive capabilities of GPT-4: An analysis of articles about climate change
   - **Abstract:** As AI technologies are increasingly transforming how we live, work, and communicate, AI evaluation must take a human-centered approach to realistically reflect real-world performance and impact. In this talk, I will discuss how to advance human-centered evaluation, and subsequently, responsible development of AI, by integrating knowledge and methods from AI and HCI. First, using explainable AI as an example, I will highlight the challenges and necessity of human (as opposed to automatic) evaluation. Second, I will illustrate the importance of contextualized evaluation with real users, revisiting key assumptions in explainable AI research. Finally, I will present empirical insights into human-AI interaction, demonstrating how users perceive and act upon common AI behaviors (e.g., LLMs providing explanations and sources). I will conclude by discussing the implications of these findings and future directions for responsible AI development.
 
-
-
 #### Apr 10
+
 - **Guest Lecture:** [Christopher Barrie](https://www.cjbarrie.com/main)
+  - **Title:**  Replication for Language Models
+  - **Abstract:** Excitement about Large Language Models (LMs) abounds. These tools require minimal researcher input and yet make it possible to annotate and generate large quantities of data. While LMs are promising, there has been almost no systematic research into the reproducibility of research using them. This is a potential problem for scientific integrity. We give a theoretical framework for replication in the discipline and show that much LM work is wanting. We demonstrate the problem empirically using a rolling iterated replication design in which we compare crowdsourcing and LMs on multiple repeated tasks, over many months. We find that LMs can be (very) accurate, but the observed variance in performance is often unacceptably high. In many cases the LM findings cannot be re-run, let alone replicated. This affects “downstream” results. We conclude with recommendations for best practice, including the use of locally versioned ‘open source’ LMs.
 
 ### Week #11 — Guest Lectures
 ---
