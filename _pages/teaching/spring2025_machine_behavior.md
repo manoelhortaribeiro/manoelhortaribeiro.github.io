@@ -267,9 +267,12 @@ After spring break, we will have a series of guest lectures. Students are expect
 ---
 #### Mar 18
 - **Guest Lecture:** [Mor Naaman](https://mmoorr.github.io/www_personal/)
-
+	- **Title:** From Autocomplete to Auto-Everything: The Consequences of AI-Mediated Communication 
+    - **Abstract:** Talk: From autocomplete and smart replies to video filters and deepfakes, we increasingly live in a world where communication between humans is augmented by artificial intelligence. AI often operates on behalf of a human communicator by recommending, suggesting, modifying, or generating messages to accomplish communication goals. We call this phenomenon AI-Mediated Communication (or AI-MC). While AI-MC has the potential of making human communication more efficient, it impacts other aspects of our communication in ways that are not yet well understood. Over the last six years, my collaborators and I have been documenting the impact of AI-MC on communication outcomes, language use, interpersonal trust, and more. The talk will outline experimental findings from this work. For example, the research shows that AI-MC involvement can impact the evaluation of others; change the extent to which we take ownership over our messages; and shift not only what we write, but even our expressed attitudes. AI-MC may also have a disparate effect on different demographic groups, for example in how different groups are evaluated and suspected of using AI. Overall, AI-MC raises significant practical and ethical concerns as it stands to reshape human communication, calling for new approaches to the development of these technologies.
 #### Mar 20
 - **Guest Lecture:** [Michael Bernstein](https://hci.stanford.edu/msb/)
+	- **Title:** Generative Agents: Interactive Simulacra of Human Behavior
+    - **Abstract:** Talk: Effective models of human attitudes and behavior can empower applications ranging from immersive environments to social policy simulation. However, traditional simulations have struggled to capture the complexity and contingency of human behavior. The argument is that modern artificial intelligence models allow for a re-examination of this limitation. The case is made through generative agents: computational software agents that simulate human behavior. By enabling generative agents to remember, reflect, and plan, an interactive sandbox town of twenty-five agents inspired by The Sims is populated. Then, by anchoring agents’ memories in qualitative interviews of over 1,000 Americans, it is described how generative agents are able to replicate participants’ responses on the General Social Survey 85% as accurately as participants replicate their own answers. Finally, it is explored how these human behavioral models can help design more effective online social spaces, understand the societal disagreement underlying modern AI models, and better embed societal values into algorithms.
 
 ### Week #8 — Project Clinic
 ---
@@ -285,17 +288,23 @@ After spring break, we will have a series of guest lectures. Students are expect
 ---
 #### Apr 01
 
-- **Readings**:
-	- Shen, Hua, et al. "Towards Bidirectional Human-AI Alignment: A Systematic Review for Clarifications, Framework, and Future Directions." arXiv preprint arXiv:2406.09264 (2024). [(link)](https://arxiv.org/abs/2406.09264)
-
+- **Project**:
+	- **1-on-1 meetiings:** Students get individualized feedback.
+  
 #### Apr 03
 
 - **Guest Lecture:** [Sunnie Kim](https://sunniesuhyoung.github.io/)
+  - **Title:** Advancing Responsible AI with Human-Centered Evaluation 
+  - **Abstract:** As AI technologies are increasingly transforming how we live, work, and communicate, AI evaluation must take a human-centered approach to realistically reflect real-world performance and impact. In this talk, I will discuss how to advance human-centered evaluation, and subsequently, responsible development of AI, by integrating knowledge and methods from AI and HCI. First, using explainable AI as an example, I will highlight the challenges and necessity of human (as opposed to automatic) evaluation. Second, I will illustrate the importance of contextualized evaluation with real users, revisiting key assumptions in explainable AI research. Finally, I will present empirical insights into human-AI interaction, demonstrating how users perceive and act upon common AI behaviors (e.g., LLMs providing explanations and sources). I will conclude by discussing the implications of these findings and future directions for responsible AI development.
 
 ### Week #10 — Guest Lectures
 ---
 #### Apr 08
 - **Guest Lecture:** [Dylan Thurgood](https://www.oii.ox.ac.uk/people/profiles/dylan-thurgood/)
+  - **Title:**  Assessing the role of emotions in the persuasive capabilities of GPT-4: An analysis of articles about climate change
+  - **Abstract:** As AI technologies are increasingly transforming how we live, work, and communicate, AI evaluation must take a human-centered approach to realistically reflect real-world performance and impact. In this talk, I will discuss how to advance human-centered evaluation, and subsequently, responsible development of AI, by integrating knowledge and methods from AI and HCI. First, using explainable AI as an example, I will highlight the challenges and necessity of human (as opposed to automatic) evaluation. Second, I will illustrate the importance of contextualized evaluation with real users, revisiting key assumptions in explainable AI research. Finally, I will present empirical insights into human-AI interaction, demonstrating how users perceive and act upon common AI behaviors (e.g., LLMs providing explanations and sources). I will conclude by discussing the implications of these findings and future directions for responsible AI development.
+
+
 
 #### Apr 10
 - **Guest Lecture:** [Christopher Barrie](https://www.cjbarrie.com/main)
