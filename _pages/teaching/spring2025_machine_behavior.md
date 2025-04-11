@@ -335,4 +335,4 @@ After spring break, we will have a series of guest lectures. Students are expect
 I used the following seminar courses as references to help structure this:
 - [Andrés Monroy-Hernández](https://www.andresmh.com/)’s [Social Computing Seminar](https://docs.google.com/document/d/1JxSlpqlvhCMNm6p39O2oXd09kXvx3PwGPQ4wCAbG5Q4/edit?tab=t.0#heading=h.uo1fs6av3urp).
 - [Robert West](https://dlab.epfl.ch/people/west/)’s [Topics in Computational Social Science](https://dlab.epfl.ch/teaching/spring2024/cs727/).
-- [Lydia Liu](https://www.lydiatliu.com/)’s [Responsible AI in Societal Deployment](https://docs.google.com/document/d/1rDF5eSKb55HxaPPHH_ukcsmEgkrTG2rC6KbcWxSkerU/edit?tab=t.0#heading=h.ck8vg9xjbu5q).**
+- [Lydia Liu](https://www.lydiatliu.com/)’s [Responsible AI in Societal Deployment](https://docs.google.com/document/d/1rDF5eSKb55HxaPPHH_ukcsmEgkrTG2rC6KbcWxSkerU/edit?tab=t.0#heading=h.ck8vg9xjbu5q).
