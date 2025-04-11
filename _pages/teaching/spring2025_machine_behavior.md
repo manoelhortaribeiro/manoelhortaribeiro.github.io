@@ -314,6 +314,8 @@ After spring break, we will have a series of guest lectures. Students are expect
 ---
 #### Apr 15
 - **Guest Lecture:** [Paul Röttger](https://paulrottger.com/)
+  - **Title:**  Measuring Political Bias in Large Language Models
+  - **Abstract:** Large language models (LLMs) are helping millions of users to learn and write about a diversity of issues. In doing so, LLMs may expose users to new ideas and perspectives, or reinforce existing knowledge and user opinions. This creates concerns about political bias in LLMs, and how these biases might influence LLM users and society. In his talk, Röttger will first discuss why measuring political biases in LLMs is difficult, and why most evidence so far should be approached with skepticism. Using the Political Compass Test as a case study, he will demonstrate critical issues of robustness and ecological validity when applying such tests to LLMs. Second, he will present his team’s approach to building a more meaningful evaluation dataset called IssueBench, to measure biases in how LLMs write about political issues. He will describe the steps they took to make IssueBench realistic and robust. Then, he will outline their results from testing state-of-the-art LLMs with IssueBench, including clear evidence for issue bias, striking similarities in biases across models, and strong alignment with Democrat over Republican voter positions on a subset of issues.
 
 #### Apr 17
 - **Guest Lecture:** [Micah Caroll](https://micahcarroll.github.io/)
