@@ -319,6 +319,8 @@ After spring break, we will have a series of guest lectures. Students are expect
 
 #### Apr 17
 - **Guest Lecture:** [Micah Caroll](https://micahcarroll.github.io/)
+  - **Title:** What We Want Changes! Problems with Optimizing Feedback from Influenceable Humans
+  - **Abstract:** Existing AI alignment approaches assume that preferences are static, which is unrealistic: our preferences change, and may even be influenced by our interactions with AI systems themselves. I'll first discuss a formalism designed to account for preference changes (DR-MDPs). Through the lens of DR-MDPs,  one can better analyze the consequences of optimization objectives used under standard static-preference assumptions: in particular, how they can lead to undesirable AI behavior aimed at influencing humans (in settings such as LLM chatbots or recommender systems). Finally, I'll discuss the core challenges in the way of fully resolving or avoiding issues of preference change – and why this problem is here to stay.
 
 ### Week #12 - Final Presentations
 ---
