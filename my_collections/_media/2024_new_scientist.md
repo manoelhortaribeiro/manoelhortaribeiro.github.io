@@ -9,8 +9,7 @@ link: "https://www.newscientist.com/article/2424856-ai-chatbots-beat-humans-at-p
 
 archive: "https://web.archive.org/web/20240403102715/https://webcache.googleusercontent.com/search?q=cache:https://www.newscientist.com/article/2424856-ai-chatbots-beat-humans-at-persuading-their-opponents-in-debates/"
 
-related_paper: 'On the Conversational Persuasiveness of Large Language Models: A Randomized Controlled Trial'
-
+related_paper: 'On the conversational persuasiveness of GPT-4'
 
 ---
 

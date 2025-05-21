@@ -7,9 +7,8 @@ venue: "Fast Company"
 
 link: "https://www.fastcompany.com/91277631/those-workplace-communication-tools-you-hate-might-actually-be-good"
 
-related_paper: 'On the Conversational Persuasiveness of Large Language Models: A Randomized Controlled Trial'
+related_paper: 'The Effects of Enterprise Social Media on Communication Networks'
 
-name_file: '2025_msr'
 
 ---
 
