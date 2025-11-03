@@ -1,8 +1,10 @@
 ---
 - links:
+    - { "date": "2025-04-04", "text": "🎬 Attended a panel at Rutgers", links: ["https://comminfo.rutgers.edu/news/participants-across-us-attended-sci-lis-symposium-examining-critical-sociotechnical-challenges-information-science"]}
+    - { "date": "2025-03-11", "text": "🎬 Gave a talk at the Social Technologies Lab at Cornell Tech"}
     - { "date": "2025-02-20", "text": "🎬 Gave a talk at \"Princeton Language and Intelligence.\""}
     - { "date": "2025-02-14", "text": "🎬 Gave a virtual talk at the \"Community Data Science Collective.\""}
-    - { "date": "2025-01-31", "text": "📜 Paper accepted at CSCW 2025: \"The AI Review Lottery: Widespread AI-Assisted Peer Reviews Boost Paper Scores and Acceptance Rates\"", "links": ["https://arxiv.org/abs/2405.02150"] }
+    - { "date": "2025-02-13", "text": "📜 Paper accepted at CSCW 2025: \"The AI Review Lottery: Widespread AI-Assisted Peer Reviews Boost Paper Scores and Acceptance Rates\"", "links": ["https://arxiv.org/abs/2405.02150"] }
     - { "date": "2025-02-12", "text": "🎬 Gave a virtual talk at the \"Social Media + AI\" group at Stanford."}
     - { "date": "2025-01-31", "text": "📜 Paper accepted at  WebSci 2025: \"The Effects of Enterprise Social Media on Communication Networks.\"", "links": ["https://arxiv.org/abs/2502.01787"] }
     - {"date": "2025-01-16", "text": "🎒 Moved to the US to start as an Assistant Professor at Princeton!", "link": "https://x.com/manoelribeiro/status/1793288211814379776"}

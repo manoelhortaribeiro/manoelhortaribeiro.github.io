@@ -15,18 +15,19 @@ permalink: /
 <p>
  I'm an Assistant Professor at Princeton University in the <a href="https://www.cs.princeton.edu/">Department of Computer Science</a>,
     affiliated with the <a href="https://citp.princeton.edu/">Princeton Center for Information Technology Policy (CITP)</a>.
-    Let's work together, see <a href="/advising">«Advising»</a>.
         I received my doctoral degree in Switzerland, at EPFL’s <a href="https://dlab.epfl.ch/">DLAB</a>, working with Bob West, and my MSc and BSc in Brazil, at UFMG.
     During my doctorate, I worked closely with several companies, including Meta, Reddit, Prolific, and Microsoft.
 
 </p>
 <p>
 I work at the intersection of computational social science, artificial intelligence, and social computing.
-    I like doing research that tackles real-world issues and provides actionable insights.
+    I like research that tackles real-world issues and provides actionable insights.
     Ideally, these insights translate into policy and design changes.
     My work has also received extensive media coverage, helping shape the public debate around online platforms and generative AI;
     see <a href="/press">«Press»</a>.
 </p>
+
+<p><b>I am not accepting new PhD students at this time.</b></p>
 <!--<p>-->
 <!--I received my doctoral degree in Switzerland, at EPFL’s <a href="https://dlab.epfl.ch/">DLAB</a>, working with Bob West, and my MSc and BSc in Brazil, at UFMG. During my doctorate, I worked closely with several companies, including Meta, Reddit, Prolific, and Microsoft.-->
 <!--I recently started a substack; see <a href="https://doomscrollingbabel.manoel.xyz/">«Doomscrolling Babel»</a>..-->
@@ -114,23 +115,63 @@ I work at the intersection of computational social science, artificial intellige
 </div>
 <div class=" col-lg-8  col-md-12 " style="margin-bottom: 10px" >
 
-  
+
   <h4 class="space-mono-bold" style="text-align: center;">
     <img style="width: 100px" src="{{ site.baseurl }}/images/substack_wordmark.png" />
     <a  href="https://doomscrollingbabel.manoel.xyz/">«doomscrollingbabel»</a></h4>
 
-  <br/>
-  <div id="substack-feed-embed"></div>
+    <div id="latest-posts" class="row">
+    Loading latest post...
+</div>
+</div>
+</div>
 
+<script>
 
-  <script>
-    window.SubstackFeedWidget = {
-      substackUrl: "doomscrollingbabel.manoel.xyz",
-      posts: 3,
-      hidden: ["reactions", "comments", "premium"]
-    };
-  </script>
-  <script src="https://substackapi.com/embeds/feed.js" async></script>
+const feedUrl = `https://api.rss2json.com/v1/api.json?rss_url=https%3A%2F%2Fdoomscrollingbabel.manoel.xyz%2Ffeed`
+async function fetchLatestPosts() {
+  try {
+    const response = await fetch(feedUrl);
+    const data = await response.json();
 
-  
-</div>  
+    // Get up to three items from the feed
+    const latestItems = (data.items || []).slice(0, 3);
+
+    if (latestItems.length > 0) {
+      const postsHTML = latestItems.map(item => {
+        // Assuming the first image in the content is the featured image
+        const imageUrlMatch = item.content.match(/<img src="([^"]+)"/);
+        const imageUrl = item.enclosure.link; // Default to empty if no image found
+
+        // Extract title and subtitle (assuming subtitle is in the description)
+        const title = item.title;
+        const subtitle = item.description || 'No Subtitle Provided';
+
+        return `
+          <div class="post col-md-4 my-4">
+            <a href="${item.link}" class="link_with_image" target="_blank">
+              <div class="post_image_wrapper">
+                ${imageUrl ? `<img src="${imageUrl}" alt="${title}" class="featured-image">` : ''}
+              </div>
+              <div class="post_meta_data">
+                <h3>${title}</h3>
+                <p><strong>${subtitle}</strong></p>
+              </div>
+            </a>
+          </div>
+        `;
+      }).join('');
+
+      // Update HTML with the latest posts details
+      document.getElementById('latest-posts').innerHTML = postsHTML;
+    } else {
+      document.getElementById('latest-posts').textContent = 'No posts available.';
+    }
+  } catch (error) {
+    document.getElementById('latest-posts').textContent = 'Failed to load the latest posts.';
+    console.error('Error fetching the RSS feed:', error);
+  }
+}
+
+fetchLatestPosts();
+</script>
