@@ -1,5 +1,12 @@
 ---
 - links:
+    - { "date": "2025-11-10", "text": "🏆 I was commended by my teaching at Princeton!", "link":"https://engineering.princeton.edu/news/2025/11/10/faculty-commended-outstanding-teaching-8"}
+    - { "date": "2025-11-10", "text": "🎬 Gave a talk at Meta FAIR NYC"}
+    - { "date": "2025-10-18", "text": "🏆 Our paper on AI reviews got a best paper award (honorable mention) at CSCW", "link": "https://programs.sigchi.org/cscw/2025/program/content/210990"}
+    - { "date": "2025-10-17", "text": "🎬 Attended Fostering Connection in Social Gaming @ Roblox"}
+    - { "date": "2025-06-30", "text": "🎬 Gave a talk at UPenn's SICSS",  "link": "https://sicss.io/2025/penn/people"}
+    - { "date": "2024-06-26", "text": "🏆 Two of our papers received best paper (honorable mention) awards at ICWSM!", "link": "https://x.com/manoelribeiro/status/1938234177809252368" }
+    - { "date": "2025-05-01", "text": "🐶 Adopted Cannoli",  "photo": "/images/photos/cannoli.JPG"}
     - { "date": "2025-04-04", "text": "🎬 Attended a panel at Rutgers", links: ["https://comminfo.rutgers.edu/news/participants-across-us-attended-sci-lis-symposium-examining-critical-sociotechnical-challenges-information-science"]}
     - { "date": "2025-03-11", "text": "🎬 Gave a talk at the Social Technologies Lab at Cornell Tech"}
     - { "date": "2025-02-20", "text": "🎬 Gave a talk at \"Princeton Language and Intelligence.\""}
