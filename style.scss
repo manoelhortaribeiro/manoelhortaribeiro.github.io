@@ -324,3 +324,25 @@ RSS FEED
   color:#FFF;
   opacity:0;
 }
+
+.logo_lab {
+  display: inline-block;
+  text-decoration: none;
+  max-width: 250px;
+  padding:7px 7px 7px 0px;
+  border-radius: 9px;
+  border:.5px solid $gray;
+  transition: transform 0.15s ease, box-shadow 0.15s ease;
+}
+
+.logo_lab p {
+  margin: 0;
+  padding: 0;
+  border: 0;
+}
+
+
+.logo_lab:hover {
+  transform: translateY(-10px);
+  background: #e4e4e4;
+}
