@@ -1,5 +1,8 @@
 ---
 - links:
+    - { "date": "2026-04-01", "text": "🎬 Gave a talk at CMU's S3D Distinguished Speaker Series", "link": "https://www.cs.cmu.edu/afs/cs.cmu.edu/Web/Posters/S3DDL-ManoelRibeiro26.pdf"}
+    - { "date": "2026-03-23", "text": "🎬 Gave a talk at Johns Hopkins' CLSP", "link": "https://www.clsp.jhu.edu/events/machine-persuasion-0-manoel-horta-ribeiro-princeton/"}
+    - { "date": "2026-02-28", "text": "🎬 Attended Northwestern Simposia for Validating Generative AI-Based Social Sciences", "link": "https://www.hci.northwestern.edu/news-events/colloquia-special-events/hci-d-ai-symposia-2026/validating-generative-ai-based-social-sciences.html"}
     - { "date": "2025-11-10", "text": "🏆 I was commended by my teaching at Princeton!", "link":"https://engineering.princeton.edu/news/2025/11/10/faculty-commended-outstanding-teaching-8"}
     - { "date": "2025-11-10", "text": "🎬 Gave a talk at Meta FAIR NYC"}
     - { "date": "2025-10-18", "text": "🏆 Our paper on AI reviews got a best paper award (honorable mention) at CSCW", "link": "https://programs.sigchi.org/cscw/2025/program/content/210990"}
