@@ -1,10 +1,17 @@
 ---
 - links:
+    - { "date": "2026-10-02", "text": "🎬 Gave a colloquium talk at TCNJ on content curation in online platforms", "link": "https://computerscience.tcnj.edu/2026/09/21/colloquium-talk-with-dr-manoel-horta-ribeiro-assistant-professor-at-princeton-university-october-2-content-curation-in-online-platforms/" }
+    - { "date": "2026-09-10", "text": "🏆 I was commended for outstanding teaching at Princeton for the second year in a row!", "link": "https://engineering.princeton.edu/news/2026/09/10/faculty-commended-outstanding-teaching-10"}
+    - { "date": "2026-07-29", "text": "🎬 Attended IC2S2 2026 in Burlington, Vermont to watch talks by my brilliant students.", "link": "https://ic2s2-2026.org/"}
+    - { "date": "2026-06-01", "text": "🏆 Received a Young Faculty Researcher Award from the Toyota Research Institute"}
+    - { "date": "2026-05-18", "text": "🎬 Presented our work on recommendation algorithms and attitudes toward AI at the MEDIVA Research Symposium in Berlin", "link": "https://www.bim.hu-berlin.de/de/aktuelles/termine/symposium-mediva-2026"}
+    - { "date": "2026-05-14", "text": "🎬 Gave a talk at UFOP's Chá com Ciência", "link": "https://ufop.br/noticias/pesquisa-e-inovacao/cha-com-ciencia-discute-impactos-dos-algoritmos-e-da-desinformacao-nas" }
     - { "date": "2026-04-01", "text": "🎬 Gave a talk at CMU's S3D Distinguished Speaker Series", "link": "https://www.cs.cmu.edu/afs/cs.cmu.edu/Web/Posters/S3DDL-ManoelRibeiro26.pdf"}
     - { "date": "2026-03-23", "text": "🎬 Gave a talk at Johns Hopkins' CLSP", "link": "https://www.clsp.jhu.edu/events/machine-persuasion-0-manoel-horta-ribeiro-princeton/"}
     - { "date": "2026-02-28", "text": "🎬 Attended Northwestern Simposia for Validating Generative AI-Based Social Sciences", "link": "https://www.hci.northwestern.edu/news-events/colloquia-special-events/hci-d-ai-symposia-2026/validating-generative-ai-based-social-sciences.html"}
     - { "date": "2025-11-10", "text": "🏆 I was commended by my teaching at Princeton!", "link":"https://engineering.princeton.edu/news/2025/11/10/faculty-commended-outstanding-teaching-8"}
     - { "date": "2025-11-10", "text": "🎬 Gave a talk at Meta FAIR NYC"}
+    - { "date": "2025-11-05", "text": "🏆 Received an eBay eRUPT research award for our work on AI and e-commerce" }
     - { "date": "2025-10-18", "text": "🏆 Our paper on AI reviews got a best paper award (honorable mention) at CSCW", "link": "https://programs.sigchi.org/cscw/2025/program/content/210990"}
     - { "date": "2025-10-17", "text": "🎬 Attended Fostering Connection in Social Gaming @ Roblox"}
     - { "date": "2025-06-30", "text": "🎬 Gave a talk at UPenn's SICSS",  "link": "https://sicss.io/2025/penn/people"}
