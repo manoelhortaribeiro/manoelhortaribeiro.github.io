@@ -119,57 +119,22 @@ permalink: /
     <a  href="https://doomscrollingbabel.manoel.xyz/">«doomscrollingbabel»</a></h4>
 
     <div id="latest-posts" class="row">
-    Loading latest post...
-</div>
-</div>
-</div>
-
-<script>
-
-const feedUrl = `https://api.rss2json.com/v1/api.json?rss_url=https%3A%2F%2Fdoomscrollingbabel.manoel.xyz%2Ffeed`
-async function fetchLatestPosts() {
-  try {
-    const response = await fetch(feedUrl);
-    const data = await response.json();
-
-    // Get up to three items from the feed
-    const latestItems = (data.items || []).slice(0, 3);
-
-    if (latestItems.length > 0) {
-      const postsHTML = latestItems.map(item => {
-        // Assuming the first image in the content is the featured image
-        const imageUrlMatch = item.content.match(/<img src="([^"]+)"/);
-        const imageUrl = item.enclosure.link; // Default to empty if no image found
-
-        // Extract title and subtitle (assuming subtitle is in the description)
-        const title = item.title;
-        const subtitle = item.description || 'No Subtitle Provided';
-
-        return `
-          <div class="post col-md-4 my-4">
-            <a href="${item.link}" class="link_with_image" target="_blank">
-              <div class="post_image_wrapper">
-                ${imageUrl ? `<img src="${imageUrl}" alt="${title}" class="featured-image">` : ''}
-              </div>
-              <div class="post_meta_data">
-                <h3>${title}</h3>
-                <p><strong>${subtitle}</strong></p>
-              </div>
-            </a>
+    {% for post in site.data.substack %}
+      <div class="post col-md-4 my-4">
+        <a href="{{ post.link }}" class="link_with_image" target="_blank">
+          <div class="post_image_wrapper">
+            {% if post.image %}<img src="{{ post.image }}" alt="{{ post.title | escape }}" class="featured-image">{% endif %}
           </div>
-        `;
-      }).join('');
+          <div class="post_meta_data">
+            <h3>{{ post.title | escape }}</h3>
+            <p><strong>{{ post.subtitle | default: "No Subtitle Provided" | escape }}</strong></p>
+          </div>
+        </a>
+      </div>
+    {% else %}
+    No posts available.
+    {% endfor %}
+</div>
+</div>
+</div>
 
-      // Update HTML with the latest posts details
-      document.getElementById('latest-posts').innerHTML = postsHTML;
-    } else {
-      document.getElementById('latest-posts').textContent = 'No posts available.';
-    }
-  } catch (error) {
-    document.getElementById('latest-posts').textContent = 'Failed to load the latest posts.';
-    console.error('Error fetching the RSS feed:', error);
-  }
-}
-
-fetchLatestPosts();
-</script>
