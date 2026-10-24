@@ -1,5 +1,12 @@
 [
   {
+    "title": "AI Comes for Peer Reviewing",
+    "subtitle": "A new paper by Gary King and Steven Worthington argues that, compared to very nicely compensated human reviews, “AI-generated article reviews are now better, by every measure (they) could construct.” Their setup was fairly straightforward; they had Claude Opus 4.8 on max reasoning and a clearly AI-generated prompt asking the model to generate a comprehensive review (see",
+    "link": "https://doomscrollingbabel.manoel.xyz/p/ai-comes-for-peer-reviewing",
+    "image": "https://substack-post-media.s3.amazonaws.com/public/images/db2e8dcd-75fc-496e-8476-c1053de6593e_1536x1024.png",
+    "date": "Fri, 23 Oct 2026 20:57:08 GMT"
+  },
+  {
     "title": "Empiricism Comes for Mathematics",
     "subtitle": "Something is rotten in the state of mathematics.",
     "link": "https://doomscrollingbabel.manoel.xyz/p/empiricism-comes-for-mathematics",
@@ -12,12 +19,5 @@
     "link": "https://doomscrollingbabel.manoel.xyz/p/of-mottes-baileys-and-stochastic",
     "image": "https://substack-post-media.s3.amazonaws.com/public/images/4c6dd437-1ec2-4990-ac73-4714f0a4efa0_1672x941.png",
     "date": "Fri, 02 Oct 2026 13:52:23 GMT"
-  },
-  {
-    "title": "In Favor of (Some) Anthropomorphization of AI Systems",
-    "subtitle": "“To a first approximation, the intentional strategy consists of treating the object whose behavior you want to predict as a rational agent with beliefs and desires.”",
-    "link": "https://doomscrollingbabel.manoel.xyz/p/in-favor-of-some-anthropomorphization",
-    "image": "https://substack-post-media.s3.amazonaws.com/public/images/76e77f95-1983-4e9f-ba53-c702fbaa0bd9_834x1112.jpeg",
-    "date": "Tue, 08 Sep 2026 14:01:09 GMT"
   }
 ]
